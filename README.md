@@ -1,6 +1,7 @@
 # InstaAsli
 ## Clickbait Detector for Instagram
 
+<img src="https://github.com/tanamania5555/InstaAsli/blob/master/images/readme/ig.jpg" alt="instagram" height="225" width="1000" />
 
 ### Introduction
 Clickbait is a frequently occurring problem on every social media platform today. For each platform, clickbait is a major issue for which they spend millions of dollars to address but are not able to. We, a team of six members, took up this problem and tried to solve it for Instagram. Using already existing datasets and datasets that we manually collected, we used Machine Learning techniques to classify a post on Instagram as a clickbait and classify the user who posted that post, as a spam user, or a user whose posts tends to be a clickbait.
@@ -14,26 +15,46 @@ InstaAsli directly opens from the Instagram app on a smartphone and asks for cla
 
 ### Examples
 #### Clickbaits
-[Link]
-[Link]
+<img src="https://github.com/tanamania5555/InstaAsli/blob/master/images/readme/clickbait_1.png" alt="Clickbait1" width="500" />
+[Link](https://www.instagram.com/p/BFlbudJKWfD)
+
+<img src="https://github.com/tanamania5555/InstaAsli/blob/master/images/readme/clickbait_2.png" alt="Clickbait2" width="500" />
+[Link](https://www.instagram.com/p/3kX-oHqWVY)
+
+
 #### Non - Clickbaits
-[Link]
-[Link]
+<img src="https://github.com/tanamania5555/InstaAsli/blob/master/images/readme/nonClickbait_1.png" alt="Non Clickbait 1" width="500" />
+[Link](https://www.instagram.com/p/CAO81lNHRXP)
+
+<img src="https://github.com/tanamania5555/InstaAsli/blob/master/images/readme/nonClickbait_2.png" alt="Non Clickbait 2" width="500" />
+[Link](https://www.instagram.com/p/CALD2W5FOYV)
+
+
 #### Clickbait Posting Users
-[Link]
-[Link]
+<img src="https://github.com/tanamania5555/InstaAsli/blob/master/images/readme/user_clickbait_1.png" alt="Clickbait Posting User 1" width="500" />
+[Link](https://www.instagram.com/online24hmoney/)
+
+<img src="https://github.com/tanamania5555/InstaAsli/blob/master/images/readme/user_clickbait_2.png" alt="Clickbait Posting User 2" width="500" />
+[Link](https://www.instagram.com/faithtimothy57/)
+
+
 #### Non - Clickbait Posting Users
-[Link]
-[Link]
+<img src="https://github.com/tanamania5555/InstaAsli/blob/master/images/readme/user_nonClickbait_1.png" alt="Non Clickbait Posting User 1" width="500" />
+[Link](https://www.instagram.com/turtlesurvival/)
+
+<img src="https://github.com/tanamania5555/InstaAsli/blob/master/images/readme/user_nonClickbait_2.png" alt="Non Clickbait Posting User 2" width="500" />
+[Link](https://www.instagram.com/who/)
+
 
 ### Methodology
 The app runs Python code on the backend. This code takes the link of the post as input and classifies it into a clickbait after running two sets of classifiers for classifying the post and one set of classifiers for classifying the user of that post. We trained many classifiers but, in the end, we chose the ones which are the lightest and most accurate.
 
-The Python code uses the scikit-learn library’s classifiers that are already trained and stored in a pickle file (obtained using the pickle library of Python). It uses the libraries InstagramAPI (not official API) [Link] and instalooter [Link] to scrape information about the input post from its link and also the information about the user that posted that post. After that, the text of the image posted in the post is extracted using the library pyinstaller [Link]. The text on the image and the text in the caption are processed afterwards. Stopwords are removed, emojis are removed, links are removed, non-ASCII characters are removed and finally the punctuation is removed. After that, the classifiers are run and the final clickbait percentage is returned.
+The Python code uses the scikit-learn library’s classifiers that are already trained and stored in a pickle file (obtained using the pickle library of Python). It uses the libraries InstagramAPI (not official API) [Link](https://pypi.org/project/InstagramAPI/) and instalooter [Link](https://github.com/althonos/InstaLooter) to scrape information about the input post from its link and also the information about the user that posted that post. After that, the text of the image posted in the post is extracted using the library pyinstaller [Link](https://towardsdatascience.com/read-text-from-image-with-one-line-of-python-code-c22ede074cac). The text on the image and the text in the caption are processed afterwards. Stopwords are removed, emojis are removed, links are removed, non-ASCII characters are removed and finally the punctuation is removed. After that, the classifiers are run and the final clickbait percentage is returned.
+
 ### Analysis & Performance
 We began our analysis with the pre-existing and manually collected databases that we had.
 
-#### Database 1[Link]
+#### Database 1[Link](https://medium.com/@mike_liu/predicting-instagram-clickbait-posts-f1dba34c86cb)
 This database had the following statistics.
 
 | Train data:                   | Test data:                   | Total data:                   |
@@ -55,7 +76,14 @@ We trained an ensemble of classifiers and chose the best ones as follows:
 
 The confusion matrices of the corresponding classifiers and their ROC curves are as follows:
 
-#### Database 2 [Link]
+<img src="https://github.com/tanamania5555/InstaAsli/blob/master/images/readme/cm1_1.jpg" alt="CM1" width="300" height="300" />
+<img src="https://github.com/tanamania5555/InstaAsli/blob/master/images/readme/cm1_2.jpg" alt="CM2" width="300" height="300" />
+<img src="https://github.com/tanamania5555/InstaAsli/blob/master/images/readme/cm1_3.jpg" alt="CM3" width="300" height="300" />
+<img src="https://github.com/tanamania5555/InstaAsli/blob/master/images/readme/cm1_4.jpg" alt="CM4" width="300" height="300" />
+
+![ROC1](https://github.com/tanamania5555/InstaAsli/blob/master/images/readme/roc_1.jpg)
+
+#### Database 2 [Link](https://www.kaggle.com/free4ever1/instagram-fake-spammer-genuine-accounts)
 This database had the following statistics.
 
 | Train data:                  | Test data:                  | Total data:                  |
@@ -87,8 +115,9 @@ We trained an ensemble of classifiers and chose the best ones as follows:
 | DecisionTreeClassifier | 0.960          | 0.960          | 0.867         | 0.857         |
 | AdaBoostClassifier     | 0.964          | 0.963          | 0.900         | 0.905         |
 
-The ROC curves of the corresponding classifiers are as follows:
+The ROC curve of the corresponding classifiers is as follows:
 
+![ROC2](https://github.com/tanamania5555/InstaAsli/blob/master/images/readme/roc_2.jpg)
 
 #### Database 3 (Manually collected)
 We manually collected 1842 posts consisting of 784 (42.5%) clickbait posts and 1058 (57.5%) non-clickbait posts. We then trained an ensemble of classifiers on this database and chose the best ones as follows: (Used the whole database as training data)
@@ -103,14 +132,29 @@ We manually collected 1842 posts consisting of 784 (42.5%) clickbait posts and 1
 
 The confusion matrices of the corresponding classifiers and their ROC curves are as follows:
 
+<img src="https://github.com/tanamania5555/InstaAsli/blob/master/images/readme/cm3_1.jpg" alt="CM1" width="300" height="300" />
+<img src="https://github.com/tanamania5555/InstaAsli/blob/master/images/readme/cm3_2.jpg" alt="CM2" width="300" height="300" />
+<img src="https://github.com/tanamania5555/InstaAsli/blob/master/images/readme/cm3_3.jpg" alt="CM3" width="300" height="300" />
+<img src="https://github.com/tanamania5555/InstaAsli/blob/master/images/readme/cm3_4.jpg" alt="CM4" width="300" height="300" />
+<img src="https://github.com/tanamania5555/InstaAsli/blob/master/images/readme/cm3_5.jpg" alt="CM5" width="300" height="300" />
+
+![ROC3](https://github.com/tanamania5555/InstaAsli/blob/master/images/readme/roc_3.jpg)
+
 #### Actual Performance Analysis
-We performed an analysis of how the app actually performs using links of posts and users. We collected clickbait and non-clickbait posts on Instagram using an online tool called Phantom
- Buster [Link]. This tool also outputs the usernames, so we used those to analyse InstaAsli’s performance on classifying users who tend to post more clickbait. Using this tool we collected and ran the app on:
+We performed an analysis of how the app actually performs using links of posts and users. We collected clickbait and non-clickbait posts on Instagram using an online tool called Phantom Buster [Link](https://phantombuster.com/). This tool also outputs the usernames, so we used those to analyse InstaAsli’s performance on classifying users who tend to post more clickbait. Using this tool we collected and ran the app on:
 
 1. 869 clickbait posts on Instagram and got an accuracy of 69%.
+<img src="https://github.com/tanamania5555/InstaAsli/blob/master/analysis/plots/clickbaits.png" alt="Clickbaits Pie Chart" height="300" />
+
 2. 508 non-clickbait posts and got an accuracy of 66.3%.
+<img src="https://github.com/tanamania5555/InstaAsli/blob/master/analysis/plots/nonClickbaits.png" alt="Non Clickbaits Pie Chart" height="300" />
+
 3. 159 clickbait user profiles (extracted from the clickbait posts) and got an accuracy of 92.5%.
+<img src="https://github.com/tanamania5555/InstaAsli/blob/master/analysis/plots/clickbaitUserProfiles.png" alt="Clickbait Users Pie Chart" height="300" />
+
 4. 194 non-clickbait user profiles (extracted from the non-clickbait posts) and got an accuracy of 71.6%.
+<img src="https://github.com/tanamania5555/InstaAsli/blob/master/analysis/plots/nonClickbaitUserProfiles.png" alt="Non Clickbait Users Pie Chart" height="300" />
+
 
 ### Future Plans for Improvement
 We plan to increase the accuracy of the classifiers even more and collect even more posts to make our self-collected database bigger and train our classifiers on them to make them even more accurate. This will lead the classifiers to work more accurately on a given post.
