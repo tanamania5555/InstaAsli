@@ -107,10 +107,10 @@ The confusion matrices of the corresponding classifiers and their ROC curves are
 We performed an analysis of how the app actually performs using links of posts and users. We collected clickbait and non-clickbait posts on Instagram using an online tool called Phantom
  Buster [Link]. This tool also outputs the usernames, so we used those to analyse InstaAsli’s performance on classifying users who tend to post more clickbait. Using this tool we collected and ran the app on:
 
-[1^] 869 clickbait posts on Instagram and got an accuracy of 69%.
-[2^] 508 non-clickbait posts and got an accuracy of 66.3%.
-[3^] 159 clickbait user profiles (extracted from the clickbait posts) and got an accuracy of 92.5%.
-[4^] 194 non-clickbait user profiles (extracted from the non-clickbait posts) and got an accuracy of 71.6%.
+1. 869 clickbait posts on Instagram and got an accuracy of 69%.
+2. 508 non-clickbait posts and got an accuracy of 66.3%.
+3. 159 clickbait user profiles (extracted from the clickbait posts) and got an accuracy of 92.5%.
+4. 194 non-clickbait user profiles (extracted from the non-clickbait posts) and got an accuracy of 71.6%.
 
 ### Future Plans for Improvement
 We plan to increase the accuracy of the classifiers even more and collect even more posts to make our self-collected database bigger and train our classifiers on them to make them even more accurate. This will lead the classifiers to work more accurately on a given post.
@@ -122,27 +122,27 @@ We will add more complex Machine Learning and Natural Language Processing method
 We plan to add a link collector that collects the links put in by the users. With these links, we will also collect users' opinions on whether the posts/users are clickbait/spam or not. These links will then be combined with the database of our classifiers and the classifiers will be retrained (at the backend, the user won’t have to wait for the run to finish). This will make the app self-improving.
 
 ### References
-https://medium.com/@mike_liu/predicting-instagram-clickbait-posts-f1dba34c86cb - Clickbait Database
-https://www.kaggle.com/free4ever1/instagram-fake-spammer-genuine-accounts - Spam User Database
-https://buildmedia.readthedocs.org/media/pdf/instalooter/latest/instalooter.pdf
-https://towardsdatascience.com/read-text-from-image-with-one-line-of-python-code-c22ede074cac
-https://medium.com/@adamaulia/crawling-instagram-using-instalooter-2791edb453ff
-https://www.youtube.com/watch?v=n7Yw7VUrMxs
-https://almeta.io/en/blog/how-to-detect-clickbait-headlines-using-nlp/
-https://www.researchgate.net/publication/320241720_Machine_Learning_Based_Detection_of_Clickbait_Posts_in_Social_Media
-http://www.sscnet.ucla.edu/comm/jjoo/web/icwsm18-clickbait-instagram.pdf
-https://arxiv.org/pdf/1806.07713v1.pdf
-https://venngage.com/blog/7-reasons-why-clicking-this-title-will-prove-why-you-clicked-this-title/
-https://phantombuster.com/
-https://docs.djangoproject.com/en/3.0/
-https://pypi.org/project/InstagramAPI/
-https://developer.android.com/docs
+1. https://medium.com/@mike_liu/predicting-instagram-clickbait-posts-f1dba34c86cb - Clickbait Database
+2. https://www.kaggle.com/free4ever1/instagram-fake-spammer-genuine-accounts - Spam User Database
+3. https://buildmedia.readthedocs.org/media/pdf/instalooter/latest/instalooter.pdf
+4. https://towardsdatascience.com/read-text-from-image-with-one-line-of-python-code-c22ede074cac
+5. https://medium.com/@adamaulia/crawling-instagram-using-instalooter-2791edb453ff
+6. https://www.youtube.com/watch?v=n7Yw7VUrMxs
+7. https://almeta.io/en/blog/how-to-detect-clickbait-headlines-using-nlp/
+8. https://www.researchgate.net/publication/320241720_Machine_Learning_Based_Detection_of_Clickbait_Posts_in_Social_Media
+9. http://www.sscnet.ucla.edu/comm/jjoo/web/icwsm18-clickbait-instagram.pdf
+10. https://arxiv.org/pdf/1806.07713v1.pdf
+11. https://venngage.com/blog/7-reasons-why-clicking-this-title-will-prove-why-you-clicked-this-title/
+12. https://phantombuster.com/
+13. https://docs.djangoproject.com/en/3.0/
+14. https://pypi.org/project/InstagramAPI/
+15. https://developer.android.com/docs
 
-### This project was done as part of the course taught by Prof. Ponnurangam Kumaraguru.
+## This project was done as part of the course taught by Prof. Ponnurangam Kumaraguru.
 ### Team Members
-Abhishrut Khanna (2017006)
-Pankaj Yadav (2017074)
-Shashwat Jain (2017103)
-Tanish Jain (2017115)
-Porvil (2017304)
-Sanchit Mittal (2017312)
+1. Abhishrut Khanna (2017006)
+2. Pankaj Yadav (2017074)
+3. Shashwat Jain (2017103)
+4. Tanish Jain (2017115)
+5. Porvil (2017304)
+6. Sanchit Mittal (2017312)
