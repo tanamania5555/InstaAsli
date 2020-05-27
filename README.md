@@ -16,33 +16,41 @@ InstaAsli directly opens from the Instagram app on a smartphone and asks for cla
 ### Examples
 #### Clickbaits
 <img src="https://github.com/tanamania5555/InstaAsli/blob/master/images/readme/clickbait_1.png" alt="Clickbait1" width="500" />
+
 [Link](https://www.instagram.com/p/BFlbudJKWfD)
 
 <img src="https://github.com/tanamania5555/InstaAsli/blob/master/images/readme/clickbait_2.png" alt="Clickbait2" width="500" />
+
 [Link](https://www.instagram.com/p/3kX-oHqWVY)
 
 
 #### Non - Clickbaits
 <img src="https://github.com/tanamania5555/InstaAsli/blob/master/images/readme/nonClickbait_1.png" alt="Non Clickbait 1" width="500" />
+
 [Link](https://www.instagram.com/p/CAO81lNHRXP)
 
 <img src="https://github.com/tanamania5555/InstaAsli/blob/master/images/readme/nonClickbait_2.png" alt="Non Clickbait 2" width="500" />
+
 [Link](https://www.instagram.com/p/CALD2W5FOYV)
 
 
 #### Clickbait Posting Users
 <img src="https://github.com/tanamania5555/InstaAsli/blob/master/images/readme/user_clickbait_1.png" alt="Clickbait Posting User 1" width="500" />
+
 [Link](https://www.instagram.com/online24hmoney/)
 
 <img src="https://github.com/tanamania5555/InstaAsli/blob/master/images/readme/user_clickbait_2.png" alt="Clickbait Posting User 2" width="500" />
+
 [Link](https://www.instagram.com/faithtimothy57/)
 
 
 #### Non - Clickbait Posting Users
 <img src="https://github.com/tanamania5555/InstaAsli/blob/master/images/readme/user_nonClickbait_1.png" alt="Non Clickbait Posting User 1" width="500" />
+
 [Link](https://www.instagram.com/turtlesurvival/)
 
 <img src="https://github.com/tanamania5555/InstaAsli/blob/master/images/readme/user_nonClickbait_2.png" alt="Non Clickbait Posting User 2" width="500" />
+
 [Link](https://www.instagram.com/who/)
 
 
@@ -54,7 +62,7 @@ The Python code uses the scikit-learn library’s classifiers that are already t
 ### Analysis & Performance
 We began our analysis with the pre-existing and manually collected databases that we had.
 
-#### Database 1[Link](https://medium.com/@mike_liu/predicting-instagram-clickbait-posts-f1dba34c86cb)
+#### Database 1 [Link](https://medium.com/@mike_liu/predicting-instagram-clickbait-posts-f1dba34c86cb)
 This database had the following statistics.
 
 | Train data:                   | Test data:                   | Total data:                   |
@@ -76,10 +84,7 @@ We trained an ensemble of classifiers and chose the best ones as follows:
 
 The confusion matrices of the corresponding classifiers and their ROC curves are as follows:
 
-<img src="https://github.com/tanamania5555/InstaAsli/blob/master/images/readme/cm1_1.jpg" alt="CM1" width="300" height="300" />
-<img src="https://github.com/tanamania5555/InstaAsli/blob/master/images/readme/cm1_2.jpg" alt="CM2" width="300" height="300" />
-<img src="https://github.com/tanamania5555/InstaAsli/blob/master/images/readme/cm1_3.jpg" alt="CM3" width="300" height="300" />
-<img src="https://github.com/tanamania5555/InstaAsli/blob/master/images/readme/cm1_4.jpg" alt="CM4" width="300" height="300" />
+<img src="https://github.com/tanamania5555/InstaAsli/blob/master/images/readme/cm1_1.jpg" alt="CM1" width="300" height="300" /> <img src="https://github.com/tanamania5555/InstaAsli/blob/master/images/readme/cm1_2.jpg" alt="CM2" width="300" height="300" /> <img src="https://github.com/tanamania5555/InstaAsli/blob/master/images/readme/cm1_3.jpg" alt="CM3" width="300" height="300" /> <img src="https://github.com/tanamania5555/InstaAsli/blob/master/images/readme/cm1_4.jpg" alt="CM4" width="300" height="300" />
 
 ![ROC1](https://github.com/tanamania5555/InstaAsli/blob/master/images/readme/roc_1.jpg)
 
@@ -132,11 +137,7 @@ We manually collected 1842 posts consisting of 784 (42.5%) clickbait posts and 1
 
 The confusion matrices of the corresponding classifiers and their ROC curves are as follows:
 
-<img src="https://github.com/tanamania5555/InstaAsli/blob/master/images/readme/cm3_1.jpg" alt="CM1" width="300" height="300" />
-<img src="https://github.com/tanamania5555/InstaAsli/blob/master/images/readme/cm3_2.jpg" alt="CM2" width="300" height="300" />
-<img src="https://github.com/tanamania5555/InstaAsli/blob/master/images/readme/cm3_3.jpg" alt="CM3" width="300" height="300" />
-<img src="https://github.com/tanamania5555/InstaAsli/blob/master/images/readme/cm3_4.jpg" alt="CM4" width="300" height="300" />
-<img src="https://github.com/tanamania5555/InstaAsli/blob/master/images/readme/cm3_5.jpg" alt="CM5" width="300" height="300" />
+<img src="https://github.com/tanamania5555/InstaAsli/blob/master/images/readme/cm3_1.jpg" alt="CM1" width="300" height="300" /> <img src="https://github.com/tanamania5555/InstaAsli/blob/master/images/readme/cm3_2.jpg" alt="CM2" width="300" height="300" /> <img src="https://github.com/tanamania5555/InstaAsli/blob/master/images/readme/cm3_3.jpg" alt="CM3" width="300" height="300" /> <img src="https://github.com/tanamania5555/InstaAsli/blob/master/images/readme/cm3_4.jpg" alt="CM4" width="300" height="300" /> <img src="https://github.com/tanamania5555/InstaAsli/blob/master/images/readme/cm3_5.jpg" alt="CM5" width="300" height="300" />
 
 ![ROC3](https://github.com/tanamania5555/InstaAsli/blob/master/images/readme/roc_3.jpg)
 
