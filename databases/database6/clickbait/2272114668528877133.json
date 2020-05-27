@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/91025142_101429841480596_4219711358833161499_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=mEDGn7uVvWQAX_vNQy6&oh=e590015b560a65518680f0041666d01d&oe=5EA3E4BA",
+    "edge_liked_by": {
+        "count": 106
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Another one sent by @megan.annmarie \n#cov\u0131d19 #covid_19 #corona #mcmeme#McDonaldsmeme#mcdonalds#dankmemes#funnymemes#memesdaily#mcdonaldscanada#bigmac#hamburger#burger#employee#customerserviceproblems#aripods#freeairpods#giveaway#hashbrowns#hashbrown#wegotfoodathome#fastfoodmemes#pickles"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 1
+    },
+    "id": "2272114668528877133",
+    "is_video": false,
+    "owner": {
+        "id": "3256245329"
+    },
+    "shortcode": "B-ILEC6nj5N",
+    "taken_at_timestamp": 1585077197,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/91025142_101429841480596_4219711358833161499_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=mEDGn7uVvWQAX_vNQy6&oh=391430c9961f11451f34c6fb7f001346&oe=5EA6850F"
+}

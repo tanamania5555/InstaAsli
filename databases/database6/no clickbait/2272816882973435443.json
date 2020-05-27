@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 801,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/91236385_533876393926698_4493790075999974057_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=-IIXKLJiLJYAX-6l4wR&oh=77efefa441ed08f48ad8857ee5f6605e&oe=5EA368CD",
+    "edge_liked_by": {
+        "count": 86
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "#Repost @rohitdhamadesigns\n\u30fb\u30fb\u30fb #concept #conceptart #beach #goodvibes #artwork #lifeofadesigner #quarantine #chill #design #awesome #pixologic #adobe #workfromhome #wacom #wacomindia #ZBrush #chilling #ZBrushAtHome #vacationvibes #goodvibes #art #beers #illustration #photoshop #3d #illustration #conceptualart #skeleton #beer #instagood #socialdistancing"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272816882973435443",
+    "is_video": false,
+    "owner": {
+        "id": "1284722312"
+    },
+    "shortcode": "B-KqunFJGYz",
+    "taken_at_timestamp": 1585160907,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c186.0.1068.1068a/s640x640/91236385_533876393926698_4493790075999974057_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=-IIXKLJiLJYAX-6l4wR&oh=4f20ebe2d5498edee61b1a514cc938b9&oe=5EA3C421"
+}

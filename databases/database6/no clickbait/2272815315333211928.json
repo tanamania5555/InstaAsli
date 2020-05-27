@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 717,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/90704772_1404954589684257_1528475766337684396_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=KcQLmUNymn4AX9MnVEC&oh=55081d81fdf8fb4f0a43490c5facc2fc&oe=5EA5E60E",
+    "edge_liked_by": {
+        "count": 5
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "#allyouneed is #coconuts \ud83e\udd65\ud83e\udd65\ud83d\ude0f\nDetail \n#goingnuts #acryliconcanvas #art #painting #female #artist #femalebody #beachbody #artworld #artportfolio #artstudio #artpractice #artlondon #nude #nonude #contemporaryartist #contemporarypainting #contemporaryart #artoftheday #arttoday #travel #beach #women #bodies #lithuanianart #lithuanian #instatravel #instaart"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272815315333211928",
+    "is_video": false,
+    "owner": {
+        "id": "435072422"
+    },
+    "shortcode": "B-KqXzGgOcY",
+    "taken_at_timestamp": 1585160720,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c181.0.717.717a/s640x640/90704772_1404954589684257_1528475766337684396_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=KcQLmUNymn4AX9MnVEC&oh=a5bcdb3e3cecca85f75bfbf5fa6f0446&oe=5EA6D31F"
+}

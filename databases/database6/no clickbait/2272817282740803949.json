@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/90997709_2537208066535711_7058654664027039255_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=107&_nc_ohc=3b3OBhnmbJoAX_6jQI5&oh=5721e4e773f6a806895cb241b00b074a&oe=5EA5AB06",
+    "edge_liked_by": {
+        "count": 1
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Vor 5 Monaten \n#memoiren #Cuba\ud83c\udde8\ud83c\uddfa #Havanna #sundowner #strand #Strand #sunset #beach #sonnenuntergang #Kuba #kuba #Sonne #cuba\ud83c\udde8\ud83c\uddfa #Sonnenuntergang #Urlaub\n#cubareal #trip #Kuba\ud83c\udde8\ud83c\uddfa #\ud83c\udde8\ud83c\uddfa #Rundreise"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272817282740803949",
+    "is_video": false,
+    "owner": {
+        "id": "12661801786"
+    },
+    "shortcode": "B-Kq0bZIllt",
+    "taken_at_timestamp": 1585160955,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/90997709_2537208066535711_7058654664027039255_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=107&_nc_ohc=3b3OBhnmbJoAX_6jQI5&oh=5052d269f7689a1ca5be233c42487ed6&oe=5EA5B640"
+}

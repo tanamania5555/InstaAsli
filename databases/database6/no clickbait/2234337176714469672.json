@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 810,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/83632647_188833178896679_838700644683693723_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=1HuqVvVO46EAX_V98oD&oh=ce5eb29ea2fcdfd4efd6031a28da81b1&oe=5EA5B698",
+    "edge_liked_by": {
+        "count": 47
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "@ The Raviz Kovalam  #raviz #ravizkovalam #kovalam #kovalambeach #trivandrum #kerala #keralatourism #spacepark #spacetechnologyconclave #beachfacing @theravizkovalam"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2234337176714469672",
+    "is_video": false,
+    "owner": {
+        "id": "2258295729"
+    },
+    "shortcode": "B8B9dL-g-Eo",
+    "taken_at_timestamp": 1580573769,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c135.0.810.810a/s640x640/83632647_188833178896679_838700644683693723_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=1HuqVvVO46EAX_V98oD&oh=53b7ce8648a58d20edae8f387b842950&oe=5EA70234"
+}

@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 428,
+        "width": 750
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/83868806_2848144851873916_1509116397346489704_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=h9u9Pe9lvL4AX9-apaM&oh=28688e3b0ba1233879704e088feb3599&oe=5EA6DDFC",
+    "edge_liked_by": {
+        "count": 93
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "https://bit.ly/2OabJfn\n\nThe heady spice aromas & the tantalizing flavors of Kerala cuisine is what makes this state every food lover\u2019s paradise. From Mappila community fare, to elaborate sadyas to lip-smacking Syrian Christian dishes to a steady supply of seafood delights, Kerala has a multitude of both vegetarian & non vegetarian options. Raviz Group of hotels in Kerala offers authentic Kerala specialties prepared the traditional way along with continental fare.\n\n#KeralaTourism #Kerala #LuxuryResort #Raviz #TheRaviz #TravelDestinations #Luxury #GodsOwnCountry #DestinationKerala #Destinations #ResortsinKerala #Travel #Wanderlust #RavizKadavu #Kadavu #RavizCalicut #RavizAshtamudi"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2232531880620446022",
+    "is_video": false,
+    "owner": {
+        "id": "2137015239"
+    },
+    "shortcode": "B77i-q-HdFG",
+    "taken_at_timestamp": 1580358561,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/c150.0.400.400a/83868806_2848144851873916_1509116397346489704_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=h9u9Pe9lvL4AX9-apaM&oh=b78f351aa70a616cd4683e1b053f919c&oe=5EA350DA"
+}

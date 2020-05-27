@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 750,
+        "width": 750
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/75231141_1048465775491335_8678114019082023604_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=2n7T4zOjuq0AX-fAEwv&oh=66ad77c6dbd0a4bd178daeb34b6e30fb&oe=5EA71A2E",
+    "edge_liked_by": {
+        "count": 29
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "A vacation experience akin to a fairy tale. All the 4 suites at the Kovalam Palace includes a personal butler, luxury limousine airport transfer, curated in suite breakfast, traditional evening tea, a private cultural performance, personal yoga sessions and much more!\n\nFor bookings contact: 0471 \u2013 3051234, 1800-4252-2220\nmail: reservations.kovalam@theraviz.com, reservations@theraviz.com\n\n#Raviz #TheRaviz #RavizKovalam #TheRavizKovalam #Kovalam #Kerala #Tourism #KeralaTourism #LuxuryResorts #Resorts  #Destinations #TripAdvisor #CondeNastTraveller #TravelandLeisure #LonelyPlanet #WeekendGetaway  #KovalamPalace #RoyalLife #CliffTop"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2191979839943523304",
+    "is_video": false,
+    "owner": {
+        "id": "13829535608"
+    },
+    "shortcode": "B5reg0Cprvo",
+    "taken_at_timestamp": 1575524381,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/75231141_1048465775491335_8678114019082023604_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=2n7T4zOjuq0AX-fAEwv&oh=b3024f4f812a6413c4b794133d979425&oe=5EA5D518"
+}

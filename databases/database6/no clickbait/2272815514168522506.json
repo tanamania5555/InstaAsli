@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 422,
+        "width": 750
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/91091275_211990423451800_6687029445923161082_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=07EHXWwKkDUAX_mY9jO&oh=4fb9668d2fa409f8fcffe564577da894&oe=5EA3E7E6",
+    "edge_liked_by": {
+        "count": 120
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Plenitude e paz. \u2764\ufe0f\n.\n#Xuxa #linda #praia #sol #beach #sun #fun #happy #moments #style #fashion #photography #xuxameneghel neghel"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 4
+    },
+    "id": "2272815514168522506",
+    "is_video": false,
+    "owner": {
+        "id": "3052549744"
+    },
+    "shortcode": "B-KqasSAvcK",
+    "taken_at_timestamp": 1585160744,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/c161.0.416.416a/91091275_211990423451800_6687029445923161082_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=07EHXWwKkDUAX_mY9jO&oh=208924614f9016210a2b1d376b4f0d04&oe=5EA4FD51"
+}

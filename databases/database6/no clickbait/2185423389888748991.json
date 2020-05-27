@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/75280956_102589827838347_1234012216720655221_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=_cvsovojDyYAX9HIksL&oh=0c3b2209152ffc9d3d85bfa6b4907b6c&oe=5EA3AAFA",
+    "edge_liked_by": {
+        "count": 39
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "The cliff-top Beach View Superior Rooms at The Raviz Kovalam have private sundecks that opens out to spectacular views of the Kovalam shoreline. Decked up in the architectural style of the land, these rooms are equipped with modern amenities like mini bar, posturepedic beds and walk-in wardrobes.\n\nFor bookings contact: 0471 \u2013 3051234, 1800-4252-2220\nmail: reservations.kovalam@theraviz.com, reservations@theraviz.com\n\n#Raviz #TheRaviz #RavizKovalam #TheRavizKovalam #Kovalam #Kerala #Tourism #KeralaTourism #LuxuryResorts #Resorts #WanderLust #Destinations #TripAdvisor #CondeNastTraveller #TravelandLeisure #LonelyPlanet #WeekendGetaway #Package"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2185423389888748991",
+    "is_video": false,
+    "owner": {
+        "id": "13829535608"
+    },
+    "shortcode": "B5ULv6GJh2_",
+    "taken_at_timestamp": 1574742791,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/75280956_102589827838347_1234012216720655221_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=_cvsovojDyYAX9HIksL&oh=b3a673a307a4b754f709181844b1d539&oe=5EA69E1D"
+}

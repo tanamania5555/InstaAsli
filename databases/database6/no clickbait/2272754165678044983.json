@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 750,
+        "width": 750
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/90479973_657268861702854_6423196915099887145_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=-Py7tcK6AWcAX-RC9xI&oh=afcb4348dda728d58f19c87d00e1d03a&oe=5EA44E2F",
+    "edge_liked_by": {
+        "count": 4
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "#\u0442\u0430\u0434\u0436\u0438\u043a\u0438\u0441\u0442\u0430\u043d #\u0434\u0443\u0431\u0430\u0439 #\u0434\u0443\u0448\u0430\u043d\u0431\u0435 #\u0434\u0430\u043d\u0433\u0430\u0440\u0430 #\u0445\u0443\u0434\u0436\u0430\u043d\u0434 #\u043a\u0443\u043b\u044f\u0431 #\u043a\u0430\u043d\u0438\u0431\u0430\u0434\u0430\u043c #\u0441\u0430\u043c\u0430\u0440\u043a\u0430\u043d\u0434 #\u043c\u0430\u0436\u043e\u0440\u043a\u0430 #\u0442\u0430\u0434\u0436\u0438\u043a\u0438\u0441\u0442\u0430\u043d\ud83c\uddf9\ud83c\uddef #\u0442\u0430\u0434\u0436\u0438\u0447\u043a\u0430 #\u0442\u0430\u0434\u0436\u0438\u043a\u0438\u0441\u0442\u043e\u043d #\u0432\u0438\u0434\u0435\u043e\u043f\u0440\u0438\u043a\u043e\u043b\u044b #\u0433\u0440\u0443\u0441\u0442\u044c #\u0433\u0430\u0440\u043c #\u0432\u0430\u0445\u0434\u0430\u0442 #tjk #tajikistan #tajikistan\ud83c\uddf9\ud83c\uddef #tajikgirl #tajik #tajmahal #video #grust_gr #hujand #hudabeauty #starwars #mazhor #dushanbe #dushanbecity"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272754165678044983",
+    "is_video": false,
+    "owner": {
+        "id": "7776962007"
+    },
+    "shortcode": "B-Kcd9DB3c3",
+    "taken_at_timestamp": 1585153431,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/90479973_657268861702854_6423196915099887145_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=-Py7tcK6AWcAX-RC9xI&oh=45d919cc8a71a177159cd9f8a2760462&oe=5EA5A1CC"
+}

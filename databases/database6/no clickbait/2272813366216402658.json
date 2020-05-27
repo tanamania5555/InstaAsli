@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1141,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/90972368_351000075833401_7415370401334710747_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=fWqFX32S-KoAX8v6Z34&oh=6c04c1594756ba68903556f602ffa860&oe=5EA6BA13",
+    "edge_liked_by": {
+        "count": 93
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "To some, it\u2019s just water.  To me, it\u2019s where I regain my sanity\u2665\ufe0f......Already missing this place.\n\n#ocean#beach#blue#surf#surfing#bikini#cottonon#blessed#summer#smile#missing#instagood#instalike"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 3
+    },
+    "id": "2272813366216402658",
+    "is_video": false,
+    "owner": {
+        "id": "1291163266"
+    },
+    "shortcode": "B-Kp7b2Fqbi",
+    "taken_at_timestamp": 1585160488,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.38.1353.1353a/s640x640/90972368_351000075833401_7415370401334710747_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=fWqFX32S-KoAX8v6Z34&oh=fb6fa881ebdb304c96c44b0fa845b457&oe=5EA4C5E0"
+}

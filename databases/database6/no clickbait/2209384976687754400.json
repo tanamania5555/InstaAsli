@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 672,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/78765128_122811059203512_6170004813504893135_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=olB7MEl6EngAX9yANzF&oh=5269d464bddb2fa37cdf75a829015167&oe=5EA60103",
+    "edge_liked_by": {
+        "count": 23
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "#bijubhaskarphotos #nature #naturelover #kovalam #view #raviz #sea#side #travelling #click"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2209384976687754400",
+    "is_video": false,
+    "owner": {
+        "id": "4071464764"
+    },
+    "shortcode": "B6pT-4zjuyg",
+    "taken_at_timestamp": 1577599235,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c204.0.672.672a/s640x640/78765128_122811059203512_6170004813504893135_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=olB7MEl6EngAX9yANzF&oh=edf3aee98f01fc5b1eb75371b331da41&oe=5EA623C4"
+}

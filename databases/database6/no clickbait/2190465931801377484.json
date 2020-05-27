@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/72274937_161407558290230_3480760467841058825_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=Ru6zPNKCZLgAX-g-TNE&oh=90d5fe9656e4c0bb2ec33f9ebb70307c&oe=5EA623BC",
+    "edge_liked_by": {
+        "count": 123
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "High on A 2 protein and truly desi, the Gir cow\u2019s milk has a touch of magic to it. It boosts up your immune system in addition to being a rich source of calcium to strengthen your bones. Like every other quality products that we use for our guests' at The Raviz Ashtamudi, the milk from our farm is the best kind as well.\n\n#LuxuryResorts #KeralaTourism #Kerala #LuxuryResort #Raviz #TheRaviz #TravelDestinations #Luxury #GodsOwnCountry #DestinationKerala #Destinations #ResortsinKerala #Travel #WanderLust #RavizAshtamudi #Ashtamudi"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 1
+    },
+    "id": "2190465931801377484",
+    "is_video": false,
+    "owner": {
+        "id": "2137015239"
+    },
+    "shortcode": "B5mGSjNnbrM",
+    "taken_at_timestamp": 1575343909,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/72274937_161407558290230_3480760467841058825_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=Ru6zPNKCZLgAX-g-TNE&oh=69ebcd2d19f82ff0e1cf9d92a63171f1&oe=5EA4265F"
+}

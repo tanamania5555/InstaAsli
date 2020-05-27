@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 750,
+        "width": 750
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/21878861_117323708949669_6093582209518665728_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=HFn3m0lJTRAAX84Dgn-&oh=05d13dd107331368e40c79a771b6ed53&oe=5EA716E8",
+    "edge_liked_by": {
+        "count": 18
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "#repost \nGIVE AWAY IPHONE PLUS.\nRULES:\n\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\n1.wajib follow akun kami @giveaway_iphoneoriginal (tidak follow,\ntidak masuk daftar)\n2.post salah satu foto kami\nLalu tag kami dan( tag 10 teman kamu di komen )\n3.Hanya untuk 100 followers pertama akan berkesempatan memenangkan giveaway ini\n4.Jika sudah comen \"trusted\"\n5.NO DM\n6.Tag temen kamu sebanyaknya.\n#giveaway #giveawayiphone #giveawayiphone6#iphone6gratis #iphone6s #hadiahiphone#giveawayiphone7#giveawayiphone5s#giveawayiphone7plus#giveawaywatch#followmy#I#murah#gatisiphone#freeiphone#gratisongkir#gratisongkirtokopedia#gratis#freeiwatch#murah banget#giveawayindo#giveawayindonesia"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 2
+    },
+    "id": "1608627103732854464",
+    "is_video": false,
+    "owner": {
+        "id": "4707287865"
+    },
+    "shortcode": "BZS_dP2D-7A",
+    "taken_at_timestamp": 1505983315,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/21878861_117323708949669_6093582209518665728_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=HFn3m0lJTRAAX84Dgn-&oh=e3e69cec4b66dd7a6ca908283ef06a62&oe=5EA53703"
+}

@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1293,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/90519960_204309244185512_5886923356570760332_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=dnZLcV-BpLMAX-JcAtY&oh=29cd88eeb4e2ad029eae358f54d2ea06&oe=5EA637FC",
+    "edge_liked_by": {
+        "count": 0
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Avant. Toutes mes pens\u00e9es vont aux Mauriciens qui sont d\u00e9sormais confin\u00e9s eux aussi. Enferm\u00e9s au paradis avec interdiction de profiter de la plus belle vue du monde...\n#avant #before #insouciance #liberte #freedom #confinement  #maurice #mauritius #visitmauritius #travel #travelling #traveller #beautiful #beautifuldestinations #beautifulplanet #theresidence #directours #bellemare #chilling #bronzer #enjoy #plage #beach #paradise #paradis"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272818376227716049",
+    "is_video": false,
+    "owner": {
+        "id": "4232856871"
+    },
+    "shortcode": "B-KrEVyCHvR",
+    "taken_at_timestamp": 1585161085,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.106.1080.1080a/s640x640/90519960_204309244185512_5886923356570760332_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=dnZLcV-BpLMAX-JcAtY&oh=2c54f69980f39d2a56ed459209eab110&oe=5EA67E5A"
+}

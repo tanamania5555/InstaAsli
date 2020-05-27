@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/81989969_3617617848309771_5477389953703871316_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=TdG4Wa99AmEAX-lGv1P&oh=b884e740df6f33271cff7939f6fde5a4&oe=5EA48BB5",
+    "edge_liked_by": {
+        "count": 35
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "You deserve some pampering of mind, body & soul and the right place for rejuvenating the senses is at our Wellness Spa in Raviz Calicut. Return refreshed and renewed!\n\n#KeralaTourism #Kerala #LuxuryResort #Raviz #TheRaviz #TravelDestinations #Luxury #GodsOwnCountry #DestinationKerala #Destinations #ResortsInKerala #Travel #Wanderlust #Calicut #RavizCalicut"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2226059786558833602",
+    "is_video": false,
+    "owner": {
+        "id": "2137015239"
+    },
+    "shortcode": "B7kjZTqnwPC",
+    "taken_at_timestamp": 1579587027,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/81989969_3617617848309771_5477389953703871316_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=TdG4Wa99AmEAX-lGv1P&oh=c769cca9f975a5a84d4f0729b9b0e528&oe=5EA49F0F"
+}

@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 565,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/90431920_3285307378154368_3836052574274768612_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=AJx8rg-MbvAAX_PXyxj&oh=c375f8d84318e9e57f4c6330ac869441&oe=5EA57734",
+    "edge_liked_by": {
+        "count": 3
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Palm trees, ocean breeze and clear skies. \n@hiking.southafrica @instagram_sa @secretsouthafrica @durban @dbntourism @cityofdurban @kzntourism @durban.surfing #southafrica #beach #ocean #ballito #durban #kzn #travel #travelphotography"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272815254844243597",
+    "is_video": false,
+    "owner": {
+        "id": "32277832494"
+    },
+    "shortcode": "B-KqW6xFH6N",
+    "taken_at_timestamp": 1585160713,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/c257.0.565.565a/90431920_3285307378154368_3836052574274768612_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=AJx8rg-MbvAAX_PXyxj&oh=bea29a04c62742aa4b5cf60a5f3a7cab&oe=5EA431F7"
+}

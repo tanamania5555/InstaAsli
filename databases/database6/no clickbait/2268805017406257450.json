@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/90089545_172806134177932_3750743769459283531_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=Nlgbp2kf09UAX-MmT56&oh=44621cc6dd5276b8c130d29ae6ac4992&oe=5EA479AC",
+    "edge_liked_by": {
+        "count": 61
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "All you need to feel great is catching up with friends over a well-brewed cuppa. Cafe Mavoor at The Raviz Calicut is the first five-star cafe in the city serving the best continental delicacies, refreshing beverages, delicious pastries, and short eats. \n#LuxuryResorts #KeralaTourism #Kerala #LuxuryResort #Raviz #TheRaviz #TravelDestinations #Luxury #GodsOwnCountry #DestinationKerala #Destinations #ResortsinKerala #Travel #Wanderlust #RavizCalicut #Calicut"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2268805017406257450",
+    "is_video": false,
+    "owner": {
+        "id": "2137015239"
+    },
+    "shortcode": "B98aiSHH7kq",
+    "taken_at_timestamp": 1584682655,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/90089545_172806134177932_3750743769459283531_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=Nlgbp2kf09UAX-MmT56&oh=ac939ff3c51b3047d8a0d59379f49550&oe=5EA347CF"
+}

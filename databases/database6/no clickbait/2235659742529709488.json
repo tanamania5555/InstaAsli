@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/84024511_472926473385133_4834524877901599956_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=ASHH_sUNLcEAX8Y3dzU&oh=ca8987ca6175628fd198d307a5a9d3d3&oe=5EA4FC92",
+    "edge_liked_by": {
+        "count": 71
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "The Panchakarma therapies at Favourite Kerala Ayurveda & Spa helps in the elimination of disease causing factors. The Ayurvedic wellness treatment involves daily massages and oil baths, herbal enemas and nasal administrations.\n.\n.\n.\n#LuxuryResorts #KeralaTourism #Kerala #LuxuryResort #Raviz #TheRaviz #TravelDestinations #Luxury #GodsOwnCountry #DestinationKerala #Destinations #ResortsinKerala #Travel #Wanderlust #Ayurveda #KeralaAyurveda #FavouriteKerala #EverydayAyurveda"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2235659742529709488",
+    "is_video": false,
+    "owner": {
+        "id": "2137015239"
+    },
+    "shortcode": "B8GqLDYH-Ww",
+    "taken_at_timestamp": 1580731431,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/84024511_472926473385133_4834524877901599956_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=ASHH_sUNLcEAX8Y3dzU&oh=2cb726b0e92dac8122093b28667370c1&oe=5EA6A7F5"
+}

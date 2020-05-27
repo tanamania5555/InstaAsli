@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 810,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/fr/e15/s1080x1080/83554429_203573844123805_6705943532966443081_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=EtD53hNHeSAAX-b-ZJR&oh=50b8d1707133d2f48daf18c8047d2378&oe=5EA5AB99",
+    "edge_liked_by": {
+        "count": 127
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "An entrance that inspires you to strike a regal pose! The Raviz Ashtamudi is truly & deeply in love with being true to our vibrant culture and this is an integral part of everything we do at our resort from decor, service, dining to experiential holidaying.\n\nFor more details contact: Landline: +91 474 2751111 | Toll-Free: 1800 4252 2220 |Email: reservations.ashtamudi@theraviz.com | Visit: ww.theraviz.com\n\n#LuxuryResorts #KeralaTourism #Kerala #LuxuryResort #Raviz #TheRaviz #TravelDestinations #Luxury #GodsOwnCountry #DestinationKerala #Destinations #ResortsinKerala #Travel #Wanderlust #RavizAshtamudi #Ashtamudi"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2238339211008818384",
+    "is_video": false,
+    "owner": {
+        "id": "2137015239"
+    },
+    "shortcode": "B8QLac3AjzQ",
+    "taken_at_timestamp": 1581050848,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e15/c135.0.810.810a/s640x640/83554429_203573844123805_6705943532966443081_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=EtD53hNHeSAAX-b-ZJR&oh=34656b0eec000cb4edb6c2a3cadb803f&oe=5EA56219"
+}

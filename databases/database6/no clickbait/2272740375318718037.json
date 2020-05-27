@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 835,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/90672695_147484683407603_6313606512372807271_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=G7adkKl-HwkAX9nOY75&oh=a0b774bd464b0fa1d1ddcce1073e4d57&oe=5EA722B2",
+    "edge_liked_by": {
+        "count": 40
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Princess Diana Alone infront of Taj Mahal  #diana #tajmahal"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 3
+    },
+    "id": "2272740375318718037",
+    "is_video": false,
+    "owner": {
+        "id": "5045085714"
+    },
+    "shortcode": "B-KZVRxj2ZV",
+    "taken_at_timestamp": 1585151787,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c102.0.696.696a/s640x640/90672695_147484683407603_6313606512372807271_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=G7adkKl-HwkAX9nOY75&oh=96d2cb831a0638cc1fe4a4ab0928ab68&oe=5EA71927"
+}

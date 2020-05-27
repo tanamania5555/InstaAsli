@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1350,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/74665223_436940490334541_3028419085157236445_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=105&_nc_ohc=R3KLuoML8fMAX8INamH&oh=4ce41878edab3449c8f78c301383a2c9&oe=5EA36CA2",
+    "edge_liked_by": {
+        "count": 439
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "The best way to experience the culture & the myriad flavours of Kerala in a single meal is to opt for a traditional style Thali. Consider your travel to Kerala complete, only after you have sat down to gorge on an elaborate and hearty, Royal Travancore Thali served by The Raviz!\n\nhttps://bit.ly/2RJfs6f\n\nFor more details contact:\nLandline:+91 471 255 8055| Toll-Free: 1800 4252 2220 |Email: reservations@theraviz.com | Visit: www.theraviz.com\n\n#KeralaTourism #Kerala #LuxuryResort #Raviz #TheRaviz #TravelDestinations #Luxury #GodsOwnCountry #DestinationKerala #Destinations #ResortsInKerala #Travel #Wanderlust #RoyalTravancoreThali #TravancoreFood"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2197195638295007786",
+    "is_video": false,
+    "owner": {
+        "id": "2137015239"
+    },
+    "shortcode": "B5-AcqynJIq",
+    "taken_at_timestamp": 1576146152,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.120.960.960a/s640x640/74665223_436940490334541_3028419085157236445_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=105&_nc_ohc=R3KLuoML8fMAX8INamH&oh=c81c2f85c5752bf4abc1e707385a7567&oe=5EA4FFE7"
+}

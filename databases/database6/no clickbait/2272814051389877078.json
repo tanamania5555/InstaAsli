@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 876,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/fr/e15/s1080x1080/91351289_2604156373027783_4207865957805005649_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=107&_nc_ohc=zchz0l99pxAAX_fNXJH&oh=d3adb7cd51a00f70d8e18ac1eec56027&oe=5EA5EC05",
+    "edge_liked_by": {
+        "count": 8
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Quiet morning\n20 x 16 oil\n#morning  #clouds #ocean #sea #seascape  #oilpainting  #beach #oceanview  #art #artist  #artistsoninstagram  #artwork  #postimpressionism \n#impressionism  #sky #newyorkcity  #newyork  #peapackgladstone"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 2
+    },
+    "id": "2272814051389877078",
+    "is_video": false,
+    "owner": {
+        "id": "4394625200"
+    },
+    "shortcode": "B-KqFZ9nCtW",
+    "taken_at_timestamp": 1585160570,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e15/c102.0.876.876a/s640x640/91351289_2604156373027783_4207865957805005649_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=107&_nc_ohc=zchz0l99pxAAX_fNXJH&oh=8829d5240d84b91dba1b410946b8b4da&oe=5EA3592D"
+}

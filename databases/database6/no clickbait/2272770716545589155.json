@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/90435633_155402065930822_7988485740037335965_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=110&_nc_ohc=Sn9srWdMa-IAX9Le8JE&oh=3699610c9be0a263fbb9bb7fbe80c3c0&oe=5EA516EB",
+    "edge_liked_by": {
+        "count": 4
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "El Taj Mahal, una de las obras arquitect\u00f3nicas m\u00e1s ambiciosas y majestuosas de todos los tiempo encierra una historia de amor.\n\nIngresa a este Tour Virtual en esta cuarentena desde este link https://artsandculture.google.com/streetview/taj-mahal/UwGKcX7FFM5U4g?sv_lng=78.04199578168942&sv_lat=27.17376226664116&sv_h=-4.637142971478669&sv_p=7.837661831284464&sv_pid=vQAmRxAVGgXXQmPcT8d0cQ&sv_z=0.11175755532914655\n\n#tajmahal #cuarentena #pasto #nari\u00f1o #surdecolombia"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272770716545589155",
+    "is_video": false,
+    "owner": {
+        "id": "643587921"
+    },
+    "shortcode": "B-KgOzPnB-j",
+    "taken_at_timestamp": 1585155404,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/90435633_155402065930822_7988485740037335965_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=110&_nc_ohc=Sn9srWdMa-IAX9Le8JE&oh=386e3d2c911c018e31812d9b5c1e0580&oe=5EA45910"
+}

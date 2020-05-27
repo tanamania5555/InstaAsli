@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1350,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/90861772_2539686086349085_367651124249571763_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=UtenqcQMA-AAX-1foXD&oh=637ecacb8267e71e401e6d2ab5a4782f&oe=5EA44EC5",
+    "edge_liked_by": {
+        "count": 3
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Camminate piano \ud83d\udc99\nRespirate profondamente \ud83d\udc99\nFate del bene \ud83d\udc99\n#finoadomani  #riflessioni #thinkpositive #nuovomondo #camminatepiano #respirateprofondamente #fatedelbene #quarantena #lanaturaringrazia #mylife #mylifestyle #sheiswheretheoceanis #kenya #africa #watamu #malindi #kilifi #beach #watamukenya #watamubeach #torneremoaviaggiare #bepositive #staystrong #simbawakale #simbawakalebeach #simbawakaleresort"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272814228824366029",
+    "is_video": false,
+    "owner": {
+        "id": "16939074387"
+    },
+    "shortcode": "B-KqH_Nh5vN",
+    "taken_at_timestamp": 1585160591,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.180.1440.1440a/s640x640/90861772_2539686086349085_367651124249571763_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=UtenqcQMA-AAX-1foXD&oh=de0128844feb8cb3c121d1b12d37cc60&oe=5EA570D8"
+}

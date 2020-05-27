@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/89737833_107043254254641_8650478977580132302_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=YQG9nPU_qSoAX8YAaj9&oh=764b4facaef94bc15f2d917329d68215&oe=5EA57A10",
+    "edge_liked_by": {
+        "count": 78
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Once the capital of the powerful Zamorins, Calicut is known for its Malabari culinary feasts, warm & welcoming hospitality, literary contributions, beautiful beaches, places of worship, enthralling history and of course for The Raviz Calicut!\n\n#LuxuryResorts #KeralaTourism #Kerala #LuxuryResort #Raviz #TheRaviz #TravelDestinations #Luxury #GodsOwnCountry #DestinationKerala #Destinations #ResortsinKerala #Travel #Wanderlust #RavizCalicut #Calicut"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2263688780221111750",
+    "is_video": false,
+    "owner": {
+        "id": "2137015239"
+    },
+    "shortcode": "B9qPPO7Hd3G",
+    "taken_at_timestamp": 1584072752,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/89737833_107043254254641_8650478977580132302_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=YQG9nPU_qSoAX8YAaj9&oh=7c7da0ab75dd61d4ce53f1255fc76854&oe=5EA5DCEB"
+}

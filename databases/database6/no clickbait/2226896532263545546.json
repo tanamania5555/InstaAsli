@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 500,
+        "width": 750
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/80899710_510618179562721_2453487994666604812_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=EW-569knDEIAX8boomz&oh=c1ddb60e93e6300f499f6f1a1467df3d&oe=5EA35B21",
+    "edge_liked_by": {
+        "count": 63
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "https://bit.ly/3axUUV4\n\nKerala is the only state in the country where Ayurveda is part of the mainstream treatment and not just an alternative form of therapy. Our state\u2019s climate is instrumental as well in the abundant growth of indigenous Ayurvedic herbs making it a truly holistic destination. The Raviz chain of resorts offers its esteemed guests authentic Ayurvedic rejuvenation treatments keeping the rich legacy of the life science intact.\n\n#KeralaTourism #Kerala #LuxuryResort #Raviz #TheRaviz #TravelDestinations #Luxury #GodsOwnCountry #DestinationKerala #Destinations #ResortsinKerala #Travel #WanderLust #RavizKadavu #Kadavu #RavizCalicut #RavizAshtamudi #Ayurveda #AyurvedaRejuvenation #AyurvedaTreatment"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2226896532263545546",
+    "is_video": false,
+    "owner": {
+        "id": "2137015239"
+    },
+    "shortcode": "B7nhpj1HirK",
+    "taken_at_timestamp": 1579686775,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/c116.0.467.467a/80899710_510618179562721_2453487994666604812_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=EW-569knDEIAX8boomz&oh=6a81f6724d8a788ba135b273f18a646f&oe=5EA6BCB7"
+}

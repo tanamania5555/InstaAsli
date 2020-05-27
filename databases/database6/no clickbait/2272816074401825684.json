@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/90516574_503315357017605_5451864021783624204_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=JTqiA8pPPW0AX9Cuaqv&oh=feb4692a52d56abc7ad9dd36081f3b51&oe=5EA69E96",
+    "edge_liked_by": {
+        "count": 1
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Warming sun\n\n#sea #waves #sunshine #carolineivarssonphotography #beach #bestofystad #sweden_photolovers #visitsk\u00e5nesydost #horizon #ig_worldclub #ig_europa #igworldclub_sky #ig_magical_nature #naturephotography #mylife"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272816074401825684",
+    "is_video": false,
+    "owner": {
+        "id": "1622400373"
+    },
+    "shortcode": "B-Kqi2ChMOU",
+    "taken_at_timestamp": 1585160811,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/90516574_503315357017605_5451864021783624204_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=JTqiA8pPPW0AX9Cuaqv&oh=e695602d44dda3b97e0cac6ed0553f31&oe=5EA71971"
+}

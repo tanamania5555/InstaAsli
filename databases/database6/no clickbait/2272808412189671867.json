@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/90479976_161939121598460_947299324696227279_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=n8Y2OJK5ScQAX-3ZZxY&oh=59d7bf041a73897242754049d9aec6b6&oe=5EA602F4",
+    "edge_liked_by": {
+        "count": 7
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "The Taj is one of the most beautiful structures in the world. Voted as one of the \"Wonders of the world\", the Taj attracts tourists from far and wide.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#taj #tajmahal #wondersoftheworld #agra #india #indian #tourism #architecture #symetrical #monument #monumentoflove #instaworld #tourist #indiatourism"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 1
+    },
+    "id": "2272808412189671867",
+    "is_video": false,
+    "owner": {
+        "id": "355789343"
+    },
+    "shortcode": "B-KozWDFcG7",
+    "taken_at_timestamp": 1585159897,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/90479976_161939121598460_947299324696227279_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=n8Y2OJK5ScQAX-3ZZxY&oh=28acd4946b79a7c24d980448aadbf628&oe=5EA3C8A6"
+}

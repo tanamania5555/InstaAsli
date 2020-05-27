@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/89819128_153127132845466_8271190903654736285_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=110&_nc_ohc=svT1sYMGJ8EAX_CUYGm&oh=02c142d5c876fe79b80de574d2250ae5&oe=5EA6BF57",
+    "edge_liked_by": {
+        "count": 50
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Our guest toiletries collection at The Raviz Ashtamudi uses olive-based surfactants, pure essential oils & authentic shea butter. The luxury line with White Tea & Tangerine is the perfect combination of sustainability and sophistication by being Paraben-free, dermatologically safe & most importantly 100% cruelty-free and vegan.\n\n#LuxuryResorts #KeralaTourism #Kerala #LuxuryResort #Raviz #TheRaviz #TravelDestinations #Luxury #GodsOwnCountry #DestinationKerala #Destinations #ResortsinKerala #Travel #Wanderlust #RavizAshtamudi #Ashtamudi"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2265873160574075465",
+    "is_video": false,
+    "owner": {
+        "id": "2137015239"
+    },
+    "shortcode": "B9x_6JqHAJJ",
+    "taken_at_timestamp": 1584333151,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/89819128_153127132845466_8271190903654736285_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=110&_nc_ohc=svT1sYMGJ8EAX_CUYGm&oh=f01260f4d4bab37a36cdb660c0115cdf&oe=5EA51534"
+}

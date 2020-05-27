@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1314,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/90520820_816029482213216_6571841173942721365_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=KmrvK8w_mNsAX8HQJ8z&oh=7f61f57347072e1074844d47fa6ca71b&oe=5EA58B53",
+    "edge_liked_by": {
+        "count": 18
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "There are two kinds of people in the world. Those who have seen the Taj Mahal and love it and those who have not seen the Taj and love it.\ud83d\udc93\ud83d\udc93\ud83d\udc93\ud83d\udc93\ud83c\udf0d\u2764\ufe0f .\n.\nPhoto by:- @saurabhsawarn\n.\n.\n#traveller_art #exploreeverything #instanature #mothersnature #traveladdict #nature_perfection #ourplanetdaily #worldcaptures #niceview #explorer #adventures #adventuretime #earth #instaclouds #traveling #selfie #traveligram #travelphotography  #tourists #watercolours #traveller #vsconature #igtravel #vscocam #quokka #sky #paradise #india #tajmahal"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272796303828381982",
+    "is_video": false,
+    "owner": {
+        "id": "6838467451"
+    },
+    "shortcode": "B-KmDJQgvEe",
+    "taken_at_timestamp": 1585158454,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.117.1080.1080a/s640x640/90520820_816029482213216_6571841173942721365_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=KmrvK8w_mNsAX8HQJ8z&oh=1285e17b28562c70d3d432b58144d748&oe=5EA5F7EB"
+}

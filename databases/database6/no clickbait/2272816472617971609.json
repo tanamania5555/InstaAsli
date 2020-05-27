@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/90766454_567550083860562_7520455313122010796_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=T4rj_mTebRgAX-z5WxQ&oh=756e51f1fcb2b075720fbf6f56a49504&oe=5EA40A4B",
+    "edge_liked_by": {
+        "count": 0
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "#socialdistancing during our morning walk to the #beach #dogstagram #englishcreamgoldenretriever #miniaussie"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272816472617971609",
+    "is_video": false,
+    "owner": {
+        "id": "229220381"
+    },
+    "shortcode": "B-Kqoo6DO-Z",
+    "taken_at_timestamp": 1585160858,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/90766454_567550083860562_7520455313122010796_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=T4rj_mTebRgAX-z5WxQ&oh=7f4647331cf6d0fed978b60cd79da33d&oe=5EA6DDFE"
+}

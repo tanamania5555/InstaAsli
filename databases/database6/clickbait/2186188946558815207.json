@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/75071150_976586699401053_4949962954517348526_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=ejGJ38MbjHMAX8zjEyO&oh=f9abef954beda8fac5e0a8630ee7ba0e&oe=5EA5FA4B",
+    "edge_liked_by": {
+        "count": 377
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "SALE Airpods 2 \u2022\nAirpods 2 \nNormal price : 2.650.000\nPromo Price : 2.550.000 + free case\n\u2022\nAirpods 2 w/ wireless case \nNormal Price : 3.300.000\nPromo Price : 2.999.000 + free Case \u2022\n\u2022\nOriginal, garansi Apple 1 Tahun \nBuruan stock sangat terbatas !!\n\u2022\n\u2022\n#freeairpods #airpods2 #airpodspro #airpods #jualairpods"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 9
+    },
+    "id": "2186188946558815207",
+    "is_video": false,
+    "owner": {
+        "id": "326796515"
+    },
+    "shortcode": "B5W50OThgvn",
+    "taken_at_timestamp": 1574834052,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/75071150_976586699401053_4949962954517348526_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=ejGJ38MbjHMAX8zjEyO&oh=0f720669614171340d059c01ba0417c0&oe=5EA6087E"
+}

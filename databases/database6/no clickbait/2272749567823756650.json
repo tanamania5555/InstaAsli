@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1350,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/91274670_1171238906601682_7610607379966439150_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=110&_nc_ohc=AsjE5aYUx8UAX8-WaS2&oh=c8330182cffcdbfbcabf030d6b5458d6&oe=5EA68BB0",
+    "edge_liked_by": {
+        "count": 11
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Hawa mahal\n-\n-\n-\n-\n-\n#jaipurcityblog #jaipurblogger #instatravel #heritage #wanderlust #instajaipur #travelblogger #architecture #instagram #jaigarh #beautifuljaipur #traveller #indianhistory #palace #travelindia #nahargarh #love #delhi #patrikagate #instaarchitecture #historicalarchitecture #tajmahal #amerfortjaipur #of #alberthalljaipur #indiatourism #jaipurdairy #natgeoyourshot #agra #wtp"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272749567823756650",
+    "is_video": false,
+    "owner": {
+        "id": "32247033169"
+    },
+    "shortcode": "B-KbbC9jr1q",
+    "taken_at_timestamp": 1585152883,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.180.1440.1440a/s640x640/91274670_1171238906601682_7610607379966439150_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=110&_nc_ohc=AsjE5aYUx8UAX8-WaS2&oh=9dfbadedf6ffbee9db158d6a329e2058&oe=5EA3F18C"
+}

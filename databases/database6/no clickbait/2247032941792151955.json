@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/84533392_805965673233156_156993817933947665_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=TGYxF_WBMAQAX_LVcu_&oh=f67069aac34419103459b33f9fb7a27d&oe=5EA68DDB",
+    "edge_liked_by": {
+        "count": 60
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "From Kalaripayattu to wedding sangeets to college reunion parties; the 200-seater amphitheater at The Raviz Kadavu is the perfect setting for both formal and informal functions.\n\n#LuxuryResorts #KeralaTourism #Kerala #LuxuryResort #Raviz #TheRaviz #TravelDestinations #Luxury #GodsOwnCountry #DestinationKerala #Destinations #ResortsinKerala #Travel #Wanderlust #RavizKadavu #Kadavu"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2247032941792151955",
+    "is_video": false,
+    "owner": {
+        "id": "2137015239"
+    },
+    "shortcode": "B8vEI4mH0mT",
+    "taken_at_timestamp": 1582087222,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/84533392_805965673233156_156993817933947665_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=TGYxF_WBMAQAX_LVcu_&oh=47e4b8b105fed82d1645f5a74bd464ef&oe=5EA3ADAA"
+}

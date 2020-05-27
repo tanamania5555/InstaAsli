@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/90767496_111506510309565_3863722978117626252_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=8RuiOsMIubsAX_H6RIy&oh=643e5eee3349a3f462c88a988f158ee7&oe=5EA6F465",
+    "edge_liked_by": {
+        "count": 12
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "#tajmahal \n#bantyphotography\n#mobilecaptured\ud83d\udcf1"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272772089266376826",
+    "is_video": false,
+    "owner": {
+        "id": "1907023391"
+    },
+    "shortcode": "B-KgixsJRB6",
+    "taken_at_timestamp": 1585155567,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/90767496_111506510309565_3863722978117626252_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=8RuiOsMIubsAX_H6RIy&oh=a01aad1ebc080e853b7610ff159db895&oe=5EA3D4D4"
+}

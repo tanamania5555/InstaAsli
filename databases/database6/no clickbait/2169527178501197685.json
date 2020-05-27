@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 720,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/72196561_1236349993384582_4627259092714834314_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=110&_nc_ohc=rox8rsGTsS8AX8Y6_uU&oh=68ea2ad3bd80319e265d419770edaa03&oe=5EA409E1",
+    "edge_liked_by": {
+        "count": 116
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Top view of 'Sky Bar'\n\ud83d\ude0d - Visit Raviz Kovalam \ud83c\udf0a\n.\n.\n.\n#raviz #kovalam #trivandrum #topview #sea #ocean #sky #clifftop #hotel #nature #fivestarproperty #skybar #breathtakingview #cuisines #keralatourism #kerala #keralafood #keraladelicacy #chefsofinstagram #chefclub #foodies #foodporn #foodgasm"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2169527178501197685",
+    "is_video": false,
+    "owner": {
+        "id": "2137015239"
+    },
+    "shortcode": "B4btXllHo91",
+    "taken_at_timestamp": 1572847815,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/c157.0.630.630a/72196561_1236349993384582_4627259092714834314_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=110&_nc_ohc=rox8rsGTsS8AX8Y6_uU&oh=281f07de812bc22fda8852eacb66b162&oe=5EA6107A"
+}

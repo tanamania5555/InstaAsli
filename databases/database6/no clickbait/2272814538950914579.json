@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1350,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/90761210_310944473209551_8219771542217927189_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=dZ6RPMmGoZ4AX9sxZ0E&oh=c261e0a6f99e856bdb12bff8d04bff24&oe=5EA4B609",
+    "edge_liked_by": {
+        "count": 3
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Flexibility .\nPhotography \ud83d\udcf8@hike_view\n.\n.\n.\n.\n.\n#photography #photoshoot #travelphotography #photographer #hikeview #indoorphotography #beautiful #philosophyphotography #weddingphotography #natural #picha #couplephotoshoot #love #Africa #creative #beach #world #photographylover #creative #moments #happy #corona #beauty #life #lifestyle #moments #tanzania"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272814538950914579",
+    "is_video": false,
+    "owner": {
+        "id": "30384969492"
+    },
+    "shortcode": "B-KqMgCgzIT",
+    "taken_at_timestamp": 1585160628,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.135.1080.1080a/s640x640/90761210_310944473209551_8219771542217927189_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=dZ6RPMmGoZ4AX9sxZ0E&oh=a5f70a04244585466f17579c018a745c&oe=5EA66D85"
+}

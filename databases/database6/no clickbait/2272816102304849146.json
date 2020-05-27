@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 720,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/90743771_887275945121117_2172091788530811824_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=105&_nc_ohc=J-iqKr6jCc4AX8XBje0&oh=bb71665af2719ce4b5bf01ab9720baf7&oe=5EA363AE",
+    "edge_liked_by": {
+        "count": 4
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Eine kleine Portion Urlaub f\u00fcr alle Daheimgebliebenen #stayathome #staythefuckhome\n\n#menorca #balearicislands #balearen #beach #sea #meer #strand #cloudy #clouds #wolken #storm #stormy #sturm #st\u00fcrmisch #wellen #waves #blue #ocean #sky #himmel #photography #landscapephotography #canon #canonphotography #liveforthestory"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272816102304849146",
+    "is_video": false,
+    "owner": {
+        "id": "3220524294"
+    },
+    "shortcode": "B-KqjQBqxz6",
+    "taken_at_timestamp": 1585160814,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c180.0.720.720a/s640x640/90743771_887275945121117_2172091788530811824_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=105&_nc_ohc=J-iqKr6jCc4AX8XBje0&oh=09d71c055c4ad0f95390991f91e22f59&oe=5EA4861A"
+}

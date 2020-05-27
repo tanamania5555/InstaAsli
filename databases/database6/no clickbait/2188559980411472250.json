@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/74844690_154167922566761_9073970692386854400_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=105&_nc_ohc=q3r7ELoF1G0AX_SPdfl&oh=e6e410c58707d1adf168b2d840140e46&oe=5EA6CAA0",
+    "edge_liked_by": {
+        "count": 11
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "#raviz #swimmingpool #hotel #travel #kozhikode"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2188559980411472250",
+    "is_video": false,
+    "owner": {
+        "id": "2072570116"
+    },
+    "shortcode": "B5fU7TqD8l6",
+    "taken_at_timestamp": 1575116702,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/74844690_154167922566761_9073970692386854400_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=105&_nc_ohc=q3r7ELoF1G0AX_SPdfl&oh=ad2a6a9c82f31bf480d94ebf35cd8b41&oe=5EA58F7B"
+}

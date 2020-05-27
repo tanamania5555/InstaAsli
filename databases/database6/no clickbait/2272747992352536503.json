@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1350,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/90714791_2768743306543952_919597698619390398_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=e0KeM5BkTnoAX_85B74&oh=1e445cd146ce3b5117282e9782f990e0&oe=5EA3FA58",
+    "edge_liked_by": {
+        "count": 19
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Amazing view Mosque of Sarjah.Allah bless you.\n\nIf you want travel in Sarjah plz Contact @touristfy on Whatsapp-7644948591\n\n#dubailife #dubai\ud83c\udde6\ud83c\uddea #unitedarabemirates\ud83c\udde6\ud83c\uddea #dubai #sarjah #sharjah\u2764\ufe0f #birdviewtravels #beingmdsarfraj #burjalarab #beautifuldestinations #amazingview\ud83d\ude0d #trending #the_gallery_of_magic #traveltriangleweekend #thomascook #tajmahal"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272747992352536503",
+    "is_video": false,
+    "owner": {
+        "id": "13467029690"
+    },
+    "shortcode": "B-KbEHsJ7e3",
+    "taken_at_timestamp": 1585152695,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.135.1080.1080a/s640x640/90714791_2768743306543952_919597698619390398_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=e0KeM5BkTnoAX_85B74&oh=222a2700ee099889f0adbdcbcdbdd54b&oe=5EA4935C"
+}

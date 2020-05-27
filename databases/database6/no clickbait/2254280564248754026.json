@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 640,
+        "width": 640
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/87537186_195316241692969_1905346008658253641_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=S0cf13siKw4AX9usd-N&oh=5fa0a814f254e0e0986bf887de6d93bc&oe=5EA6D452",
+    "edge_liked_by": {
+        "count": 106
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Adding a dash of old-worldly Kerala aesthetics to make the lobby at The Raviz Kadavu truly regal.\n\n#LuxuryResorts #KeralaTourism #Kerala #LuxuryResort #Raviz #TheRaviz #TravelDestinations #Luxury #GodsOwnCountry #DestinationKerala #Destinations #ResortsinKerala #Travel #Wanderlust #RavizKadavu #Kadavu"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 2
+    },
+    "id": "2254280564248754026",
+    "is_video": false,
+    "owner": {
+        "id": "2137015239"
+    },
+    "shortcode": "B9I0DrAHTdq",
+    "taken_at_timestamp": 1582951206,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/87537186_195316241692969_1905346008658253641_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=S0cf13siKw4AX9usd-N&oh=5fa0a814f254e0e0986bf887de6d93bc&oe=5EA6D452"
+}

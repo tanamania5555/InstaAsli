@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/74670548_613410909418328_8639391820728047710_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=UsP_DcBS8AIAX9umaAX&oh=8025e683b09f93dabfe9ebf20bb725f4&oe=5EA614DF",
+    "edge_liked_by": {
+        "count": 44
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Our Duplex Suite that looks out onto the Arabian Sea is sure to leave you spell- bound. This two-level suite at The Raviz Kovalam features a living room and private balcony on one level, and an opulent bedroom on the next.\n\nFor bookings contact: 0471 \u2013 3051234, 1800-4252-2220\nmail: reservations.kovalam@theraviz.com, reservations@theraviz.com\n\n#Raviz #TheRaviz #RavizKovalam #TheRavizKovalam #Kovalam #Kerala #Tourism #KeralaTourism #LuxuryResorts #Resorts #WanderLust #Destinations #TripAdvisor #CondeNastTraveller #TravelandLeisure #LonelyPlanet #WeekendGetaway #Package"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2205088574395962631",
+    "is_video": false,
+    "owner": {
+        "id": "13829535608"
+    },
+    "shortcode": "B6aDGAXJNUH",
+    "taken_at_timestamp": 1577087064,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/74670548_613410909418328_8639391820728047710_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=UsP_DcBS8AIAX9umaAX&oh=6e7d70caebe06863ea0a6422116d4f7f&oe=5EA631BC"
+}

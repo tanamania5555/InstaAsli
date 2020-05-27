@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1350,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/91210874_133874081512232_7603433792484531124_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=mqKBtKT0UCMAX8dQALu&oh=171ab32ad0166ad3ceee68dd9f7796cb&oe=5EA56902",
+    "edge_liked_by": {
+        "count": 6
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "I opened the window this morning. Cold air brushed against my face, and I watched as the sun peered through the clouds. Another day in quarantine isn\u2019t all that bad when we have so much to actually be thankful for. \u2728\ud83c\udf35\ud83c\udf19\n.\n.\n.\n.\n#photography #photographer #photo #photooftheday #photo #portraitphotography #photos #photographs #oregon #oregoncoast #oregonphotographer #oregonphotography #coast #pacificnorthwest #beach #ocean #oceanview #beachphotography #senior #seniorpictures #seniorportraits #vibes #moody #earthtones #bluesky"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272816384119243681",
+    "is_video": false,
+    "owner": {
+        "id": "1744019371"
+    },
+    "shortcode": "B-KqnWfHYOh",
+    "taken_at_timestamp": 1585160848,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.180.1440.1440a/s640x640/91210874_133874081512232_7603433792484531124_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=mqKBtKT0UCMAX8dQALu&oh=f88d5c8fd780b8589c1ba09aa65d1515&oe=5EA61F13"
+}

@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/91145631_144368490393642_725394843937606315_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=UCyKvAg9GgcAX_rSfKD&oh=cc1ecc12ecc0a0a03206070285d0eee7&oe=5EA6AF54",
+    "edge_liked_by": {
+        "count": 0
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Exploring the beach\n\n#sandshell #sandskogen #beach #life #samsung9 #photo #closeup #finderskeepers #visitsk\u00e5nesydost #ystad #naturephotography #carolineivarssonphotography"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272817541888098230",
+    "is_video": false,
+    "owner": {
+        "id": "1622400373"
+    },
+    "shortcode": "B-Kq4MvhD-2",
+    "taken_at_timestamp": 1585160986,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/91145631_144368490393642_725394843937606315_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=UCyKvAg9GgcAX_rSfKD&oh=1b0475b22513dabe63c5e05f6d217fce&oe=5EA6D0A1"
+}

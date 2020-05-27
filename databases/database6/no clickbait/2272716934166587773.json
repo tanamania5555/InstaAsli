@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 573,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/90833123_528387001440718_6617441466230449151_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=110&_nc_ohc=PVBLFXr566oAX8GeLYH&oh=731da6c218b5840a202c4e1987c0269a&oe=5EA47B68",
+    "edge_liked_by": {
+        "count": 74
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "#throwback\n\nDharam ki Sarhad Paar Kar Agar koi Kisi par Fida ho jata he. Toh wo Sachcha Pyar bhi fir Jihad-E-Ishq Kehlata he \u2665\ufe0f #tajmahal #wondersoftheworld #love #loveindia #proud #monuments #uttarpradesh #worldtour #amazing #loveisintheair #bestmoments #nomatterwhat #nomad #travelphotography #travelrealindia #esadeshemera #indiangirl #travelgram #wahtaj #maibhisadakchap #indiaclicks #ig_shutterbugs #indianshutterbugs @indiangirlstravel @girlswhotravelindia @nomad_girls  #solivagant"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 2
+    },
+    "id": "2272716934166587773",
+    "is_video": false,
+    "owner": {
+        "id": "5846363988"
+    },
+    "shortcode": "B-KUAKgA6l9",
+    "taken_at_timestamp": 1585148992,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/c253.0.573.573a/90833123_528387001440718_6617441466230449151_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=110&_nc_ohc=PVBLFXr566oAX8GeLYH&oh=59be2277f12933ac0edc98d69d87055b&oe=5EA6A5F2"
+}

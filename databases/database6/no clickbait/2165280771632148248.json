@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 875,
+        "width": 750
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/71812500_417563602242053_721164456104691831_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=105&_nc_ohc=_yhDD3zfcBcAX_lXP5_&oh=f69772716fe1b614eb2026e7422c25d0&oe=5EA47E72",
+    "edge_liked_by": {
+        "count": 168
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Craving for some juicy, flavourful 'Lamb Chops'? .\n.\n.\n\nVisit,  The Raviz Resort & Spa, Ashtamudi and enjoy chefs special 'Grilled Lamb Chops' marinated in fresh garlic, rosemary and thyme\n.\n.\n\n#raviz #ravizashtamudi #lambchops #bestfood #foodgasm #wine #resort #hotels #goodfood #foodporn #foodphotography #foodstagram  #loveforfood #lambchops #lambandwine #grilled #foodies #foodie"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 1
+    },
+    "id": "2165280771632148248",
+    "is_video": false,
+    "owner": {
+        "id": "2137015239"
+    },
+    "shortcode": "B4Mn2PAHi8Y",
+    "taken_at_timestamp": 1572341604,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.62.750.750a/s640x640/71812500_417563602242053_721164456104691831_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=105&_nc_ohc=_yhDD3zfcBcAX_lXP5_&oh=8a74a3eb17b3aa4eda611d7babdfd73a&oe=5EA68799"
+}

@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/81633553_843355209428950_5218264055779748312_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=110&_nc_ohc=pb53twoxEAYAX9PdrfZ&oh=2660b0840b0d1d4962ec898a2687204f&oe=5EA6307F",
+    "edge_liked_by": {
+        "count": 55
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Each suite in this luxuriously refurbished historical castle-turned-hotel is named after a royal princess of the Travancore kingdom and dedicated to Indian goddesses. To make your stay fit for royalty, all suites come with a personal butler as well!\n\nFor bookings contact: +91 471 305 1234 | 1800 4252 2220\nmail: reservations.kovalam@theraviz.com | reservations@theraviz.com\n\n#Raviz #TheRaviz #RavizKovalam #TheRavizKovalam\n#Kovalam #Kerala #Tourism #KeralaTourism #LuxuryResorts #Resorts #Destinations #TripAdvisor #CondeNastTraveller #TravelandLeisure #LonelyPlanet #WeekendGetaway #RoyalLife #KovalamPalace #CliffTop"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2225324015846143199",
+    "is_video": false,
+    "owner": {
+        "id": "13829535608"
+    },
+    "shortcode": "B7h8Gbyp7Tf",
+    "taken_at_timestamp": 1579499316,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/81633553_843355209428950_5218264055779748312_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=110&_nc_ohc=pb53twoxEAYAX9PdrfZ&oh=7c4be1605fa39dde55b8f3f5e50dda29&oe=5EA5A59C"
+}

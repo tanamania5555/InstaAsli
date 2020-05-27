@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1350,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/90393125_916134578821004_8118303405431703969_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=vVaXzzFhjB0AX_LpPAc&oh=10b113a4a50f9d1060e1452dda50eb60&oe=5EA58411",
+    "edge_liked_by": {
+        "count": 27
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "#raviz #cocktails #barphotography #photographylovers #photography #thecultureoftravel #kl02 #unitedkollam"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2270566451928514883",
+    "is_video": false,
+    "owner": {
+        "id": "1447006890"
+    },
+    "shortcode": "B-CrCh2HkFD",
+    "taken_at_timestamp": 1584892635,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.180.1440.1440a/s640x640/90393125_916134578821004_8118303405431703969_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=vVaXzzFhjB0AX_LpPAc&oh=87f57544c3b68c420a9c02cd6a240189&oe=5EA47684"
+}

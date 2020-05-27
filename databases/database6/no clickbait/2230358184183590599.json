@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/83938153_169709767698628_7859720649320546088_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=eH9QJ0XubeUAX9a9NLo&oh=23cbcf49459e1bdc45d3d2bd33601aba&oe=5EA43B5A",
+    "edge_liked_by": {
+        "count": 24
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "If holistic wellness is on your mind, then the panoramic view of the unending Arabian Sea is sure to set the mood for rejuvenation at the Favourite Ayurveda & Wellness Spa. Choose from Panchakarma or other traditional Kerala Ayurveda treatments like Pizhichil (Medical Oil Bath), Njavarakizhi, Dhara, Marma Therapy, Therapeutic Yoga & Meditation or even the Wellness Package, Lifestyle Package or Specialized Therapeutic Care treatments.\n\nFor bookings contact: +91 471 305 1234 | 1800 4252 2220\nmail: reservations.kovalam@theraviz.com | reservations@theraviz.com\n\n#Raviz #TheRaviz #RavizKovalam #TheRavizKovalam\n#Kovalam #Kerala #Tourism #KeralaTourism #LuxuryResorts #Resorts #Destinations #TripAdvisor #CondeNastTraveller #TravelandLeisure #LonelyPlanet #WeekendGetaway #Spa #Wellness #Ayurveda #FavouriteKerala"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2230358184183590599",
+    "is_video": false,
+    "owner": {
+        "id": "13829535608"
+    },
+    "shortcode": "B7z0vOaJe7H",
+    "taken_at_timestamp": 1580099436,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/83938153_169709767698628_7859720649320546088_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=eH9QJ0XubeUAX9a9NLo&oh=3ffa89d2cd30d871e4f2cf70b91eb732&oe=5EA6B1BD"
+}

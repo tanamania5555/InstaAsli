@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/90647470_522252908473768_892688973623435739_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=FTslbqW_YgIAX90uBKG&oh=8a066bdc3e21253942abae9e10edb804&oe=5EA559A1",
+    "edge_liked_by": {
+        "count": 631
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Click & Edit --- @r.p._photography_\n\u0ab8\u0acc\u0ab0\u0abe\u0ab7\u0acd\u0a9f\u0acd\u0ab0 \u0aa8\u0ac1\u0a82 \u0aa4\u0abe\u0a9c \u0aae\u0ab9\u0ac7\u0ab2 \u0a8f\u0a9f\u0ab2\u0ac7 \u0a95\u0ac7 \u0a85\u0aae\u0abe\u0ab0\u0ac1\u0a82 \u0aae\u0aa3\u0ac0 \u0aae\u0a82\u0aa6\u0abf\u0ab0\n\u0a8f\u0a95 \u0aaa\u0acd\u0ab0\u0ac7\u0aae \u0aa8\u0ac0 \u0aa8\u0abf\u0ab6\u0abe\u0aa8\u0ac0 \u0a9b\u0ac7 \u0a85\u0aae\u0abe\u0ab0\u0ac1\u0a82 \u0a86 \u0aae\u0aa3\u0ac0 \u0aae\u0a82\u0aa6\u0abf\u0ab0 \u263a\ufe0f\n.\n.\n.\n#mahesana #mojilumorbi #morbi #manimandir #memes #tajmahal #love #lockdown #lightroom #edits #rajkot #time #tiktok #indian #old #photography #people #ahmedabad #surat #streetphotography #delhi #gj36 #gujarati #kathiyawadi #covid_19 #corona #beautiful #baroda #naturephotography"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 5
+    },
+    "id": "2272726961589960517",
+    "is_video": false,
+    "owner": {
+        "id": "2212154001"
+    },
+    "shortcode": "B-KWSFRBb9F",
+    "taken_at_timestamp": 1585150188,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/90647470_522252908473768_892688973623435739_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=FTslbqW_YgIAX90uBKG&oh=cdc68a319eaebdf0e5c736a55505733b&oe=5EA56FF7"
+}

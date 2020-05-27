@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/81799676_2515589175353748_5266443833983459104_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=X2uBD3-W44AAX8dcvXR&oh=89331569d3f3900b3840deae591b3a2c&oe=5EA51771",
+    "edge_liked_by": {
+        "count": 34
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Team outings, play an integral role in promoting creativity, collaboration and overall productivity. When there is a heavenly beach locale closer to home, why look elsewhere for a Corporate Day Out. The 5-star luxury, The Raviz Kovalam resort is located just 9 miles away from Trivandrum city and a 40 minute drive from the airport. .\n.\nFor bookings contact: +91 471 305 1234 | 1800 4252 2220\nmail: reservations.kovalam@theraviz.com | reservations@theraviz.com\n\n#Raviz #TheRaviz #RavizKovalam #TheRavizKovalam\n#Kovalam #Kerala #Tourism #KeralaTourism #LuxuryResorts #Resorts #Destinations #TripAdvisor #CondeNastTraveller #TravelandLeisure #LonelyPlanet #WeekendGetaway #Corporate #CorporateDayOut"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2222600465347486900",
+    "is_video": false,
+    "owner": {
+        "id": "13829535608"
+    },
+    "shortcode": "B7YQ1jup6S0",
+    "taken_at_timestamp": 1579174644,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/81799676_2515589175353748_5266443833983459104_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=X2uBD3-W44AAX8dcvXR&oh=54774c3e3a683c97ff050b403f4b6e7d&oe=5EA533CB"
+}

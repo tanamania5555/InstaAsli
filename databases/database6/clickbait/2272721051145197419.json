@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 640,
+        "width": 640
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/90484903_1100484953644442_4301739294326640953_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=87dmgsyp03AAX-ZtOrp&oh=56f52c0d72f380b7be1b01d1d417538c&oe=5EA5723E",
+    "edge_liked_by": {
+        "count": 3
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "\ud83d\ude02\ud83d\ude02\n#meme #memes #dank #dope #dankmemes #india #jantacurfew #corona #coronamemes #coronaoutbreak #isolatedmeme #sarcasm #2020 #quarantine #follow #likeforlikes #narendramodi #amitshah #memesdaily #success  #fitness #model #modeling #inspiration #instagram #instagood #insta #instadaily #us #uk"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272721051145197419",
+    "is_video": false,
+    "owner": {
+        "id": "25123557471"
+    },
+    "shortcode": "B-KU8EvD9dr",
+    "taken_at_timestamp": 1585149483,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/90484903_1100484953644442_4301739294326640953_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=87dmgsyp03AAX-ZtOrp&oh=56f52c0d72f380b7be1b01d1d417538c&oe=5EA5723E"
+}

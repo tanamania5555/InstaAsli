@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 719,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/90961007_3536324809716932_6546647911746614896_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=Ec4o1cFqwYgAX-Jgb_m&oh=0a10f3a93938ee11333bd5c22c9c131f&oe=5EA34ABA",
+    "edge_liked_by": {
+        "count": 12
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Capetown, South Africa 2020\n.\n.\n.\n.\n.\n#bloubergstrand #capetown #southafrica #capetownsouthafrica #cape #sunset #travelgram #travelsouthafrica #igtravel #travelphotography #traveltheworld #africa #beach #kitesurfing #kite #tablemountain #kingoftheair2020 #canon #sea #summer #natgeo #natgeotravel #travelgram #africa #clouds #nature #tobiasortmann"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272813632446363104",
+    "is_video": false,
+    "owner": {
+        "id": "655252747"
+    },
+    "shortcode": "B-Kp_TyoXXg",
+    "taken_at_timestamp": 1585160520,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/c133.0.533.533a/90961007_3536324809716932_6546647911746614896_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=Ec4o1cFqwYgAX-Jgb_m&oh=2ad3b2a02a49565d4e5704d8d811dc3a&oe=5EA3E3A8"
+}

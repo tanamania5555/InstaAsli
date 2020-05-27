@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/83728725_184207136130012_7205850482217852697_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=zlLxFkfV23YAX9ar2Ql&oh=a1d0d723b3f69e2953d9202a9ab9a495&oe=5EA3C45A",
+    "edge_liked_by": {
+        "count": 32
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "From lip-smacking Thai garlic pepper prawns, grilled fish with Sumatran spices to Laotian Curry Chicken. Join us at The Tides, as we present to you diverse flavors and fragrances, tastes, textures and colors to provide you a feast for the senses and for your palate. \nFor bookings contact: +91 471 305 1234 | 1800 4252 2220\nmail: reservations.kovalam@theraviz.com | reservations@theraviz.com\n\n#Raviz #TheRaviz #RavizKovalam #TheRavizKovalam\n#Kovalam #Kerala #Tourism #KeralaTourism #LuxuryResorts #Resorts #Destinations #TripAdvisor #CondeNastTraveller #TravelandLeisure #LonelyPlanet #WeekendGetaway #Tides #TheTides #SeaFood"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2237578759696124077",
+    "is_video": false,
+    "owner": {
+        "id": "13829535608"
+    },
+    "shortcode": "B8NegbYpYit",
+    "taken_at_timestamp": 1580960195,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/83728725_184207136130012_7205850482217852697_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=zlLxFkfV23YAX9ar2Ql&oh=caabb436e8771e65b4d75b99a5e9c9a6&oe=5EA4D93D"
+}

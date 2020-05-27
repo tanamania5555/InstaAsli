@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/90427033_125005072426746_4870544257611936248_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=CtHuHfvymo0AX8pc0FI&oh=c356f7e554c2ff2800d3f51421821336&oe=5EA52539",
+    "edge_liked_by": {
+        "count": 37
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "The Cafe at The Raviz Kovalam that caters to the Club residents is an all-day multi-cuisine restaurant with sophisticated, modern interiors as well as intimate gazebos perched on the cliff-face.\n\nFor bookings contact: 0471 \u2013 6691111 | 1800 4252 2220\nmail: reservations@theraviz.com\n\n#Raviz #TheRaviz #RavizKovalam #TheRavizKovalam\n#Kovalam #Kerala #Tourism #KeralaTourism #LuxuryResorts #Resorts #Destinations #TripAdvisor #CondeNastTraveller #TravelandLeisure #LonelyPlanet #WeekendGetaway #TheCafe #BeachInKerala #ArabianSea #Beach #BeachResort"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272533206138145773",
+    "is_video": false,
+    "owner": {
+        "id": "13829535608"
+    },
+    "shortcode": "B-JqOkcJMvt",
+    "taken_at_timestamp": 1585127090,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/90427033_125005072426746_4870544257611936248_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=CtHuHfvymo0AX8pc0FI&oh=330771295a0d121eb5e4bfeb539d4754&oe=5EA5BB5E"
+}

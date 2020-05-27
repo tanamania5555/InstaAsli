@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E91E63</color>
+    <color name="colorPrimaryDark">#D81B60</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="logoBackground">#393e46</color>
+    <color name="otherBackground">#C6C1B9</color>
+    <color name="resultText">@android:color/holo_red_light</color>
+    <color name="resultPercentage">@android:color/holo_blue_light</color>
+    <color name="white">#ffffff</color>
+</resources>

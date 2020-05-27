@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 607,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/91038828_1575551982591776_775375454998347097_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=FaurTvfuCfIAX9Pd9sT&oh=6bfd8c04d650e3c97c26b1da15b4a278&oe=5EA5A54D",
+    "edge_liked_by": {
+        "count": 0
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Sometimes it pays off to look in another direction then the obvious one.\u2800\nNikon D7500\u2800\nNikon 10 - 24mm @ 15mm, f13\u2800\nISO100, 1.3 sec.\u2800\n.\u2800\n.\u2800\n.\u2800\n#seascape #beach #beachvibes #longexposure #longexposure_shots #longexposurephotography #nikonphotography #nikonaustralia #nikond7500 #abcmyphoto #racvsnaps #australia #australien #australie#australianshepherd #beach #dogsofinstagram #beachlife #aussiesofinstagram #travel #australianshepherdworld #beachday #aussie #beachwear #\u5b8b\u831c  #\ube45\ud1a0\ub9ac\uc544"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272818211343020449",
+    "is_video": false,
+    "owner": {
+        "id": "9158813689"
+    },
+    "shortcode": "B-KrB8OI7Gh",
+    "taken_at_timestamp": 1585161065,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/c236.0.607.607a/91038828_1575551982591776_775375454998347097_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=FaurTvfuCfIAX9Pd9sT&oh=3fbed709d97d26de503b999f6fa8a537&oe=5EA35888"
+}

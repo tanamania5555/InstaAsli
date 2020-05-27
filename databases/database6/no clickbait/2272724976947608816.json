@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/91027486_2261162810853780_5724924096353133710_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=l0T4DtlRUg8AX_Xpbkv&oh=10ab8937bfb6955cd3048afb6479dbac&oe=5EA67D4D",
+    "edge_liked_by": {
+        "count": 4
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "This symbol of love was designated as a UNESCO World Heritage Site in 1983 for being \"the jewel of Muslim art in India and one of the universally admired masterpieces of the world's heritage\". It is regarded by many as the best example of Mughal architecture and a symbol of India's rich history \u2764\ufe0f. #tajmahal #incredibleindia #luxurytravel #experience #symboloflove #iradiviluxurytravel #mughalarchitecture"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272724976947608816",
+    "is_video": false,
+    "owner": {
+        "id": "6911922417"
+    },
+    "shortcode": "B-KV1M7Hrzw",
+    "taken_at_timestamp": 1585149951,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/91027486_2261162810853780_5724924096353133710_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=l0T4DtlRUg8AX_Xpbkv&oh=962bc3535998f8c19db663e972039a35&oe=5EA65609"
+}

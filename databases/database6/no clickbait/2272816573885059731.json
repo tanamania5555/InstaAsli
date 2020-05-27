@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/83945125_258437911829656_7807583519670602391_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=SONiJiWYweIAX-4Sq1x&oh=1f4aeb8a5ba34b8222f75bd42127a36d&oe=5EA5907A",
+    "edge_liked_by": {
+        "count": 8
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Fernweh\n\n#fernweh #wanderlust #reisen #travel #deutschland #germany #ostsee #balticsea #reisenmachtgl\u00fccklich #auszeit #priwall #strand #beach #d\u00fcnen #love #liebe #gl\u00fcckseeligkeit #seelebaumelnlassen #reisenmithund #daniel #sammy #stayathome #stayfuckinghome #nurse #krankenschwester"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272816573885059731",
+    "is_video": false,
+    "owner": {
+        "id": "467723263"
+    },
+    "shortcode": "B-KqqHOChKT",
+    "taken_at_timestamp": 1585160870,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/83945125_258437911829656_7807583519670602391_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=SONiJiWYweIAX-4Sq1x&oh=082b9edaf76ac614a9993f19b1f13751&oe=5EA36C9D"
+}

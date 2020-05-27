@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1350,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/73387371_189810452155735_7689129986643597440_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=107&_nc_ohc=crqEmSY-jf0AX-6VtNk&oh=ef4c0dda09b414ae35ae85b8239a348b&oe=5EA52978",
+    "edge_liked_by": {
+        "count": 59
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": ".\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#raviz #kozhikode #calicut #kerala #photography #sonyalpha #imalayali #trivandrum #nedumangad #fashion #vogue #india #darklight #dimlight #dj #malayali #malluboys #malayalee #keralite"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2195871250878232773",
+    "is_video": false,
+    "owner": {
+        "id": "4556542793"
+    },
+    "shortcode": "B55TUS5FvjF",
+    "taken_at_timestamp": 1575988273,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.180.1440.1440a/s640x640/73387371_189810452155735_7689129986643597440_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=107&_nc_ohc=crqEmSY-jf0AX-6VtNk&oh=d8cad8a0e3a6993478613eac4a914006&oe=5EA67365"
+}

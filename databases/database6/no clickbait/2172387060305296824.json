@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/73475380_147585463262291_1448956260942059426_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=Wnj1rSo_RRcAX_ho7xm&oh=339fb07c174f4613c65faa7cc2241456&oe=5EA4BA58",
+    "edge_liked_by": {
+        "count": 65
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Let\u2019s talk about seamless holidaying! That much needed inside-out connection with nature awaits you when you holiday at The Raviz Kovalam.\n\n#Raviz #TheRaviz #RavizKovalam #TheRavizKovalam #Kovalam #Kerala #Tourism #KeralaTourism #LuxuryResorts #Resorts #WanderLust #Destinations #TripAdvisor #CondeNastTraveller #TravelandLeisure"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2172387060305296824",
+    "is_video": false,
+    "owner": {
+        "id": "13829535608"
+    },
+    "shortcode": "B4l3oWEJv24",
+    "taken_at_timestamp": 1573188739,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/73475380_147585463262291_1448956260942059426_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=Wnj1rSo_RRcAX_ho7xm&oh=d92957967da36de4c36a8db65a01bf64&oe=5EA4C1B3"
+}

@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 750,
+        "width": 750
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/91041010_118114173146421_5034020733533166851_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=OqPBEADCr6EAX_EcwVJ&oh=88f37f8bfe761d9c16e8026488bdc635&oe=5EA58752",
+    "edge_liked_by": {
+        "count": 3
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "The\u00a0Taj Mahal\u00a0(Crown of the Palace)is an ivory-white marble mausoleum\u00a0on the south bank of the Yamuna\u00a0river in the Indian city of Agra. It was commissioned in 1632 by the.Mughal Emperor Shah Jahan\u00a0(reigned from 1628 to 1658) to house the tomb\u00a0of his favourite wife, Mumtaz Mahal; it also houses the tomb of Shah Jahan himself.\n\nThe Taj Mahal was designated as a UNESCO World Heritage Site\u00a0in 1983 for being \"the jewel of Muslim art in India and one of the universally admired masterpieces of the world's heritage\". It is regarded by many as the best example of Mughal Architecture\u00a0& a symbol of India's rich history. The Taj Mahal attracts 7-8\u00a0million visitors a year and in 2007,\n it was declared a winner of the New 7Wonders of the World (2000\u20132007) initiative.\n\n@nwarxxa  @mekkah.mekkah  @makkah1441madina @indian.muslims\n@hyderabaddiaries @muslimsoftheworld1 @id.oriflame @worldtourists @evazubeck @arfakhanum @majlis_official @_urdu__shayri\n@muzammil_wri8s #Islam #muslims #islaminindia #agra #muslim  #tajmahal  #tajmahalagra #urdu\n#islaminsouthasia"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272805957297105091",
+    "is_video": false,
+    "owner": {
+        "id": "32186267805"
+    },
+    "shortcode": "B-KoPnwFejD",
+    "taken_at_timestamp": 1585159605,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/91041010_118114173146421_5034020733533166851_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=OqPBEADCr6EAX_EcwVJ&oh=843a40e96ec6afdb3bd0da6d39b411b5&oe=5EA605B5"
+}

@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/88241644_194099131863785_2171743537977271795_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=105&_nc_ohc=lQpjdjUgDC8AX_zgDbM&oh=d64a2bed1c58f06206f5c8c5562e64d6&oe=5EA6A73A",
+    "edge_liked_by": {
+        "count": 121
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "#Royalenfield training\n#royal_enfield_modifieds \n#Royalenfield \n#modelpose \n#5starhotel \n#raviz"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 4
+    },
+    "id": "2258250295933782431",
+    "is_video": false,
+    "owner": {
+        "id": "4219867186"
+    },
+    "shortcode": "B9W6q3vDcmf",
+    "taken_at_timestamp": 1583424435,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/88241644_194099131863785_2171743537977271795_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=105&_nc_ohc=lQpjdjUgDC8AX_zgDbM&oh=1aa3754733d4dbbdcd780e134a59dde4&oe=5EA6C95D"
+}

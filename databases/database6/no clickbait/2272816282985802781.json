@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1079,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/90354822_3089999011012164_6231425034279144271_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=WzsKh8lPOmMAX8x7Y50&oh=b659db30b44f1e92fa002d7ca9e26ee3&oe=5EA51B03",
+    "edge_liked_by": {
+        "count": 0
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Just thinking how lucky I am to have such a lovely family!! #family #beach #walks #lucky #cockalier #cockaliersofinstagram #dog"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272816282985802781",
+    "is_video": false,
+    "owner": {
+        "id": "21736717057"
+    },
+    "shortcode": "B-Kql4TF6wd",
+    "taken_at_timestamp": 1585160836,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.0.1439.1439a/s640x640/90354822_3089999011012164_6231425034279144271_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=WzsKh8lPOmMAX8x7Y50&oh=bb374b30ccb1d9716edc7fa5ac4b4d4a&oe=5EA58248"
+}

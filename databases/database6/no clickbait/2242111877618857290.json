@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/83820154_723234131415963_643487869663153169_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=1BWzg1mId6kAX-utEQb&oh=c6744b2fa2a128db2835bc2a8e70c31e&oe=5EA4DA0E",
+    "edge_liked_by": {
+        "count": 26
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "If a love-filled weekend away has long been on the charts for you, then this is the ideal time for it! This Valentines, plan a romantic escape to a beach haven. While at The Raviz Kovalam, just leave it to us to curate a staycation experience & a tantalizing dinner for you & your beloved.\n\nFor bookings contact: +91 471 305 1234 | 1800 4252 2220\nmail: reservations.kovalam@theraviz.com | reservations@theraviz.com\n\n#Raviz #TheRaviz #RavizKovalam #TheRavizKovalam\n#Kovalam #Kerala #Tourism #KeralaTourism #LuxuryResorts #Resorts #Destinations #TripAdvisor #CondeNastTraveller #TravelandLeisure #LonelyPlanet #WeekendGetaway #ValentinesDay2020 #Valentine #MadeForEachOther #CoupleGoals"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2242111877618857290",
+    "is_video": false,
+    "owner": {
+        "id": "13829535608"
+    },
+    "shortcode": "B8dlN-cJ_VK",
+    "taken_at_timestamp": 1581500585,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/83820154_723234131415963_643487869663153169_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=1BWzg1mId6kAX-utEQb&oh=5424f206d6d41bb3849c76894529ae52&oe=5EA715FF"
+}

@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1350,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/90517517_289323432051310_625051636465747354_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=110&_nc_ohc=tBCqbR8Auy4AX9Q6APH&oh=e7042677972d759bcc75ba1434066a23&oe=5EA6B749",
+    "edge_liked_by": {
+        "count": 1
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "#tajmahal #throwback"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272816565975372526",
+    "is_video": false,
+    "owner": {
+        "id": "249975117"
+    },
+    "shortcode": "B-Kqp_2ldLu",
+    "taken_at_timestamp": 1585160869,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.180.1440.1440a/s640x640/90517517_289323432051310_625051636465747354_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=110&_nc_ohc=tBCqbR8Auy4AX9Q6APH&oh=d104373254635287f4baba4d304d5fd4&oe=5EA48E17"
+}

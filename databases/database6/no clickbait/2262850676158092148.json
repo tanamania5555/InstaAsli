@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1021,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/89442419_568356307365771_819914024076579092_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=QlZJolMxf9oAX_1jJfF&oh=f207bd3cc9deb2eb543abee593719b76&oe=5EA6581D",
+    "edge_liked_by": {
+        "count": 242
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Amazing sunset at Taj Mahal \u2764\n.\n.\n.\n.\n.\n.\n.\n#tajmahal #agra #india #sunset #sky #travel #picoftheday #art #photography #pic #beautiful"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 10
+    },
+    "id": "2262850676158092148",
+    "is_video": false,
+    "owner": {
+        "id": "5982240480"
+    },
+    "shortcode": "B9nQrNsJ9N0",
+    "taken_at_timestamp": 1583972843,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c29.0.1021.1021a/s640x640/89442419_568356307365771_819914024076579092_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=QlZJolMxf9oAX_1jJfF&oh=7a8c7af803e5232c475ff15677e9fae0&oe=5EA372BA"
+}

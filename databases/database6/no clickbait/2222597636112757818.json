@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/81880876_603116566922401_4638268697696310714_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=DRCj-kUBZ2wAX_P94YM&oh=fcca5bf7b577643be3e860b8a11147f1&oe=5EA667C1",
+    "edge_liked_by": {
+        "count": 114
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Get a feel of traditional Travancore style architecture in the villas at The Raviz Ashtamudi. These rustic yet luxurious villas offers a king size bed, private plunge pool and a balcony overlooking lake.\n.\n.\n#KeralaTourism #Kerala #LuxuryResort #Raviz #TheRaviz #TravelDestinations #Luxury #GodsOwnCountry #DestinationKerala #Destinations #ResortsInKerala #Travel #Wanderlust #Ashtamudi #RavizAshtamudi"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 1
+    },
+    "id": "2222597636112757818",
+    "is_video": false,
+    "owner": {
+        "id": "2137015239"
+    },
+    "shortcode": "B7YQMYzH7Q6",
+    "taken_at_timestamp": 1579174306,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/81880876_603116566922401_4638268697696310714_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=DRCj-kUBZ2wAX_P94YM&oh=4a41454948a76008d4368afad6ab1a0b&oe=5EA433A6"
+}

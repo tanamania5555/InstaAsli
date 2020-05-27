@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 756,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/79957943_847405712380919_2896484040108010436_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=xmVFXgbPxY0AX-BvNpn&oh=fd7e87f3d070d3e65040a7283238d767&oe=5EA370E3",
+    "edge_liked_by": {
+        "count": 9
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "JOMLA BELI IPHONE \ud83d\ude0a\ud83d\ude0a\ud83d\ude0a\n.\niPhone 8Plus 256GB - RM1950\niPhone X 256GB - RM2,500\niPhone XS 256GB + Airpod - RM3,099\n.\nTapi yang 8plus 256GB Gold tu dh reserved tau \ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\n.\n#akhifixmobile #akhifixmobilejualphone #shahalam #klang #iphonexklang #iphonex #iphone8plusklang #iphone8plus #iphoneXs #airpod #freeairpod #apple #technology"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2199485186811115440",
+    "is_video": false,
+    "owner": {
+        "id": "2262327627"
+    },
+    "shortcode": "B6GJB_AnDew",
+    "taken_at_timestamp": 1576419088,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c215.0.1009.1009a/s640x640/79957943_847405712380919_2896484040108010436_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=xmVFXgbPxY0AX-BvNpn&oh=54dbed8a8c92703021300ae81ebc8ef8&oe=5EA5477D"
+}

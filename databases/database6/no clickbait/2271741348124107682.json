@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/90428354_532961100951709_1094627084779514993_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=ycay44CIGLAAX8-J-TD&oh=9bc9a314f3cafcda19ee840c28ab281d&oe=5EA3B612",
+    "edge_liked_by": {
+        "count": 225
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "\ud83d\udeb4\u200d\u2640\ufe0f\ud83c\udf38\n#bianchi#roadbike#roadbikegirl#cherryblossom"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 1
+    },
+    "id": "2271741348124107682",
+    "is_video": false,
+    "owner": {
+        "id": "5527880552"
+    },
+    "shortcode": "B-G2LhMgSOi",
+    "taken_at_timestamp": 1585032693,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/90428354_532961100951709_1094627084779514993_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=ycay44CIGLAAX8-J-TD&oh=07bae43e54e6687336d9bb1d83c6e204&oe=5EA48B27"
+}

@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/90751976_570453703563450_1083898139736050385_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=_u5UMXFRifcAX_P8Aoa&oh=cd673cf10aa354ca5cbb159c68fd07bf&oe=5EA3C4D9",
+    "edge_liked_by": {
+        "count": 10
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "L'Inde confin\u00e9e \ud83c\uddee\ud83c\uddf3, pat l'expat au Taj Mahal #tajmahal Ao\u00fbt 1985 #india #patlexpat #utarpradesh #agra"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 1
+    },
+    "id": "2272782542400957060",
+    "is_video": false,
+    "owner": {
+        "id": "2104535068"
+    },
+    "shortcode": "B-Ki647hKqE",
+    "taken_at_timestamp": 1585156813,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/90751976_570453703563450_1083898139736050385_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=_u5UMXFRifcAX_P8Aoa&oh=80f72a8cd1d0c88d633f19eaf0eb162b&oe=5EA608BE"
+}

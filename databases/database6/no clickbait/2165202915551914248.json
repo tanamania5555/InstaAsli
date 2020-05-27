@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/73457393_179527033228030_2938185988791483483_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=110&_nc_ohc=bN39cqnO5PgAX9e-J6t&oh=6374291d98e2e3e90f0916b7d71c7717&oe=5EA5E989",
+    "edge_liked_by": {
+        "count": 94
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "An idyllic retreat that takes colonial vibes many notches up! The architecture at The Raviz Resort & Spa, Ashtamudi effortlessly combines traditional styles with a contemporary ambience. \nFor more details contact:\nLandline:+91 471 255 8055 | Toll-Free: 1800 4252 2220 | Email: reservations@theraviz.com | Visit: www.theraviz.com\n\n#LuxuryResorts #KeralaTourism #Kerala #LuxuryResort #Raviz #TheRaviz #TravelDestinations #Luxury #GodsOwnCountry #DestinationKerala #Destinations #ResortsinKerala #Travel #WanderLust #RavizAshtamudi #Ashtamudi"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2165202915551914248",
+    "is_video": false,
+    "owner": {
+        "id": "2137015239"
+    },
+    "shortcode": "B4MWJR4HKkI",
+    "taken_at_timestamp": 1572332323,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/73457393_179527033228030_2938185988791483483_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=110&_nc_ohc=bN39cqnO5PgAX9e-J6t&oh=2390b408a03ca155cf48b48f4182664c&oe=5EA53F6E"
+}

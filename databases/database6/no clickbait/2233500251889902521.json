@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/83165143_175302157036622_626922937344600199_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=aF1hyCNGvFMAX-Asad4&oh=11d2f5d73c17dbaf8ef74ca6b4b65d4d&oe=5EA4BAF1",
+    "edge_liked_by": {
+        "count": 40
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "We are beyond thrilled that The Raviz Kovalam was recently commended for our excellence in quality and standards by Fit Reisen Germany - a leading provider of health and wellness travel. The prestigious \"Fit Reisen Quality Certificate - 2019\" is awarded to hotels with a strong service and quality orientation, and a clear focus on spa and health.\n\nFor details contact: 0471 \u2013 3051234 | Toll Free: 1800 4252 2220 | www.theravizkovalam.com | www.theraviz.com | ayurveda@theraviz.com\n\n#Raviz #TheRaviz #RavizKovalam #TheRavizKovalam\n#Kovalam #Kerala #Tourism #KeralaTourism #LuxuryResorts #Resorts #Destinations #TripAdvisor #CondeNastTraveller #TravelandLeisure #FitReisen #FitReisenQualityCertificate"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 1
+    },
+    "id": "2233500251889902521",
+    "is_video": false,
+    "owner": {
+        "id": "13829535608"
+    },
+    "shortcode": "B7-_KU_pKO5",
+    "taken_at_timestamp": 1580473999,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/83165143_175302157036622_626922937344600199_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=aF1hyCNGvFMAX-Asad4&oh=a9f57b4a0d2cbb5ddb8aa707bca724b8&oe=5EA5B384"
+}

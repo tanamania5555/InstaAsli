@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 888,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/90769407_684695022277727_3338284447705068056_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=BqM8iNYScywAX9Gs4N5&oh=8bc0d17a1897a0d8727edd9b7a85150b&oe=5EA45437",
+    "edge_liked_by": {
+        "count": 6
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "As many of you know...We are a family owned/family operated small business. We rely on many employees to help us daily. We love our employees and think of them as our family!! Our prayers for all those who are struggling this was not our intention but this is a trying time for most people. There are many small businesses that are trying to do what they can during this time of struggle. Mahalo to many for all your support, prayers and love throughout our 25 years. #aloha #poipukauai #surfsale #surf #surfboard #poipu #poipubeach #lifestyle #lifeofadventure #beachlife #shoplocal #saltyhair #sunnypoipu #bikini #bikinilife #surfing #surfstuff #boogie #island #islandlife #saltyhairdontcare #salty #beach #beachtime #kauaimade #coconuttree #sand #beach #beachvibes  #beachdays"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 1
+    },
+    "id": "2272813662695440615",
+    "is_video": false,
+    "owner": {
+        "id": "192917071"
+    },
+    "shortcode": "B-Kp_v9ncDn",
+    "taken_at_timestamp": 1585160523,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c128.0.1184.1184a/s640x640/90769407_684695022277727_3338284447705068056_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=BqM8iNYScywAX9Gs4N5&oh=cd26ada710be0e24938debed3a0d0454&oe=5EA3D6F6"
+}

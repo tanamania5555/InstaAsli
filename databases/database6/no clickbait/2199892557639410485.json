@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/76897871_570363997095082_598770478170136982_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=110&_nc_ohc=cSxu-TNee3EAX_WbHP3&oh=74647a8fcca296e73946858d597079f9&oe=5EA50E2A",
+    "edge_liked_by": {
+        "count": 47
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "The coffee shop at The Raviz Calicut features a convivial atmosphere and offers choicest beverages along with a mouth-watering array of pastries, cakes, pizzas and more. Make this the perfect meeting spot!\n\n#KeralaTourism #Kerala #LuxuryResort #Raviz #TheRaviz #TravelDestinations #Luxury #GodsOwnCountry #DestinationKerala #Destinations #ResortsInKerala #Travel #Wanderlust #Calicut #RavizCalicut"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2199892557639410485",
+    "is_video": false,
+    "owner": {
+        "id": "2137015239"
+    },
+    "shortcode": "B6HlqAqH2M1",
+    "taken_at_timestamp": 1576467650,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/76897871_570363997095082_598770478170136982_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=110&_nc_ohc=cSxu-TNee3EAX_WbHP3&oh=53fb5e3508f438d012e19d71cea6d535&oe=5EA33A5B"
+}

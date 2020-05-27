@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1184,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/73228134_423740491852435_1964229804709580551_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=107&_nc_ohc=kSQPGEeUhKQAX907iI2&oh=fedddc9b5238bf57e8e5dc396e72fd07&oe=5EA460B7",
+    "edge_liked_by": {
+        "count": 14
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "\u0d1e\u0d3e\u0d28\u0d41\u0d02 \u0d30\u0d35\u0d3f \u0d2a\u0d3f\u0d33\u0d33 \u0d38\u0d3e\u0d31\u0d41\u0d02#raviz #grandhyatt #mamooty\ud83d\ude0d"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2176955954700380602",
+    "is_video": false,
+    "owner": {
+        "id": "10993883730"
+    },
+    "shortcode": "B42Gegjlmm6",
+    "taken_at_timestamp": 1573733394,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.52.1080.1080a/s640x640/73228134_423740491852435_1964229804709580551_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=107&_nc_ohc=kSQPGEeUhKQAX907iI2&oh=24fbee42c91d37475422929c33925f41&oe=5EA475F6"
+}

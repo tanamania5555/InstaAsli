@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1349,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/91288634_2746588918785383_8783507418934314195_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=GLwe9D9HLNQAX_Ul1cN&oh=7aca979a06f53b369430a29b4f9153d8&oe=5EA6F89C",
+    "edge_liked_by": {
+        "count": 39
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Taj Mahal \n#tajmahal #indianmonuments #worldwonder #love #spreadlove #architecture #architecturephotography #minimalism #incredibleindia #_coi"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272762045107323328",
+    "is_video": false,
+    "owner": {
+        "id": "244672515"
+    },
+    "shortcode": "B-KeQnVnMHA",
+    "taken_at_timestamp": 1585154370,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.179.1440.1440a/s640x640/91288634_2746588918785383_8783507418934314195_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=GLwe9D9HLNQAX_Ul1cN&oh=59b51a031664ae0beb4d91784f9d440e&oe=5EA3385C"
+}

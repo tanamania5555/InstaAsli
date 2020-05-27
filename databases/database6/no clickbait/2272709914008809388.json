@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 607,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/90796649_1259702927560306_1687392073465002605_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=110&_nc_ohc=5C6F6OBSoaQAX_AEHo1&oh=702826b84e6dc5aa745d52b718f1a168&oe=5EA4AB9B",
+    "edge_liked_by": {
+        "count": 43
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "#oneplusindia #oneplus7pro #shotononeplus #tajmahal #wahtaj #agra #cityoftajmahal #abhishekbhattphotography"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 1
+    },
+    "id": "2272709914008809388",
+    "is_video": false,
+    "owner": {
+        "id": "1513098437"
+    },
+    "shortcode": "B-KSaAeAO-s",
+    "taken_at_timestamp": 1585148155,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c315.0.810.810a/s640x640/90796649_1259702927560306_1687392073465002605_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=110&_nc_ohc=5C6F6OBSoaQAX_AEHo1&oh=329de4044dd6f3a99745a1ab625b9e02&oe=5EA507FB"
+}

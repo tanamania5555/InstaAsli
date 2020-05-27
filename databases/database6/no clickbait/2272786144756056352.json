@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/90755785_215005003052116_2539399531402478376_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=qy7piwRkjaEAX_bEMe7&oh=9dd39b96a698b2f92c42385406afeacd&oe=5EA64CEB",
+    "edge_liked_by": {
+        "count": 55
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "3 years ago today!  #tajmahal"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 6
+    },
+    "id": "2272786144756056352",
+    "is_video": false,
+    "owner": {
+        "id": "9890794"
+    },
+    "shortcode": "B-KjvT4nUEg",
+    "taken_at_timestamp": 1585157243,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/90755785_215005003052116_2539399531402478376_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=qy7piwRkjaEAX_bEMe7&oh=917c2e5eba5fb4c31178bb51954b824b&oe=5EA4335E"
+}

@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 810,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/91091498_113353913638780_311275648867955963_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=svDotM0pUcAAX9lSU5L&oh=558917fadb7a8f5042084790e0b6ee72&oe=5EA5B968",
+    "edge_liked_by": {
+        "count": 71
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "#tajmahal \u2764\ufe0f\ud83d\udcf8\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#agra #photography #india #shotoniphone #wondersoftheworld #peaceful #peace #tbt #tb #wonderfull_places #marble #friends #yamunariver #indianphotography #malayali"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272721870059655990",
+    "is_video": false,
+    "owner": {
+        "id": "6208752066"
+    },
+    "shortcode": "B-KVH_aKtM2",
+    "taken_at_timestamp": 1585149581,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c180.0.1080.1080a/s640x640/91091498_113353913638780_311275648867955963_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=svDotM0pUcAAX9lSU5L&oh=e8fcb9e691a7ca4568e8a197ea18cc9e&oe=5EA338B7"
+}

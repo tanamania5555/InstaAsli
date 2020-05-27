@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/84561309_605941010187337_703763025178523134_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=b6biaPlnEA8AX8HQA5F&oh=3678b614c6a7faa666a3063a790ef91a&oe=5EA5955D",
+    "edge_liked_by": {
+        "count": 57
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "If a love-filled weekend away has long been on the charts for you, then this is the ideal time for it! This Valentines, plan a romantic escape to a beach haven. While at The Raviz Kovalam, just leave it to us to curate a staycation experience & a tantalizing dinner for you & your beloved.\n\n#LuxuryResorts #KeralaTourism #Kerala #LuxuryResort #Raviz #TheRaviz #TravelDestinations #Luxury #GodsOwnCountry #DestinationKerala #Destinations #ResortsinKerala #Travel #WanderLust #RavizKovalam #Kovalam #ValentinesDay #CoupleGoals"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2242124607079218689",
+    "is_video": false,
+    "owner": {
+        "id": "2137015239"
+    },
+    "shortcode": "B8doHNrHn4B",
+    "taken_at_timestamp": 1581502103,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/84561309_605941010187337_703763025178523134_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=b6biaPlnEA8AX8HQA5F&oh=fe28d8344be498f67233a50fd7d4e18e&oe=5EA6F730"
+}

@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/90715764_2277161205911249_4338305668033845536_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=105&_nc_ohc=x-KZpZM_9-cAX-0QxSg&oh=fab90c484e362db61c6d01d3c5192f84&oe=5EA6B120",
+    "edge_liked_by": {
+        "count": 23
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "\"Certain things catch your eyes, but pursue only those that capture the \u2764\ufe0f\".\n#tajmahal #india #monument #oph #mobilephotography #photographers_of_india  #agra"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272683558942774581",
+    "is_video": false,
+    "owner": {
+        "id": "19688776271"
+    },
+    "shortcode": "B-KMafZp5U1",
+    "taken_at_timestamp": 1585145014,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/90715764_2277161205911249_4338305668033845536_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=105&_nc_ohc=x-KZpZM_9-cAX-0QxSg&oh=f5e9f2e71f347a257e1c2b002bb7819b&oe=5EA3DCA6"
+}

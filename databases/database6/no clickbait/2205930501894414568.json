@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 420,
+        "width": 750
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/79389216_131568324971234_7084364466808596859_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=CpMd5tRM3IEAX9CPdkX&oh=f345e10d3724efe4f7dde80bcaec6b39&oe=5EA5B394",
+    "edge_liked_by": {
+        "count": 45
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "#\u06af\u0686\u0628\u0631\u06cc#\u0631\u0627\u0648\u06cc\u0632\u06a9\u0627\u0631\u06cc#\u062f\u0631#\u0686\u0648\u0628#\u0631\u0646\u06af#\u0634\u06cc\u0634\u0647#\u0627\u0644\u0627\u0686\u06cc\u0642#\u0645\u062d\u0648\u0637\u0647#\u0628\u0627\u063a #\u0628\u0627\u063a\u0686\u0647\n#gachalife#raviz#dar#chobani#rangerover#shishe#alachighe_manto#mohavate#baghdad#baghche"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2205930501894414568",
+    "is_video": false,
+    "owner": {
+        "id": "20205066462"
+    },
+    "shortcode": "B6dChqcnaDo",
+    "taken_at_timestamp": 1577187429,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/c158.0.404.404a/79389216_131568324971234_7084364466808596859_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=CpMd5tRM3IEAX9CPdkX&oh=7c4cb4fff81deba383541eb913083fdf&oe=5EA530C9"
+}

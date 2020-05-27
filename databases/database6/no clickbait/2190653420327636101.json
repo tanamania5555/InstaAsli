@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/78717256_2509192882687480_3770296435265110616_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=NlXBOlAKBUoAX_W5EGA&oh=4c8bfb125e6b09311edb650c758d6810&oe=5EA62096",
+    "edge_liked_by": {
+        "count": 92
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "The breathtaking Ashtamudi is still under the spell of the frenzied vanchipaatu and the rhythmic oar sways of the boatmen. The final lap of the Champions Boat League (CBL), the country\u2019s first-ever boat race concluded with the illustrious President\u2019s Trophy Boat Race at the Ashtamudi Lake. The Raviz Ashtamudi is proud to have hosted the eminent dignitaries attending the event.\n\n#LuxuryResorts #KeralaTourism #Kerala #LuxuryResort #Raviz #TheRaviz #TravelDestinations #Luxury #GodsOwnCountry #DestinationKerala #Destinations #ResortsinKerala #Travel #WanderLust #RavizAshtamudi #Ashtamudi #ChampionsBoatLeague #PresidentsTrophyBoatRace #BoatRaceKerala #Vallamkali #ChampionsBoatLeague2019"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2190653420327636101",
+    "is_video": false,
+    "owner": {
+        "id": "2137015239"
+    },
+    "shortcode": "B5mw63gn4yF",
+    "taken_at_timestamp": 1575366259,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/78717256_2509192882687480_3770296435265110616_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=NlXBOlAKBUoAX_W5EGA&oh=3e13214bc2144c9a12dc0d89a9dd2e2d&oe=5EA653B0"
+}

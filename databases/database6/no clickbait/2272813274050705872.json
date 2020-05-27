@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1350,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/91083406_3296356093726302_8260828515412652904_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=5TsJ-zRdFwgAX_G-CmR&oh=0f154c1d82aced75e0c38b439021a0f1&oe=5EA3DBC6",
+    "edge_liked_by": {
+        "count": 4
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "\ud83c\udf3a Mod\u00e8le MALIBU \ud83c\udf3a\n.\n.\n#jewelry #adventure #girly #california #surf #sun #bijoux #madeinlyon #lyon #etsylyon #etsy #summer #collier #takecare #beyourself #wild #travel #wanderlust #pink #malibu #beach #green #beauty"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272813274050705872",
+    "is_video": false,
+    "owner": {
+        "id": "32104280962"
+    },
+    "shortcode": "B-Kp6GAlbnQ",
+    "taken_at_timestamp": 1585160477,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.135.1080.1080a/s640x640/91083406_3296356093726302_8260828515412652904_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=5TsJ-zRdFwgAX_G-CmR&oh=a33d7719036ba6e367cf34be584a8a76&oe=5EA49053"
+}

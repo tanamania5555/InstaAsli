@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 750,
+        "width": 750
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e15/72190487_2478996545689141_4684910695912047510_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=zNwnFoDwiHAAX-deg6O&oh=804a7f5646993538b142a55696a4b21b&oe=5EA46ECB",
+    "edge_liked_by": {
+        "count": 41
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Equipped with modern audio-visual technology and designed with a pre-function area, the Senate at Raviz Calicut is where you can effortlessly plan that perfect presentation or meeting.\n\n#LuxuryResorts #KeralaTourism #Kerala #LuxuryResort #Raviz #TheRaviz #TravelDestinations #Luxury #GodsOwnCountry #DestinationKerala #Destinations #ResortsinKerala #Travel #WanderLust #RavizCalicut #Calicut #SenateCalicut"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2173070494677284322",
+    "is_video": false,
+    "owner": {
+        "id": "2137015239"
+    },
+    "shortcode": "B4oTBn7HzXi",
+    "taken_at_timestamp": 1573270211,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e15/s640x640/72190487_2478996545689141_4684910695912047510_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=zNwnFoDwiHAAX-deg6O&oh=0aa055a8df2d957abc26df3f53d3c55f&oe=5EA6B3E3"
+}

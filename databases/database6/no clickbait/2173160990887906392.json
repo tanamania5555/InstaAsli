@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 725,
+        "width": 750
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/74380888_207823076889438_4732423438327034374_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=d33gHOygdhYAX9_CVuF&oh=7de06b66544195b513ad081dedcb79e6&oe=5EA50A77",
+    "edge_liked_by": {
+        "count": 93
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Kerala Burger \ud83c\udf54\nChefs Special Recipe \ud83d\ude0d .\n.\n.\nWhen @chef_pillai - our corporate chef decided to amuse the guests by presenting Kerala's own burger made using 'Parippuvada' - a Kerala snack \ud83e\udd24\nVisit - The Raviz Ashtamudi .\n.\n#foodstagram #foodlover #food #foodies #foodart #foodphotography #goodvibes #yummy #yummyinside #burger #vegan #keralagram #kerala #keralatourism #keralafood #chefsofinstagram #chef #chefclub #cheflife\ud83d\udd2a #foodporn #snack #delicacy #raviz #tourism #musthave"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2173160990887906392",
+    "is_video": false,
+    "owner": {
+        "id": "2137015239"
+    },
+    "shortcode": "B4onmhFnAxY",
+    "taken_at_timestamp": 1573280999,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c12.0.696.696a/s640x640/74380888_207823076889438_4732423438327034374_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=d33gHOygdhYAX9_CVuF&oh=7ed3f623edc0e9109bb49b017fb3b8c1&oe=5EA526BA"
+}

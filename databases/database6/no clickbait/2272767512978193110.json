@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1350,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/91230539_2295011074137852_6988758865432048901_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=vqGeSo6_PzsAX8-YqXu&oh=57cba04d761e55cc88f706001cd77396&oe=5EA378EE",
+    "edge_liked_by": {
+        "count": 15
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Taj mahal Agra(pyar mahal) \u2764\ufe0f\ud83d\udd4d#alettaocean @alettaoceanofficial1 @rivarora_ @riyaz.14 #agra #tajmahal #annabellpeaks #alettaocean @awez_darbar #awesome #memes"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272767512978193110",
+    "is_video": false,
+    "owner": {
+        "id": "5768384784"
+    },
+    "shortcode": "B-KfgLsHPrW",
+    "taken_at_timestamp": 1585155022,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.108.864.864a/s640x640/91230539_2295011074137852_6988758865432048901_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=vqGeSo6_PzsAX8-YqXu&oh=0dc01a086cfc0dbd86aa78cfb30547bc&oe=5EA50A0C"
+}

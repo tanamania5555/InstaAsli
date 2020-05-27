@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 500,
+        "width": 750
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/72412657_143869003601026_1548767208779927698_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=110&_nc_ohc=RbknbwzapSUAX8Vh0Wi&oh=a6ededc449a7b9a7bfaa56e381097468&oe=5EA5E5BB",
+    "edge_liked_by": {
+        "count": 35
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Apart from the natural bounty, Kerala has another boon to offer you as well - Ayurveda. It is in this land that you can get up-close with Panchakarma, the fivefold detoxifying & strengthening therapy. Trust Ayurveda, the ancient health care tradition to channel your healing energies in the right direction.\n\nFor details, contact: Toll Free : 1800 4252 2220 |Email: reservations@theraviz.com | Visit: www.theraviz.com\n\n#LuxuryResorts #KeralaTourism #Kerala #LuxuryResort #Raviz #TheRaviz #TravelDestinations #Luxury #GodsOwnCountry #DestinationKerala #Destinations #ResortsinKerala #Travel #WanderLust #Ayurveda #Panchakarma #EverydayAyurveda #AncientHealthCare"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2170199913136932306",
+    "is_video": false,
+    "owner": {
+        "id": "2137015239"
+    },
+    "shortcode": "B4eGVKiHEXS",
+    "taken_at_timestamp": 1572928011,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/c116.0.467.467a/72412657_143869003601026_1548767208779927698_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=110&_nc_ohc=RbknbwzapSUAX8Vh0Wi&oh=fde65160ced532789ce1343ad41aedf5&oe=5EA42CAD"
+}

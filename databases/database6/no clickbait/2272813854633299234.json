@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 608,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/90705769_3284504254922319_5663234672308440015_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=SH0I7T0LYDoAX-FdS9A&oh=17b4601d3bd40309ebfde40ac1db5f5a&oe=5EA4A38F",
+    "edge_liked_by": {
+        "count": 8
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "\ud83d\udc33\u26f5\ud83c\udf1e #throwback #cuba #caribik #beautifulcuba #beach #sunshine #piecefullplace #katamaran #cayococo #carribean #kuba #vacation #travelling #lastholiday #safebackhome #memories"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272813854633299234",
+    "is_video": false,
+    "owner": {
+        "id": "422944744"
+    },
+    "shortcode": "B-KqCiuAQ0i",
+    "taken_at_timestamp": 1585160546,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/c236.0.608.608a/90705769_3284504254922319_5663234672308440015_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=SH0I7T0LYDoAX-FdS9A&oh=c5584873602af8ad18ffa1b61c65caba&oe=5EA35DBE"
+}

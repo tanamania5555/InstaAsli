@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 810,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/90847581_899199850514018_3090453900295006976_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=Ypns4yOYdqQAX_EZBr4&oh=6f7e9b6819d1ec913602be804e1f71ad&oe=5EA6D168",
+    "edge_liked_by": {
+        "count": 14
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Took me a full day but hope you like it!\n\n#tajmahal \n#wondersoftheworld\n#doodleart \n#tantrick \ud83d\udc95"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 9
+    },
+    "id": "2272726213427308230",
+    "is_video": false,
+    "owner": {
+        "id": "29337274620"
+    },
+    "shortcode": "B-KWHMfDabG",
+    "taken_at_timestamp": 1585150098,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c135.0.810.810a/s640x640/90847581_899199850514018_3090453900295006976_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=Ypns4yOYdqQAX_EZBr4&oh=cc56e2e3f0d5c6fb5bdaf145d02d917c&oe=5EA50F45"
+}

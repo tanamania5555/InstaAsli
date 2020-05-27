@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/81117293_625296844950872_5565713245133574967_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=tA6QKl8uYegAX8cQk4P&oh=ef8aae3867c18740a601bba6caaa5a0d&oe=5EA3E2AF",
+    "edge_liked_by": {
+        "count": 53
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Savor the best and the freshest of backwaters bounty from the beautiful Lake Ashtamudi, delightfully cooked up by culinary specialists at Keraleeyam.\n\n#KeralaTourism #Kerala #LuxuryResort #Raviz #TheRaviz #TravelDestinations #Luxury #GodsOwnCountry #DestinationKerala #Destinations #ResortsInKerala #Travel #Wanderlust #Ashtamudi #RavizAshtamudi"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2227430108843304241",
+    "is_video": false,
+    "owner": {
+        "id": "2137015239"
+    },
+    "shortcode": "B7pa-HvnWUx",
+    "taken_at_timestamp": 1579750382,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/81117293_625296844950872_5565713245133574967_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=tA6QKl8uYegAX8cQk4P&oh=5253eeef86c623b3dd734cd8009674bc&oe=5EA4CB4C"
+}

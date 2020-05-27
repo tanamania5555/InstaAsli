@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 937,
+        "width": 750
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/90833122_675399726566862_2272704755852320850_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=N4rrx6UIY7wAX9WpSUi&oh=6bd2a9983c6513100a8360db7e920614&oe=5EA638D7",
+    "edge_liked_by": {
+        "count": 18
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Went to Indian restaurant and reminded me of my Indian journey in 2012\ud83c\uddee\ud83c\uddf3 #india #backpacker #2012 #worldtraveler #lifeisbeautiful #lovemylife #lifeiscolorful #tajmahal #jodhpur #agra #newdelhi #jaipur #buddhagaya #varanasi #ganger"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272761964417924294",
+    "is_video": false,
+    "owner": {
+        "id": "1157322587"
+    },
+    "shortcode": "B-KePcMJjzG",
+    "taken_at_timestamp": 1585154360,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.90.720.720a/s640x640/90833122_675399726566862_2272704755852320850_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=N4rrx6UIY7wAX9WpSUi&oh=c70dba1610b1e6b33d9db4cdfb64b42a&oe=5EA67AC3"
+}

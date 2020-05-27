@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 760,
+        "width": 750
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/72453348_560637708054730_4671058340421563638_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=110&_nc_ohc=2VZS0jGQUFAAX9c8pH_&oh=4e57caccb88903e030efdfb0049ad587&oe=5EA33A46",
+    "edge_liked_by": {
+        "count": 115
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Grilled Indian bream \ud83c\udf63 .\n.\n.\nFresh catch from Lake Ashtamudi \ud83c\udf0a\nVisit - The Raviz Resort & Spa, Ashtamudi \n#foodphotography #foodporn #foodgasm #foodies #foodart #freshcatch #fishfry #grilled #foodlover #bananaleaf #seafoodie #seafood #tourism #keralatourism #keraladelicacy #eatfresh #delicacy #resort #raviz"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2169044802771855888",
+    "is_video": false,
+    "owner": {
+        "id": "2137015239"
+    },
+    "shortcode": "B4Z_sGLH6oQ",
+    "taken_at_timestamp": 1572790311,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.5.720.720a/s640x640/72453348_560637708054730_4671058340421563638_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=110&_nc_ohc=2VZS0jGQUFAAX9c8pH_&oh=51878957aa3e83ede3616c45e61e14f8&oe=5EA667CD"
+}

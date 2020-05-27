@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 750,
+        "width": 750
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e15/71788395_993796390974887_728759491566634441_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=1xlhYQ1sOAMAX-A_upk&oh=6120527493f4fef0a5e17f128d08dce6&oe=5EA4D398",
+    "edge_liked_by": {
+        "count": 155
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Do you start your day with a glass of milk?\n\nLet's take a second to pay respects to Dr. Verghese Kurien, a humble revolutionary who pioneered 'White Revolution in India' with efforts to uplift the milk production sector. On National Milk Day, chefs from Raviz Ashtamudi visited our own organic farm in Kollam. The farm has Gir, Kankrej, Kasargod Kullan and Vechur cows which are considered to be the best cow breeds. Raviz Ashtamudi also offers A2 milk which is produced from the Gir Cows that are grazed in our own farm, bringing the goodness of milk in it's best natural state where no machines are used and are fed organic fodder. A2 milk also has high nutritional value, it helps in cleaning the cholesterol deposits, prevents lifestyle diseases, immunological disorders and increases immunity power.\n\n#KeralaTourism #Kerala #LuxuryResort #Raviz #TheRaviz #TravelDestinations #Luxury #GodsOwnCountry #DestinationKerala #Destinations #ResortsinKerala #Travel #WanderLust #RavizAshtamudi #ashtamudi"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2185585608546477112",
+    "is_video": false,
+    "owner": {
+        "id": "2137015239"
+    },
+    "shortcode": "B5Uwof_nmQ4",
+    "taken_at_timestamp": 1574762129,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e15/s640x640/71788395_993796390974887_728759491566634441_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=1xlhYQ1sOAMAX-A_upk&oh=22b5a06314a1c8b63408f497950dacf5&oe=5EA51102"
+}

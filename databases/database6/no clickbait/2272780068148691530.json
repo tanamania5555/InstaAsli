@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1350,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/90990382_499975914244050_7215197587155734089_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=9icA3HyRkAkAX8Rg_2y&oh=e5b90403f29d05bc6089291eed50cb8c&oe=5EA41EA2",
+    "edge_liked_by": {
+        "count": 44
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "\u2763\ufe0f\n\u00b0\n\u00b0\n\u00b0\n\u00b0\n\u00b0\n\u00b0\n#tajmahal#agra#love#uttarpradesh#india#travelphotography#travel#traveler#wanderlust#wanderer#indianphotography#worldwithoutborders#wander#architecture #sunrise"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 4
+    },
+    "id": "2272780068148691530",
+    "is_video": false,
+    "owner": {
+        "id": "425402795"
+    },
+    "shortcode": "B-KiW4ml0JK",
+    "taken_at_timestamp": 1585156518,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.135.1080.1080a/s640x640/90990382_499975914244050_7215197587155734089_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=9icA3HyRkAkAX8Rg_2y&oh=2cb5bd20b9f5c1b708064c1cb54d3893&oe=5EA6A62E"
+}

@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/90402775_200355204591984_5487513865317041312_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=PDgyE_eE0ekAX-dU96C&oh=2bb26bacbb7438e952145e685b2e174e&oe=5EA48BC6",
+    "edge_liked_by": {
+        "count": 49
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "For us at Raviz Hotels & Resorts, water is life. A stay with us is incomplete without a dip in the ocean or a cruise on the lake. We go that extra mile in ensuring that water is not wasted. Each one of us is part of India\u2019s water future!\n\n#KeralaTourism #Kerala #LuxuryResort #Raviz #TheRaviz #TravelDestinations #Luxury #GodsOwnCountry #DestinationKerala #Destinations #ResortsinKerala #Travel #Wanderlust #RavizKadavu #RavizCalicut #RavizAshtamudi #RavizKovalam #WorldWaterDay #SaveWater #WWD #WorldWaterDay2020 #WWD2020 #WaterScarcity #WaterCrisis #CleanWater #ForOurWater #Water"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2270273048166636404",
+    "is_video": false,
+    "owner": {
+        "id": "2137015239"
+    },
+    "shortcode": "B-BoU8THZt0",
+    "taken_at_timestamp": 1584857658,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/90402775_200355204591984_5487513865317041312_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=PDgyE_eE0ekAX-dU96C&oh=8656e2dfec007b49b34c22fd1c877d0b&oe=5EA57F21"
+}

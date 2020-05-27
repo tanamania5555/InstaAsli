@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/88310952_204033797323909_542704104829807334_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=ogbQYVOykiAAX9-o3VI&oh=8e85186233d4af8996c0ef0a9a7e8731&oe=5EA6E495",
+    "edge_liked_by": {
+        "count": 36
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "The Raviz Ashtamudi has all the right ingredients lined up for a joyful day dipped in the brightest of hues this Holi. The Holi special bash will include a scrumptious brunch with a festive spread, interactive counters, rain dance, day out package, evening cruise and fun talent events as well. Get set to unleash the masti we say!\n\n#LuxuryResorts #KeralaTourism #Kerala #LuxuryResort #Raviz #TheRaviz #TravelDestinations #Luxury #GodsOwnCountry #DestinationKerala #Destinations #ResortsinKerala #Travel #Wanderlust #HoliBrunch #HappyHoli"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2258883273845188443",
+    "is_video": false,
+    "owner": {
+        "id": "2137015239"
+    },
+    "shortcode": "B9ZKl6WnSdb",
+    "taken_at_timestamp": 1583499891,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/88310952_204033797323909_542704104829807334_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=ogbQYVOykiAAX9-o3VI&oh=11812f673bf83e4298c3d8cfdbbcf945&oe=5EA4BEE8"
+}

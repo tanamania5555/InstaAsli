@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1350,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/90509602_2704063733039135_6254677737532054153_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=DZecDaDfFMEAX9q68ag&oh=46db070ada16e624f46e3872a1526cf9&oe=5EA6A407",
+    "edge_liked_by": {
+        "count": 1020
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Rooftop Coral. ~Feat.@janvi_223 \nShot on the @fujifilmxindia X100F in raw, and processed in camera raw.\n\n#vinkphotography \n#kodeblackcreative \n#wevinked \n#mumbai\n#fuji\n.\n.\n.\n.\n.\n#mainbhisadakchap #nustaharamkhor #travelrealindia #yourshot_india #indianphotography #streetphotographyindia #tajmahal #desi_diaries #photooftheday #photographers_of_india #oph #_coi #_soi #_woi #pursuitofportraits #fatalframes #forbiddenart #mightydreamers #earth_portraits #rsaportraits #portraitgames #moodyports #cityports #ourmoodydays #fujix100f"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 37
+    },
+    "id": "2272757628690357114",
+    "is_video": false,
+    "owner": {
+        "id": "594174215"
+    },
+    "shortcode": "B-KdQWOpdt6",
+    "taken_at_timestamp": 1585153843,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.180.1440.1440a/s640x640/90509602_2704063733039135_6254677737532054153_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=DZecDaDfFMEAX9q68ag&oh=cff5d850e0c2c598d3c1f8eabd19102a&oe=5EA4C2A3"
+}

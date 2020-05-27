@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/fr/e15/s1080x1080/90885724_619978641916276_2891450570717586623_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=lsv6Iwd80bEAX-oMofk&oh=60a9cf33cb4d043aaee40309a7103e81&oe=5EA70590",
+    "edge_liked_by": {
+        "count": 2
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Aten\u00e7\u00e3o especial para cada detalhe \u2600\ufe0f Cole\u00e7\u00e3o Ver\u00e3o 20/21\n\n#chavedosol #chavedosoltorres #chavedosolitapema #chavedosolcapao #modapraia #verao2020 #bikinigirls #verao #summer #summervibes #summertime #beach #beachwear #praia #modafeminina #moda #summer2020 #beach2020 #empreendedorismo #empreender #sucesso #biquini #mai\u00f4 #model #fit #plussize"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272817754195194659",
+    "is_video": false,
+    "owner": {
+        "id": "3588378152"
+    },
+    "shortcode": "B-Kq7SeAXMj",
+    "taken_at_timestamp": 1585161011,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/90885724_619978641916276_2891450570717586623_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=lsv6Iwd80bEAX-oMofk&oh=2f446e62b32ccc3dd5d1e480f7e38f9b&oe=5EA6EE36"
+}

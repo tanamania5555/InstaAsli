@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 640,
+        "width": 640
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/84419619_1299951573727049_4235028934276588626_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=105&_nc_ohc=uLFOXdAVU00AX-KcX4n&oh=7f7234fb8bc7e80ea5dc751802960adf&oe=5EA34EAC",
+    "edge_liked_by": {
+        "count": 55
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Filled with lush greenery, tranquil beaches, and expansive history & heritage; Calicut offers visitors a chance to blend into its ancient and cultural past. The Raviz Calicut set in the spice capital of Kerala will prove to be the perfect weekend getaway.\n\n#LuxuryResorts #KeralaTourism #Kerala #LuxuryResort #Raviz #TheRaviz #TravelDestinations #Luxury #GodsOwnCountry #DestinationKerala #Destinations #ResortsinKerala #Travel #Wanderlust #Calicut #RavizCalicut"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2252843479633620037",
+    "is_video": false,
+    "owner": {
+        "id": "2137015239"
+    },
+    "shortcode": "B9DtTVqHexF",
+    "taken_at_timestamp": 1582779892,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/84419619_1299951573727049_4235028934276588626_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=105&_nc_ohc=uLFOXdAVU00AX-KcX4n&oh=7f7234fb8bc7e80ea5dc751802960adf&oe=5EA34EAC"
+}

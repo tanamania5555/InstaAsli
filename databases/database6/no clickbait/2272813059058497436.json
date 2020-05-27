@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/91087843_227470698313161_9147319724563589742_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=xwGx6xy9Rp8AX8G41Eo&oh=74f1ce9a5dd6ff556f91e26a2e0db10a&oe=5EA51FC2",
+    "edge_liked_by": {
+        "count": 0
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "\u201cHealth is Wealth\u201d\n\nHope everyone stays HEALTHY! Keep your immune up, spirit up, up up UP!!\n\ud83e\udd19\ud83e\udd19\ud83e\udd19 #CMA808 #HowDoYouCruise #Simple #Cruisin #Beautiful #Hawaii #Beach #BeTheBestYou #StayHealthy #StaySafe #StayFit #NoToCoCo #Views #Tshirts #Stickers #GoodVibes #Aloha #808 #Photography #Canon #GoPro #IslandStyle #LocalBrand\n#Paradise #InsideOut #MaskOff #MaskOn #ToiletPaper #Shit"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272813059058497436",
+    "is_video": false,
+    "owner": {
+        "id": "4655126271"
+    },
+    "shortcode": "B-Kp29yDPec",
+    "taken_at_timestamp": 1585160451,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/91087843_227470698313161_9147319724563589742_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=xwGx6xy9Rp8AX8G41Eo&oh=00ab69d772e17f7ef267cec7c6de9ccb&oe=5EA6B677"
+}

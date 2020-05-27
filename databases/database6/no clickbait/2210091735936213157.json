@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1350,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/81069460_688431475022598_1160041844785364972_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=J75XQxqiSxoAX-rW8W1&oh=2c16ebf4cc580ae048bef59977855efd&oe=5EA4771B",
+    "edge_liked_by": {
+        "count": 108
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "With the culinary genius @chef_pillai. Despite all his achievements, he is very humble and down to earth. We were fortunate enough to devour the chef's signature dish as well as listen to his gastronomic wisdom. Thank you @chef_pillai for making our stay at @theraviz a special one \u2022\n\u2022\n\u2022\n\u2022\n\u2022\n#kerala #godsowncountry #mallu #malayali #mallugram #malayalam #kochi #keralam #malluproud #southindia #malayalee #mallus #cochin #kozhikode #mollywood #trivandrum #keralaattraction #malayalamcinema #keralatourism #southindian #indiancinema #munnar #alappuzha #india_91 #kollywood #clickindiaclick #chennai #raviz #kollam"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 4
+    },
+    "id": "2210091735936213157",
+    "is_video": false,
+    "owner": {
+        "id": "2512524928"
+    },
+    "shortcode": "B6r0rlpgSCl",
+    "taken_at_timestamp": 1577683487,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.180.1440.1440a/s640x640/81069460_688431475022598_1160041844785364972_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=J75XQxqiSxoAX-rW8W1&oh=2dd085726e768ea8af988cc43ade7ee6&oe=5EA6A30A"
+}

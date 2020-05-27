@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/80394389_191087372037240_6719719752468307854_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=iwTt_hQRhsIAX-huF16&oh=7c3c91527f53ee49e261396bb10de175&oe=5EA6D2AD",
+    "edge_liked_by": {
+        "count": 54
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "The uber luxurious Royal Raviz Suite at The Raviz Calicut is equipped with every premium amenity & service imaginable and is great for families traveling together. Get ready to be transported to a world of lush comforts.\n\n#KeralaTourism #Kerala #LuxuryResort #Raviz #TheRaviz #TravelDestinations #Luxury #GodsOwnCountry #DestinationKerala #Destinations #ResortsInKerala #Travel #Wanderlust #Calicut #RavizCalicut"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2223862060039481561",
+    "is_video": false,
+    "owner": {
+        "id": "2137015239"
+    },
+    "shortcode": "B7cvsLWHyjZ",
+    "taken_at_timestamp": 1579325037,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/80394389_191087372037240_6719719752468307854_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=iwTt_hQRhsIAX-huF16&oh=b19971c205ac238b4e42ad16cb53227e&oe=5EA4CCCA"
+}

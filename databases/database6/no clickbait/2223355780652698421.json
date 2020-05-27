@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/80892105_630685294406434_1048719947116207112_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=110&_nc_ohc=0TKtva5xR5IAX8nI_r2&oh=c64f28685a0642345bcf80cbc79b800a&oe=5EA46617",
+    "edge_liked_by": {
+        "count": 80
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Poached, steamed, grilled or curried with the true essence and flavors of the beautiful Ashtamudi & Arabian sea intact. How about a dinner exclusively dedicated to this fresh bounty? Well, our mind reading has transpired into a \u2018Seafood Night\u2019 especially for you as part of the Chakara Season 2 series at The Raviz Ashtamudi.\n\n#KeralaTourism #Kerala #LuxuryResort #Raviz #TheRaviz #TravelDestinations #Luxury #GodsOwnCountry #DestinationKerala #Destinations #ResortsInKerala #Travel #Wanderlust #Ashtamudi #RavizAshtamudi #SeaFood #SeaFoodDinner #Chakara"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2223355780652698421",
+    "is_video": false,
+    "owner": {
+        "id": "2137015239"
+    },
+    "shortcode": "B7a8k17HYs1",
+    "taken_at_timestamp": 1579264684,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/80892105_630685294406434_1048719947116207112_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=110&_nc_ohc=0TKtva5xR5IAX8nI_r2&oh=a49644f371bb9496a20f59d964b9041c&oe=5EA642F4"
+}

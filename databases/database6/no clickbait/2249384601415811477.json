@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 606,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/83885853_627800654673586_1692774856823881830_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=110&_nc_ohc=OA6wJIre5rsAX_-VzxQ&oh=0442df37ab41fffec740e38e91ef109b&oe=5EA475D4",
+    "edge_liked_by": {
+        "count": 81
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Hair up, goggles on, world off! If the pool is calling, then you simply must go. Make the most of your time away from work & routine by The Raviz Calicut poolside.\n\n#LuxuryResorts #KeralaTourism #Kerala #LuxuryResort #Raviz #TheRaviz #TravelDestinations #Luxury #GodsOwnCountry #DestinationKerala #Destinations #ResortsinKerala #Travel #Wanderlust #RavizCalicut #Calicut"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 1
+    },
+    "id": "2249384601415811477",
+    "is_video": false,
+    "owner": {
+        "id": "2137015239"
+    },
+    "shortcode": "B83a2CSn4GV",
+    "taken_at_timestamp": 1582367561,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/c237.0.606.606a/83885853_627800654673586_1692774856823881830_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=110&_nc_ohc=OA6wJIre5rsAX_-VzxQ&oh=7239e4f881b45686f4eb722df02bdff8&oe=5EA6F962"
+}

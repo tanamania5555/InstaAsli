@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/84158274_225225808517538_4293940234072270165_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=F89mHVaM7rwAX_Tzb9a&oh=738c7f21034f40478f1368825cbb616b&oe=5EA5D366",
+    "edge_liked_by": {
+        "count": 32
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Verdant greenery, the limitless sea & ocean breezes have a way of putting the mind at ease. The right setting can do wonders for Ayurvedic therapies and treatments. Head to \nThe Raviz Kovalam for authentic and traditional Ayurvedic care in the comfort of 5 star facilities.\n\nFor bookings contact: +91 471 305 1234 | 1800 4252 2220\nmail: reservations.kovalam@theraviz.com | reservations@theraviz.com\n\n#Raviz #TheRaviz #RavizKovalam #TheRavizKovalam\n#Kovalam #Kerala #Tourism #KeralaTourism #LuxuryResorts #Resorts #Destinations #TripAdvisor #CondeNastTraveller #TravelandLeisure #LonelyPlanet #WeekendGetaway  #AyurvedaSpa #Spa #FavouriteKerala #GreenLeaf"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2242654175507214123",
+    "is_video": false,
+    "owner": {
+        "id": "13829535608"
+    },
+    "shortcode": "B8fghctJ28r",
+    "taken_at_timestamp": 1581565232,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/84158274_225225808517538_4293940234072270165_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=F89mHVaM7rwAX_Tzb9a&oh=723e2652830390f5fecacf932836c7ae&oe=5EA49E81"
+}

@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 905,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/91023062_517121918974080_39703489707262558_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=K9qPm01S4WsAX9yvc31&oh=551d45cffcf744509456cf66210e79d4&oe=5EA658E1",
+    "edge_liked_by": {
+        "count": 20
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "The more you know your HISTORY the more LIBERATED you are.\n\n#heritage #indianheritage #heritagehotel #prayagraj #welcomheritage #allahabad #museum #travel #travelphotography #travelblogger #traveltheworld #travelgram #traveling #travels #preweddingphoto #preweddingshoot #luxury #vacation #varanasi #ayodhya #chitrakut #vlogger #travelvlogger #tajmahal #stay #india #ig_india #india_ig #indianwedding #indian"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272795105786533748",
+    "is_video": false,
+    "owner": {
+        "id": "2290392609"
+    },
+    "shortcode": "B-Klxtfpxd0",
+    "taken_at_timestamp": 1585158311,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c87.0.905.905a/s640x640/91023062_517121918974080_39703489707262558_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=K9qPm01S4WsAX9yvc31&oh=03fd2f916764205a9482e9c52a0ed642&oe=5EA39F3A"
+}

@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 792,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/90434876_245227659969105_6325548497449914726_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=IBjNwQBPG-YAX_zoz_K&oh=8a4f19ede30a371bcc22df3c4e024f62&oe=5EA6DD34",
+    "edge_liked_by": {
+        "count": 8
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Taj\ud83d\udda4\n\n#blackandwhite #blackandwhitephotography #tajmahal #tajmahalagra #streetphotographyofindia #streetphotographyinternational #bnw_greatshots #bnw_globe #bnw_demand #bnw_captures #bnwphotography #bnwmood #bnwlandscape #streetphotography #everydayeverywhere #instagram #nikonindia #nikonindiaofficial #streets_vision #streetphotography_bw #magnumphotos #spicollective #traveller #travelindia #dslrmonochrome #spi_bnw #streetmagazine #bnw_drama"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272752777440860990",
+    "is_video": false,
+    "owner": {
+        "id": "31572078230"
+    },
+    "shortcode": "B-KcJwJpRs-",
+    "taken_at_timestamp": 1585153265,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c191.0.1057.1057a/s640x640/90434876_245227659969105_6325548497449914726_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=IBjNwQBPG-YAX_zoz_K&oh=1893eba5b87288e1f5783ef0505e4f89&oe=5EA3CD5C"
+}

@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/90825134_846730385818887_7060769073899856367_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=8x4Jy2FmfgsAX9cI-jF&oh=443cbc7ef1612be2232e419e8665e1cc&oe=5EA4F188",
+    "edge_liked_by": {
+        "count": 26
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "-Son Karar\u0131m. \ud83d\ude05\ud83d\ude05\n#kimmilyonerolmakister #atvst\u00fcdyolar\u0131#fun #atv #instagramers #food #smile #pretty #followme #nature #lol #dog #hair #likelike #swag #throwbackthursday #instagood #beach #likeforlikes #friends #hot #funny #blue #life #art #instahub #photo #bestoftheday #like4like #likeforlikes #likeforfollow"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272815244902442125",
+    "is_video": false,
+    "owner": {
+        "id": "10187799882"
+    },
+    "shortcode": "B-KqWxggKSN",
+    "taken_at_timestamp": 1585160712,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/90825134_846730385818887_7060769073899856367_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=8x4Jy2FmfgsAX9cI-jF&oh=d93af0f03da2c946bcad58572737198f&oe=5EA70163"
+}

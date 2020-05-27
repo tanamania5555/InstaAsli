@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/81694653_543565579576261_3018511627330044970_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=GUpasGwUXtIAX_g-UNe&oh=8f597487a7ded906d1904429d9364f03&oe=5EA5967E",
+    "edge_liked_by": {
+        "count": 28
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Romantic honeymoons where every detail is taken care of, Suite Indulgences where you can wake up to exquisite views at our club rooms & suites with private balconies. \nStaying with The Raviz Kovalam is sure to be an experience you will cherish both for its traditional grandeur as well as contemporary outlook.\n\nFor bookings contact: +91 471 305 1234 | 1800 4252 2220\nmail: reservations.kovalam@theraviz.com | reservations@theraviz.com\n\n#Raviz #TheRaviz #RavizKovalam #TheRavizKovalam\n#Kovalam #Kerala #Tourism #KeralaTourism #LuxuryResorts #Resorts #Destinations #TripAdvisor #CondeNastTraveller #TravelandLeisure #LonelyPlanet #WeekendGetaway"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2231059210112913907",
+    "is_video": false,
+    "owner": {
+        "id": "13829535608"
+    },
+    "shortcode": "B72UIfrpNHz",
+    "taken_at_timestamp": 1580183005,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/81694653_543565579576261_3018511627330044970_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=GUpasGwUXtIAX_g-UNe&oh=58d0f9311fa1d240302e34c1f67eabac&oe=5EA55C19"
+}

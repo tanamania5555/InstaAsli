@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1242,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/90765405_532826500971356_4599714653035095692_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=sFpr1bkXGE8AX8RnoWO&oh=74deaa8caf2260997295f0d624c9d680&oe=5EA697A8",
+    "edge_liked_by": {
+        "count": 24
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "sooo many beautiful memories of Italy. i hope we'll all get better soon. can't wait for a \"normal\" life again. #throwback #jesolo #jesolobeach #italy #2019 #beautiful #happy #memories #happyplace #happygirl #me #blackdress #smile #tanned #brownie #girl #beach #sand #sea #wind #waves #nature #wlyg #lomoface #instagood #photooftheday #bestoftheday #bershka @bershkacollection"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 2
+    },
+    "id": "2272814926120464769",
+    "is_video": false,
+    "owner": {
+        "id": "6050578922"
+    },
+    "shortcode": "B-KqSInnbGB",
+    "taken_at_timestamp": 1585160674,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.81.1080.1080a/s640x640/90765405_532826500971356_4599714653035095692_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=sFpr1bkXGE8AX8RnoWO&oh=8053f5e090e053dbe7ac24beb42980d8&oe=5EA4665A"
+}

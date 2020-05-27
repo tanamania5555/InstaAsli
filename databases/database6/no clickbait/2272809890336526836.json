@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 795,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/91132332_150502939565255_5668973613873383812_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=ukAvdii0W7MAX_YSAUH&oh=2e7ac11e0099c0d47bae1d1a75c08787&oe=5EA64E27",
+    "edge_liked_by": {
+        "count": 31
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Taj Mahal - India\n#india #tajmahal #agra #mausoleum #travel #crown #palace #marble #street #travelphotography #mustsee #travelholic #tomb #unesco #architecture #symbol #love"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 1
+    },
+    "id": "2272809890336526836",
+    "is_video": false,
+    "owner": {
+        "id": "1449945809"
+    },
+    "shortcode": "B-KpI2rgNH0",
+    "taken_at_timestamp": 1585160074,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c142.0.795.795a/s640x640/91132332_150502939565255_5668973613873383812_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=ukAvdii0W7MAX_YSAUH&oh=2091bbe5ddcbe42f95d6c7449bd6f8b0&oe=5EA42DCD"
+}

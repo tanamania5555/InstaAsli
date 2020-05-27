@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 565,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/91102637_144669060256273_1828986196126243384_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=Yd4FFgkgXr8AX9rAPMD&oh=1c9d2891ce34fdf7b8787d0929c83540&oe=5EA3C2EA",
+    "edge_liked_by": {
+        "count": 22
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Taj Mahal.\n\n#agra #tajmahal #historical #beautiful #photography #clearsky #sunshine #throwback #amazing #ancient #naturelover #clean #old #travel #travelgram #northindia #north #incredibleindia #photooftheday #india #instapic #instagood #instalove #instamood #oneplus"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272718234763386606",
+    "is_video": false,
+    "owner": {
+        "id": "1921388119"
+    },
+    "shortcode": "B-KUTFxn97u",
+    "taken_at_timestamp": 1585149147,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c343.0.754.754a/s640x640/91102637_144669060256273_1828986196126243384_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=Yd4FFgkgXr8AX9rAPMD&oh=19ec6ea954ab9cea7286ca2262d2ca59&oe=5EA56AAB"
+}

@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 857,
+        "width": 750
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/91003900_648115259320857_5991758528372834338_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=uYiw7-RqGsQAX-IHh0v&oh=91f122e8619c3945c1119558d8bf94ff&oe=5EA3C043",
+    "edge_liked_by": {
+        "count": 0
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "The sizzling @norafatehi ...\n#bollywood #bollywoodactress #bollywoodhotness #parineetichopra #anushkasharma #aliabhatt #shraddhakapoor #katrinakaif #kareenakapoor #deepikapadukone #jacquelinefernandez #priyankachopra #shrutihaasan #tamannaah #dishapatani #shahrukhkhan #salmankhan #akshaykumar #tarasutaria #beach #sunshine #beachwear #bikinigirl #bikinibody #bollywoodbikini"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272813519434380487",
+    "is_video": false,
+    "owner": {
+        "id": "32458513764"
+    },
+    "shortcode": "B-Kp9qil3TH",
+    "taken_at_timestamp": 1585160506,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.51.720.720a/s640x640/91003900_648115259320857_5991758528372834338_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=uYiw7-RqGsQAX-IHh0v&oh=c523aa382bddb9b42ff75d07920682df&oe=5EA53E9B"
+}

@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1350,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/90479469_554218761859229_4647710821668664796_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=105&_nc_ohc=7mDzWOGaD8oAX8Hatdn&oh=09830e2b2cc213bf41944b7337dce109&oe=5EA3D89A",
+    "edge_liked_by": {
+        "count": 9
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "\ud83c\udf0a\n.\n.\n.\nShot on canon200dII\n.\n.\n.\n#chitrasansar #maibhisadakchap #mymumbai #mumbaikar #wassupmumbai #beach #canonphotography #dslrphotography #dslrofficial #indiainaframe #storiesofindia #lightroom #snapseed #vsco #canon200dii"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 2
+    },
+    "id": "2272816548384911212",
+    "is_video": false,
+    "owner": {
+        "id": "3164443012"
+    },
+    "shortcode": "B-KqpveHK9s",
+    "taken_at_timestamp": 1585160867,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.180.1440.1440a/s640x640/90479469_554218761859229_4647710821668664796_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=105&_nc_ohc=7mDzWOGaD8oAX8Hatdn&oh=6d5f51fbc7424a7967515087b3060c81&oe=5EA57A0B"
+}

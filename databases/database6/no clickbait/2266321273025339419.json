@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 810,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/90087499_664791854328025_269910107086324418_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=6RTEyEYXUTsAX-QhErW&oh=dbe5a7e6da4a3dc32a7c9f332931f15a&oe=5EA64437",
+    "edge_liked_by": {
+        "count": 320
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Take only memories, leave only footprints \u2022 \u2022 \u2022\n\u2022\n\n#travelphotography #travelguide #wanderlust #photography #instatravel #india\ud83c\uddee\ud83c\uddf3 #travelblogger #bloggersofinstagram #wonderful_places #vacation #traveltheworld #inspireustotravel #instagood #beautiful #travelgram #indianphotography #indiaclicks #photooftheday #instadaily #picoftheday #instagood  #india #tajmahal #agra #indiapictures #india_gram #sunrise #beautyofindia #travellersdairy #visitindia #instaindia"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 12
+    },
+    "id": "2266321273025339419",
+    "is_video": false,
+    "owner": {
+        "id": "1702937649"
+    },
+    "shortcode": "B9zlzC5liAb",
+    "taken_at_timestamp": 1584386570,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c180.0.1080.1080a/s640x640/90087499_664791854328025_269910107086324418_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=6RTEyEYXUTsAX-QhErW&oh=fcbc6ef124c66e7bede741b4c0ce2916&oe=5EA3AFE8"
+}

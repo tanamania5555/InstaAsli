@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/89357662_3608660419205754_5927198421374253914_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=3lGjSn-5EFgAX9K59JB&oh=f24818eeaa26c0095a0a73e2f1c986fa&oe=5EA53536",
+    "edge_liked_by": {
+        "count": 22
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "#Repost @theraviz (@get_repost)\n\u30fb\u30fb\u30fb\nStress is taking over the world these days in the form of lifestyle diseases. The 7 day Lifestyle Package at The Raviz Ashtamudi is a combination of Yoga, Meditation and Ayurveda aimed at rejuvenating you in a holistic way.  #LuxuryResorts #KeralaTourism #Kerala #LuxuryResort #Raviz #TheRaviz #TravelDestinations #Luxury #GodsOwnCountry #DestinationKerala #Destinations #ResortsinKerala #Travel #Wanderlust #Wellness #Ayurveda #Ashtamudi"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 1
+    },
+    "id": "2262252706240390680",
+    "is_video": false,
+    "owner": {
+        "id": "3673722448"
+    },
+    "shortcode": "B9lItmzn-YY",
+    "taken_at_timestamp": 1583901559,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/89357662_3608660419205754_5927198421374253914_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=3lGjSn-5EFgAX9K59JB&oh=a5cdb2e41114ed576c018ddd2dce7bb8&oe=5EA51110"
+}

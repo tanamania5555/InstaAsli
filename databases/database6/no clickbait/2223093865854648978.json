@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/80653337_161811141812826_8301444151929492931_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=X79SJqTE4BoAX9I-1l1&oh=294c675426579ce13ec193cefcb9ea9d&oe=5EA34562",
+    "edge_liked_by": {
+        "count": 86
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "The Raviz Kadavu luxury river view cottage overlooking the Chaliyar River is equipped with state-of-the-art facilities and even a kitchenette where you can whip up a special meal for your family.\n\n#KeralaTourism #Kerala #LuxuryResort #Raviz #TheRaviz #TravelDestinations #Luxury #GodsOwnCountry #DestinationKerala #Destinations #ResortsInKerala #Travel #Wanderlust #Kadavu #RavizKadavu"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2223093865854648978",
+    "is_video": false,
+    "owner": {
+        "id": "2137015239"
+    },
+    "shortcode": "B7aBBewncKS",
+    "taken_at_timestamp": 1579233462,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/80653337_161811141812826_8301444151929492931_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=X79SJqTE4BoAX9I-1l1&oh=10dcb3151e6826b2e01e421d4cd749c3&oe=5EA35605"
+}

@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 750,
+        "width": 750
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/77080760_571824876947486_6467885919708246463_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=WTYHr1N8zMIAX-AGfS2&oh=2cd96b2719a5b3f0b8dabfd6c0216952&oe=5EA42671",
+    "edge_liked_by": {
+        "count": 33
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "The stylish Club Rooms come with amenities like a private bar, plasma TV, DVD and Wi-Fi. Of course, on offer, in addition to the signature comforts and hospitality of The Raviz Kovalam are the stunning views of the Arabian Sea.\n\nFor bookings contact: 0471 \u2013 3051234, 1800-4252-2220\nmail: reservations.kovalam@theraviz.com, reservations@theraviz.com\n\n#TheRaviz #Raviz #TheRavizKovalam #Kovalam #Vacation #Luxury #CondeNastTraveller #TravelandLeisure #LonelyPlanet #LuxuryResorts #TravelDestination #KeralaTourism #Kerala #WeekendGetaway #Package"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2196349428261199928",
+    "is_video": false,
+    "owner": {
+        "id": "13829535608"
+    },
+    "shortcode": "B57ACsSJCA4",
+    "taken_at_timestamp": 1576045276,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/77080760_571824876947486_6467885919708246463_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=WTYHr1N8zMIAX-AGfS2&oh=a6c21ada5eb64c1d2cf0f619d61a0988&oe=5EA3EA16"
+}

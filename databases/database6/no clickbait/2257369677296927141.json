@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1350,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/88217541_2547342948810701_2543471996388250005_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=105&_nc_ohc=8wxdqUITch4AX_RylEp&oh=390ea88476d1badd8d977ca4d5cd0f51&oe=5EA6FF0A",
+    "edge_liked_by": {
+        "count": 41
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Sunny day -\n\nHave a nice day my friends. What a great day :) #holidays #sunny #palmtrees #beach #hotel #raviz #coconut #kerala #beautiful #spa #nature #lake #hotellife #kerala #india #kollam #kollamdiaries #picoftheday"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 2
+    },
+    "id": "2257369677296927141",
+    "is_video": false,
+    "owner": {
+        "id": "200176460"
+    },
+    "shortcode": "B9TycLuBYGl",
+    "taken_at_timestamp": 1583319457,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.180.1440.1440a/s640x640/88217541_2547342948810701_2543471996388250005_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=105&_nc_ohc=8wxdqUITch4AX_RylEp&oh=51a82c408e6b0e6678c2fde3c100ce94&oe=5EA703AE"
+}

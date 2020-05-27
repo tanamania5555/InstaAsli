@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/75545991_580355852727219_3175857371211757095_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=VbHm5fQFgysAX_NowCS&oh=04b90e5b280c7dc081211ef92a6b4329&oe=5EA44A09",
+    "edge_liked_by": {
+        "count": 49
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "The backwater village of Alumkadavu near Kollam-Alappuzha National Waterway is famous as a centre for making houseboats. During your stay at The Raviz Ashtamudi plan a picnic to Alumkadavu, definitely a place that can mesmerize you with nature's bounty.\n\n#KeralaTourism #Kerala #LuxuryResort #Raviz #TheRaviz #TravelDestinations #Luxury #GodsOwnCountry #DestinationKerala #Destinations #ResortsInKerala #Travel #Wanderlust #Ashtamudi #RavizAshtamudi"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2199169347834803005",
+    "is_video": false,
+    "owner": {
+        "id": "2137015239"
+    },
+    "shortcode": "B6FBN7CnvM9",
+    "taken_at_timestamp": 1576381437,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/75545991_580355852727219_3175857371211757095_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=VbHm5fQFgysAX_NowCS&oh=ed662aaac4d05dfc9270be58191ee771&oe=5EA567EE"
+}

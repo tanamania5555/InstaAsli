@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/80476552_593241638133455_6401067270881300965_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=Q9xYtwhrL-AAX8uypXC&oh=044898c8af7481c8fe5b290b2ffa7a79&oe=5EA56045",
+    "edge_liked_by": {
+        "count": 37
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "The dreamy setting, the culinary feast and the exquisite service will make you feel extra special all through your holiday. Experience a kind of happiness that comes in waves when you stay at The Raviz Kovalam.\n.\n\nFor bookings contact: +91 471 305 1234 | 1800 4252 2220\nmail: reservations.kovalam@theraviz.com, reservations@theraviz.com\n.\n\n#Raviz #TheRaviz #RavizKovalam #TheRavizKovalam\n#Kovalam #Kerala #Tourism #KeralaTourism #LuxuryResorts #Resorts #Destinations #TripAdvisor #CondeNastTraveller #TravelandLeisure #LonelyPlanet #WeekendGetaway"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2218011375083805383",
+    "is_video": false,
+    "owner": {
+        "id": "13829535608"
+    },
+    "shortcode": "B7H9ZgXpVrH",
+    "taken_at_timestamp": 1578627581,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/80476552_593241638133455_6401067270881300965_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=Q9xYtwhrL-AAX8uypXC&oh=3120747d43d4fe9dec71b67185875162&oe=5EA4C8A2"
+}

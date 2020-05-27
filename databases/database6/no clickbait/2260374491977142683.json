@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 750,
+        "width": 750
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/87561537_3309892549027685_4124454948981924473_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=105&_nc_ohc=BcMgp26gY-YAX8WaRDv&oh=1a2f4b0a1ab1a35f651d9d74c2a65050&oe=5EA45FA9",
+    "edge_liked_by": {
+        "count": 58
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Chef's exquisite Sunday brunch menu and creative desserts at The Terrace on Women's day.\nThe Chefs at The Raviz Kovalam, conveyed their gratitude to all the wonderful women who make our lives special, through these exquisite delectable dishes.\n\n#WomensDay #WomensDay2020 #IWD2020 #EachforEqual #KeralaTourism #Kerala #LuxuryResort #Raviz #TheRaviz #TravelDestinations #Luxury #GodsOwnCountry #DestinationKerala #Destinations #ResortsinKerala #Travel #Wanderlust #RavizKadavu #RavizCalicut #RavizAshtamudi #RavizKovalam #WomenInspiringWomen #WomenEmpoweringWomen #IWD #GirlsPower #WomenPower #SheInspiresUs"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2260374491977142683",
+    "is_video": false,
+    "owner": {
+        "id": "13829535608"
+    },
+    "shortcode": "B9edp_dptGb",
+    "taken_at_timestamp": 1583677659,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/87561537_3309892549027685_4124454948981924473_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=105&_nc_ohc=BcMgp26gY-YAX8WaRDv&oh=37b95bb836f6fa7eee31cd84450fafc1&oe=5EA46213"
+}

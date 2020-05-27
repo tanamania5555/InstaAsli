@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1350,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/90753503_629712477866708_435702128658169240_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=8he1BzU3fmkAX_wl3Nm&oh=f27ef4bf40e4a81c85b5a169617d338b&oe=5EA4ECC0",
+    "edge_liked_by": {
+        "count": 12
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "I need six months of vacations twice a year. #quarantine #thoughts #travelphotography #tajmahal"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272741130661992094",
+    "is_video": false,
+    "owner": {
+        "id": "16682467728"
+    },
+    "shortcode": "B-KZgRPhxae",
+    "taken_at_timestamp": 1585151877,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.135.1080.1080a/s640x640/90753503_629712477866708_435702128658169240_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=8he1BzU3fmkAX_wl3Nm&oh=2e2207992d37d459e8010fa818824238&oe=5EA5B89E"
+}

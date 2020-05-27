@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/84003065_2484656925197037_6353642954072324619_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=zv8kCLz1nEoAX8xIrvG&oh=8c8af152ce95b95b191c984dcfbec1bb&oe=5EA6A099",
+    "edge_liked_by": {
+        "count": 42
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Where else but at The Tides can you get the catch of the day from the Arabian Sea grilled, steamed or pan-fried! And that too with a choice of marinades like Aglio Olio Limoncino, Chimichurri, Kumarakom Masala or Pattaya Rub. All that yumminess is paired with stir-fried Asian vegetables, steamed rice or spiced potato wedges.\n\nFor bookings contact: +91 471 305 1234 | 1800 4252 2220\nmail: reservations.kovalam@theraviz.com | reservations@theraviz.com\n\n#Raviz #TheRaviz #RavizKovalam #TheRavizKovalam\n#Kovalam #Kerala #Tourism #KeralaTourism #LuxuryResorts #Resorts #Destinations #TripAdvisor #CondeNastTraveller #TravelandLeisure #LonelyPlanet #WeekendGetaway #Tides #TheTides #SeaFood"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 1
+    },
+    "id": "2249132577751705065",
+    "is_video": false,
+    "owner": {
+        "id": "13829535608"
+    },
+    "shortcode": "B82him9piXp",
+    "taken_at_timestamp": 1582337518,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/84003065_2484656925197037_6353642954072324619_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=zv8kCLz1nEoAX8xIrvG&oh=50407a0664b85610288d1f254e931cd7&oe=5EA62EA3"
+}

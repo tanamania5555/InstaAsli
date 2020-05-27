@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Clickbait Instagram</string>
+    <string name="instagram_clickbait">Instagram Clickbait</string>
+    <string name="paste_instagram_post_link">Paste Instagram post link</string>
+    <string name="check_post">Check Post</string>
+    <string name="enter_user_link">Enter User handle</string>
+    <string name="check_user">Check User</string>
+    <string name="result">Result</string>
+</resources>

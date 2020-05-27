@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1077,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/91138617_1575326002621074_8185854863773979473_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=k-T0mImfgGkAX9vtWfn&oh=e1d5c53d84fbc2c4913b696a0e283623&oe=5EA45B06",
+    "edge_liked_by": {
+        "count": 1
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "- [ ]  Incontriamoci venerd\u00ec-gruppo di lettura  Lella Kundert #love#instagood#photooftheday#follow#follow#picoftheday#instadaily#friends#nature#girls#fun#style#smile#phptography#food#instalike#follow4follow#igers#\u00f2o#photo#music#beach#followforfolloow#sicily#arts#sculptureppppp#picture#guitar#cantare#biblioteche"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272818113976561454",
+    "is_video": false,
+    "owner": {
+        "id": "3099746922"
+    },
+    "shortcode": "B-KrAhipW8u",
+    "taken_at_timestamp": 1585161054,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c2.0.1436.1436a/s640x640/91138617_1575326002621074_8185854863773979473_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=k-T0mImfgGkAX9vtWfn&oh=cd2acc617a80c127b52357445e56d630&oe=5EA60AF1"
+}

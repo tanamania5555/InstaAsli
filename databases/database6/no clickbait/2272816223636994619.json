@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1350,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/90899655_139942377565235_6753476631892777766_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=_Z4CVb6qREMAX8hqhAH&oh=9adebb234880dbe32d44f11cc5b6b371&oe=5EA576ED",
+    "edge_liked_by": {
+        "count": 9
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "E guardo il mondo da un obl\u00f2 ( no dalle foto della mia galleria), mi annoio un po'.... #love #like4likes #tbt #photooftheday #instalove #instalike #memories #photographer #sea #bluesky #sky #artoftheday #beautiful #amazing #beach #instgram #insta #likeforlikes #travelphotography #travel #travelgram #pic #blue #tb #photos"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272816223636994619",
+    "is_video": false,
+    "owner": {
+        "id": "244227148"
+    },
+    "shortcode": "B-KqlBBoLo7",
+    "taken_at_timestamp": 1585160829,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.135.1080.1080a/s640x640/90899655_139942377565235_6753476631892777766_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=_Z4CVb6qREMAX8hqhAH&oh=2a8c2460d70aab78b10913b5f8d25b6a&oe=5EA563E1"
+}

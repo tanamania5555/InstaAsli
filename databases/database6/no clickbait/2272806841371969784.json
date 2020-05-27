@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1350,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/91261167_218708385876807_3019077400928348011_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=d3YkjhNSSzwAX9Pjjes&oh=662383f397c5749e30702c22ba4c514b&oe=5EA5BFD2",
+    "edge_liked_by": {
+        "count": 90
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "The storm only comes to teach you how to skillfully sail your ship.\n\n__________________________\n#instapic#instadaily#picoftheday#photooftheday#cloudporn#travelgram#sea#instamoment#everydayafrica#checkoutegypt#likeforlikes#thisisegypt#likeforlikeback#vitaminsea#instagood#sky#blue#globetrotter#summertime#skyline#boat#vscocam#vsco#followme#egyptshots#goodvibes#playa#beachlife#beach#summervibes"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272806841371969784",
+    "is_video": false,
+    "owner": {
+        "id": "960082445"
+    },
+    "shortcode": "B-KocfHDcj4",
+    "taken_at_timestamp": 1585159710,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.135.1080.1080a/s640x640/91261167_218708385876807_3019077400928348011_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=d3YkjhNSSzwAX9Pjjes&oh=35c580aad639c5b399c6b9d5c3237976&oe=5EA5DEDE"
+}

@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/79803359_2525009611057131_4889655570541236502_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=GEAzlLL6GtsAX9br3ib&oh=00b0d8f083271f99f3f67d3ad3c28a48&oe=5EA5729D",
+    "edge_liked_by": {
+        "count": 40
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "The thing about destination weddings is that it's a vacation for your friends and family too! Everyone is down to enjoy so make sure your choice is spot on! Beach Mandapam at The Raviz Kovalam with its traditional layout provides the perfect destination for weddings as well.\n\nFor bookings contact: +91 471 305 1234 | 1800 4252 2220\nmail: reservations.kovalam@theraviz.com, reservations@theraviz.com\n\n#Raviz #TheRaviz #RavizKovalam #TheRavizKovalam\n#Kovalam #BeachWedding #DestinationWedding #Kerala #Tourism #KeralaTourism #LuxuryResorts #Resorts #Destinations #TripAdvisor #CondeNastTraveller #TravelandLeisure #LonelyPlanet #WeekendGetaway"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2216657464582413586",
+    "is_video": false,
+    "owner": {
+        "id": "13829535608"
+    },
+    "shortcode": "B7DJjg9Jx0S",
+    "taken_at_timestamp": 1578466183,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/79803359_2525009611057131_4889655570541236502_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=GEAzlLL6GtsAX9br3ib&oh=9d603f3f5f0e01275e6e027b54eaf34f&oe=5EA37427"
+}

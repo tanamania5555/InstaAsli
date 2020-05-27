@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 850,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/91110603_525596621715002_7669071589134089957_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=2AAOHXhgUD4AX9q5pH7&oh=659058af6624bba75dc7f8669d9ba913&oe=5EA3D75A",
+    "edge_liked_by": {
+        "count": 3
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "\u201cIt is during our darkest moments that we must focus to see the light.\u201d- Aristotle \u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014 #naturelovers #naturephotography #canon #canonphotography #canonm10 #photooftheday #picoftheday #peoplescreatives #visualsoflife #outdoorlife #oceanaesthetic #shotzdelight #travelgram #sea #seaside #zanzibar #travelphotography #oceanlovers #natureisart #nature_perfection #darktimes #storm #zanzibarisland #miramont #explore #lessismore #seethelight #aristotle #beach #explorepage"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272816813799477591",
+    "is_video": false,
+    "owner": {
+        "id": "3979109604"
+    },
+    "shortcode": "B-KqtmqDZFX",
+    "taken_at_timestamp": 1585160899,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c153.0.1134.1134a/s640x640/91110603_525596621715002_7669071589134089957_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=2AAOHXhgUD4AX9q5pH7&oh=9bdee1c25e80ba8f00afce536dfedc7d&oe=5EA5694A"
+}

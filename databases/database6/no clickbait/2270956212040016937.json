@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/90395267_157264412117737_2505541862317987364_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=P8W7MjH9tmQAX9T4iwo&oh=f876ab7b272ab1e034c8a24daa133b4f&oe=5EA374F5",
+    "edge_liked_by": {
+        "count": 87
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "The Raviz Kadavu offers the finest lakefront splendour on the sunlit shores of Chaliyar River. Coupled with its serene setting, nestled by the luxuriant river, the resort represents a seductive blend of tradition and natural beauty.\n\n#LuxuryResorts #KeralaTourism #Kerala #LuxuryResort #Raviz #TheRaviz #TravelDestinations #Luxury #GodsOwnCountry #DestinationKerala #Destinations #ResortsinKerala #Travel #Wanderlust #RavizAshtamudi #Ashtamudi"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2270956212040016937",
+    "is_video": false,
+    "owner": {
+        "id": "2137015239"
+    },
+    "shortcode": "B-EDqSPHKQp",
+    "taken_at_timestamp": 1584939098,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/90395267_157264412117737_2505541862317987364_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=P8W7MjH9tmQAX9T4iwo&oh=d2280c25c4c72d4fcfd35cadb42da4e0&oe=5EA66F92"
+}

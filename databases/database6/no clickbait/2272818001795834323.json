@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1350,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/90435075_508933773351031_4558037118454595483_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=107&_nc_ohc=v3rIJ2bVtqAAX_ZgEix&oh=bf61fa3f1f4cd6ff5b3c09dc88536318&oe=5EA51F61",
+    "edge_liked_by": {
+        "count": 3
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Sad that I can\u2019t go to my favorite place \ud83d\ude22\ud83c\udf0a #coronavirus #staysafe #beach #sandiego #lajolla #sadpup #nobeachtime #dogs #adopt #adoptdontstop #sandiego #cali #california #dogsofinstagram"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272818001795834323",
+    "is_video": false,
+    "owner": {
+        "id": "5679314741"
+    },
+    "shortcode": "B-Kq-5EJ2HT",
+    "taken_at_timestamp": 1585161040,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.180.1440.1440a/s640x640/90435075_508933773351031_4558037118454595483_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=107&_nc_ohc=v3rIJ2bVtqAAX_ZgEix&oh=7653ebc810c18fcbdb6ca58b866b123a&oe=5EA4EEF4"
+}

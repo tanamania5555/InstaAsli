@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 750,
+        "width": 750
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e15/67407530_2126469934314642_7916197667316843367_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=2SHVrGh1WUsAX9hnH8P&oh=6ea751292d3623b111ab7fb1dcfcb424&oe=5EA4BAF2",
+    "edge_liked_by": {
+        "count": 64
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "The palm-fringed Ashtamudi Lake is perhaps your best real-time reference to the image that the land of Kerala conjures up in your mind. A stay at the Raviz Ashtamudi enjoying the traditional architecture, the cuisine, the Ayurvedic rejuvenation & the houseboat cruise is what you need to touch the soul of God\u2019s Own Country.\n\n#LuxuryResorts #KeralaTourism #Kerala #LuxuryResort #Raviz #TheRaviz #TravelDestinations #Luxury #GodsOwnCountry #DestinationKerala #Destinations #ResortsinKerala #Travel #WanderLust #RavizAshtamudi #Ashtamudi"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2173795269905043565",
+    "is_video": false,
+    "owner": {
+        "id": "2137015239"
+    },
+    "shortcode": "B4q30fdHVBt",
+    "taken_at_timestamp": 1573356611,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e15/s640x640/67407530_2126469934314642_7916197667316843367_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=2SHVrGh1WUsAX9hnH8P&oh=35d3a389c6da042f7bbd651a888a98c2&oe=5EA5BADA"
+}

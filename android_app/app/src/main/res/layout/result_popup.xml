@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tv_popUp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/montserrat_bold"
+        android:textColor="@android:color/black"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:textAllCaps="true"
+        android:gravity="center"
+        android:padding="5dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:text="@string/result" />
+
+    <com.app.adprogressbarlib.AdCircleProgress
+        android:id="@+id/pb_result"
+        android:layout_width="160dp"
+        android:layout_height="160dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="2dp"
+        android:backgroundTintMode="add"
+        app:adpgb_background_color="@android:color/transparent"
+        app:adpgb_finished_color="@color/colorPrimary"
+        app:adpgb_progress="75"
+        app:adpgb_text_color="@color/resultText"
+        app:adpgb_text_size="25sp"
+        app:adpgb_unfinished_color="@android:color/darker_gray"
+        custom:adpgb_finished_stroke_width="20dp"
+        custom:adpgb_show_text="true"
+        custom:adpgb_unfinished_stroke_width="20dp" />
+
+</LinearLayout>

@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 810,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/90432266_1094185834293089_1695045429108048761_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=105&_nc_ohc=PAjgQh_USzQAX-2ds5C&oh=6d91ebd890461b004e240a4ededfd4d5&oe=5EA3434E",
+    "edge_liked_by": {
+        "count": 12
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Monkey looking across to the Taj Mahal from Agra Fort.\n\n#incredibleindia #monkey #tajmahal #agra #india #viewsofindia #dailylifeindia #"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272784913936542989",
+    "is_video": false,
+    "owner": {
+        "id": "34003123"
+    },
+    "shortcode": "B-KjdZmDe0N",
+    "taken_at_timestamp": 1585157096,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c180.0.1080.1080a/s640x640/90432266_1094185834293089_1695045429108048761_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=105&_nc_ohc=PAjgQh_USzQAX-2ds5C&oh=41e107cccde4f1cf02ac0310bb9ed1bb&oe=5EA401EE"
+}

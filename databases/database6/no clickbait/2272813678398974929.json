@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 726,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/fr/e15/s1080x1080/90633795_691805324893207_3012504980472651291_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=107&_nc_ohc=hl9zEvxE3-wAX-osa6I&oh=0722e639afbb856116fc92faeb01589d&oe=5EA6A194",
+    "edge_liked_by": {
+        "count": 5
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Tiga Samudra Villa, Bali\n\nAll amazing hotels in one place, check the link in bio!\n\n#bali #beach #pool #travellig #amazingplaces #amazingplace #hotel #amazinghotel #relax #beautifuldestinations #beautifulplace #sky #summer #amazingworld #discoveryamazingplaces #vacation"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 1
+    },
+    "id": "2272813678398974929",
+    "is_video": false,
+    "owner": {
+        "id": "32429890488"
+    },
+    "shortcode": "B-Kp_-lnqvR",
+    "taken_at_timestamp": 1585160525,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e15/c177.0.726.726a/s640x640/90633795_691805324893207_3012504980472651291_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=107&_nc_ohc=hl9zEvxE3-wAX-osa6I&oh=c1256a33fb76b6036f6cd57e19205fe1&oe=5EA3BB57"
+}

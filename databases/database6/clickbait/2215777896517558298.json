@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/80067600_316666809250974_1155256157361230699_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=QSIkDvq7Ng8AX_csAls&oh=e31d282977a10b5ea81db7f43580f9d4&oe=5EA481A4",
+    "edge_liked_by": {
+        "count": 26
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Based on checks within Apple's supply chain, Susquehanna analyst Mehdi Hosseini expects 5G-enabled iPhones to launch in two phases, including sub-6GHz models in September 2020 and mmWave models in December 2020 or January 2021.\n\nThe allegedly delayed launch of mmWave models stems from Apple's decision to use its own antenna-in-package modules instead of relying on a third-party supplier, said Hosseini, according to StreetInsider.\n\nmmWave is the fastest 5G, utilizing new spectrum to provide theoretical download speeds of over 1 Gbps. Sub-6GHz is slower than mmWave, but it is still faster than 4G LTE and has broader coverage that makes it more suitable for rural areas.\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\nRender by @bengeskin\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\n#iphonese2 #iphonese #ipadpro #applearglasses #applewatch #shotoniphone #airpodspro #shotoniphone11 #shotoniphone11pro #shotoniphone11promax #iphone12 #galaxys11 #galaxynote11 #shotonpixel4 #pixel4 #pixel5 #madebygoogle #macbookpro #macpro #oneplus7t #oneplus7pro #oneplus8 #huaweip40 #huaweimate40 #freeairpods #disneyplus #applenews #airpods #giveawayiphone #2020iphone"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2215777896517558298",
+    "is_video": false,
+    "owner": {
+        "id": "19562270872"
+    },
+    "shortcode": "B7ABkHXF2Aa",
+    "taken_at_timestamp": 1578361330,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/80067600_316666809250974_1155256157361230699_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=QSIkDvq7Ng8AX_csAls&oh=926609f667fd00330539e3a9c5df952a&oe=5EA527C7"
+}

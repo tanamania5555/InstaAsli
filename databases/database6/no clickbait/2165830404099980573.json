@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 640,
+        "width": 640
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/73213319_406062766937277_5733366088168536431_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=uM2siyd9PnAAX8D5aw_&oh=b1059f13b8242ff55d230bc86bc40ad4&oe=5EA40523",
+    "edge_liked_by": {
+        "count": 38
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "The Kerala style architecture of the Deluxe Cottage set beside the Chaliyar River oozes warmth and the spacious design along with every little detail at the cottage is so well thought of. \n#LuxuryResorts #KeralaTourism #Kerala #LuxuryResort #Raviz #TheRaviz #TravelDestinations #Luxury #GodsOwnCountry #DestinationKerala #Destinations #ResortsinKerala #Travel #WanderLust #RavizKadavu #Kadavu"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2165830404099980573",
+    "is_video": false,
+    "owner": {
+        "id": "2137015239"
+    },
+    "shortcode": "B4Ok0cIHr0d",
+    "taken_at_timestamp": 1572407125,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/73213319_406062766937277_5733366088168536431_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=uM2siyd9PnAAX8D5aw_&oh=b1059f13b8242ff55d230bc86bc40ad4&oe=5EA40523"
+}

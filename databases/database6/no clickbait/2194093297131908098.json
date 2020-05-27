@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/80042596_737567943320498_1637202346300456254_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=HVjHAqPKn0cAX-i8XRZ&oh=1926f974d321e4fe8e174967a0b625c8&oe=5EA4B7E2",
+    "edge_liked_by": {
+        "count": 55
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Apart from giving you amazing photo-ops for your social media news feeds, The Raviz Calicut is a unique venue within the city for both your official gatherings as well as personal functions. Our stylish al-fresco dining destination Pergola is a premium space where you can host your memorable events. Just couple it with some poolside fun and you have a winner of an event!\n\n#LuxuryResorts #KeralaTourism #Kerala #LuxuryResort #Raviz #TheRaviz #TravelDestinations #Luxury #GodsOwnCountry #DestinationKerala #Destinations #ResortsinKerala #Travel #WanderLust #RavizCalicut #Calicut"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2194093297131908098",
+    "is_video": false,
+    "owner": {
+        "id": "2137015239"
+    },
+    "shortcode": "B5y_DqbnOwC",
+    "taken_at_timestamp": 1575776324,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/80042596_737567943320498_1637202346300456254_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=HVjHAqPKn0cAX-i8XRZ&oh=5661628ac2e9f9719ce9ab03244af43d&oe=5EA63185"
+}

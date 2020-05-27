@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 810,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/90834874_2473875919496073_5197169263458543779_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=L9zHggHzmXcAX_QyKJW&oh=45cd991b61a341fa7837920a72ec8d8a&oe=5EA5F5A8",
+    "edge_liked_by": {
+        "count": 56
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "#bali#trip#friends#love#tbt#sfs#recent4recent#night#beach#sun#erasmus#germangirl#germanboy#dutchgirl#dutchboy#travelgram#goodvibes#frenchgirl#frenchboy#beautiful#vsco#landscape#fashion#mode#travellovers#travelblogger#travel#belgian#belgiangirl#nusapenida"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 2
+    },
+    "id": "2272803798598367561",
+    "is_video": false,
+    "owner": {
+        "id": "295076252"
+    },
+    "shortcode": "B-KnwNTnTlJ",
+    "taken_at_timestamp": 1585159347,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c180.0.1080.1080a/s640x640/90834874_2473875919496073_5197169263458543779_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=L9zHggHzmXcAX_QyKJW&oh=daa0b791d0302878494b4822bf04bbce&oe=5EA56688"
+}

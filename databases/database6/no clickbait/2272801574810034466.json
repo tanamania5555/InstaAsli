@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/91040105_245054589967443_5251064436871824068_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=k8UwuuCo2BcAX8CJOHd&oh=e03bcd7ef983a362a2b878e38368a389&oe=5EA45A35",
+    "edge_liked_by": {
+        "count": 0
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "stonewall of tajmahal #beautiful #handwork #antique #tajmahal #gemstones #jaspis #jade #earthlovers #sunchildren #prayer #memories #agra #tajpur #journey #couplegoals #worldwonder"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272801574810034466",
+    "is_video": false,
+    "owner": {
+        "id": "32408796738"
+    },
+    "shortcode": "B-KnP2PgCEi",
+    "taken_at_timestamp": 1585159082,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/91040105_245054589967443_5251064436871824068_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=k8UwuuCo2BcAX8CJOHd&oh=37421518a398ae784e2984ad20a91482&oe=5EA3E984"
+}

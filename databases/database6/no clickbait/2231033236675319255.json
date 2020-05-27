@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/83379038_104394664370366_3125410317240996670_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=w5Nt8ZJyDGQAX9EkSDT&oh=ac549c7ed0aa22ebee9c9ff23e88607a&oe=5EA57C84",
+    "edge_liked_by": {
+        "count": 42
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "The Panchakarma treatment at Favourite Kerala Ayurveda & Spa in The Raviz Ashtamudi acts as a super bio cleanse and involves daily massages and oil baths, herbal enemas and nasal administrations. \n#KeralaTourism #Kerala #LuxuryResort #Raviz #TheRaviz #TravelDestinations #Luxury #GodsOwnCountry #DestinationKerala #Destinations #ResortsInKerala #Travel #Wanderlust #Ashtamudi #RavizAshtamudi #FavouriteKerala #Ayurveda"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2231033236675319255",
+    "is_video": false,
+    "owner": {
+        "id": "2137015239"
+    },
+    "shortcode": "B72OOiCH1XX",
+    "taken_at_timestamp": 1580179908,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/83379038_104394664370366_3125410317240996670_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=w5Nt8ZJyDGQAX9EkSDT&oh=105b07d26fafef9c2072a2b7e2fbbcc5&oe=5EA44C67"
+}

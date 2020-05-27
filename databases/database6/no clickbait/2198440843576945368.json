@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/75252638_263212641319311_7062432839537404845_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=u6kJbVBZNkgAX-1jajF&oh=8ce0463284d76740c1b6700154d12a81&oe=5EA40E75",
+    "edge_liked_by": {
+        "count": 35
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "When imbalances block the Marma points that are considered as the vital life force, the movement of free-flowing energy in the body gets hindered. Specialized Marma treatments at the Favourite Kerala Ayurveda & Spa at The Raviz Kadavu can make you feel refreshed and renewed.\n\n#KeralaTourism #Kerala #LuxuryResort #Raviz #TheRaviz #TravelDestinations #Luxury #GodsOwnCountry #DestinationKerala #Destinations #ResortsInKerala #Travel #Wanderlust #Ayurveda #RavizKadavu #Kadavu"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2198440843576945368",
+    "is_video": false,
+    "owner": {
+        "id": "2137015239"
+    },
+    "shortcode": "B6CbkylHSrY",
+    "taken_at_timestamp": 1576294592,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/75252638_263212641319311_7062432839537404845_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=u6kJbVBZNkgAX-1jajF&oh=ef1e0cf6c7c0ac47e2d845803a67fbbd&oe=5EA51612"
+}

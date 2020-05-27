@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/90742595_114058550232431_5224309841256041315_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=xrpFRQ9sI0cAX-i_bcb&oh=e1ca5b6ac3bd9d5fe20c5b9a5521561c&oe=5EA68B99",
+    "edge_liked_by": {
+        "count": 28
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "It was so beautiful ... #tajmahal  #beautifulindia #takecare #"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272729223739167010",
+    "is_video": false,
+    "owner": {
+        "id": "1717166501"
+    },
+    "shortcode": "B-KWzADn1Ei",
+    "taken_at_timestamp": 1585150457,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/90742595_114058550232431_5224309841256041315_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=xrpFRQ9sI0cAX-i_bcb&oh=9a465b5d88449d80bfddc7cce96edff7&oe=5EA56DB0"
+}

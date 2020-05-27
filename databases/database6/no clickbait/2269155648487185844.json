@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 937,
+        "width": 750
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/90231034_2688814538015839_7584287321408208024_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=107&_nc_ohc=OqwIcKK_hnwAX-sxjhH&oh=6dbfc60f38fa42c441de044059b6a80d&oe=5E7E2A19",
+    "edge_liked_by": {
+        "count": 713
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "BURNIN\u2019 SKY \u2601\ufe0f. #bicycle #clouds #sunset #sky #nature #sea #sand #art #beach #traveling #travelers #travelgram #travelinggram #travelphotography #exploring #explorer #wanderer #wanderlust #doyoutravel #trip #travelholic #travelbug #lovetotravel #wonderfulplaces #roamtheplanet #travellifestyle #naturephotography #natural #photographer #photography"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 1
+    },
+    "id": "2269155648487185844",
+    "is_video": false,
+    "owner": {
+        "id": "1311387472"
+    },
+    "shortcode": "B99qQowJl20",
+    "taken_at_timestamp": 1584724454,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.90.720.720a/s640x640/90231034_2688814538015839_7584287321408208024_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=107&_nc_ohc=OqwIcKK_hnwAX-sxjhH&oh=c2472475845e8020372f9f1f05059bc5&oe=5E7DA776"
+}

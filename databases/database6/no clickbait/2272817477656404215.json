@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1350,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/90696080_492878198255831_7292771650837306446_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=2OIoR7yqOsIAX9T25tI&oh=e1d6c07eb555b6694163a55349f292b5&oe=5EA5454F",
+    "edge_liked_by": {
+        "count": 8
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Throwback to when I used to go places \ud83d\ude2d .\n.\n.\n.\n.\n.\n.\n.\n#geneva #switzerland #geneve #party #swiss #lights #beach #igersgeneva #visitgeneva #lake #genevaswitzerland #photography #travel #ig #outfit #coronavirus #love #lakegeneva #schweiz #genf #lacleman #nyon #lesvoiles #lifebeforecoronavirus #summer #fashion #bhfyp"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 1
+    },
+    "id": "2272817477656404215",
+    "is_video": false,
+    "owner": {
+        "id": "1046076375"
+    },
+    "shortcode": "B-Kq3Q7AmD3",
+    "taken_at_timestamp": 1585160978,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.180.1440.1440a/s640x640/90696080_492878198255831_7292771650837306446_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=2OIoR7yqOsIAX9T25tI&oh=15037a7bfe94dcc62d7a786438ae4eeb&oe=5EA4BD5E"
+}

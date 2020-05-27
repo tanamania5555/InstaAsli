@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1350,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/90236797_537875923781678_676633366421622177_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=NHjfSIimDy0AX9gOlA1&oh=9582e7c556787c5260c6cfd96e036661&oe=5EA41F51",
+    "edge_liked_by": {
+        "count": 43
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Reading is one of the best ways to relax. In those normal times, outdoor poolside reading with a view was our thing. Now is the time to go indoors and read on...\n\u2728\n\u2728\n#travel #instatravel #tajmahal #tourism #instago #passportready #travelblogger #wanderlust \u00a0#classycorners #redsandstone #thevagabondvibes #travelblogger\u00a0#indiantravelbloggers #indiantravelblogger\u00a0#postcardsfromtheworld\u00a0 #agra\u00a0#travelling #wahtaj #traveltheworld #shetravelsindia #holidify #India #reading #storiesofindia #hoteltajagra #tajconventionagra #shotoniphone #indianphotographyclub #manywanderers #tajhotels #booksummary"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272748246801791196",
+    "is_video": false,
+    "owner": {
+        "id": "8701499394"
+    },
+    "shortcode": "B-KbH0qgzjc",
+    "taken_at_timestamp": 1585152725,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.180.1440.1440a/s640x640/90236797_537875923781678_676633366421622177_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=NHjfSIimDy0AX9gOlA1&oh=894ccd8dd0c318a4826d742068495993&oe=5EA6338F"
+}

@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 599,
+        "width": 480
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/90637355_109008877257741_3765640851962403846_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=D3zDVW-5lGcAX9Dsfw8&oh=b2270b96ef62b6f60782ac7179eb1e2e&oe=5EA594B3",
+    "edge_liked_by": {
+        "count": 4
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "The\u00a0Taj Mahal\u00a0is an ivory-white marble\u00a0mausoleum\u00a0on the south bank of the\u00a0Yamuna\u00a0river in the Indian city of\u00a0Agra.The Taj Mahal was designated as a\u00a0UNESCO\u00a0World Heritage Site\u00a0in 1983 for being \"the jewel of Muslim art in India and one of the universally admired masterpieces of the world's heritage\".\n.\n.\n#india #pakistan #indiapakistan #beauty #art #travel #indiantourism #tajmahal #mughal #mughalarchitecture #afghanistan #pictureoftheday #heritage #indianheritage #daily #indianmemes #sarcasm"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272716356839739318",
+    "is_video": false,
+    "owner": {
+        "id": "31801945626"
+    },
+    "shortcode": "B-KT3w0pw-2",
+    "taken_at_timestamp": 1585148923,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/c0.59.474.474a/90637355_109008877257741_3765640851962403846_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=D3zDVW-5lGcAX9Dsfw8&oh=f3e83bc2bcbb57297dbd6a33832af950&oe=5EA6A74E"
+}

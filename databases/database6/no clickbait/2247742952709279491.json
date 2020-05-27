@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/85015875_194769735106221_8803816515485039686_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=pZpBASvg75EAX80QLQH&oh=4ca1695c23fe4765a00e9c2095da8ddd&oe=5EA4FF65",
+    "edge_liked_by": {
+        "count": 53
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Great ambiance to make your evenings eventful and Exotic Cocktails, Fizzy Mocktails and more to keep you company. The sports-themed concept bar Zirkon at The Raviz Calicut is a unique destination especially for sports enthusiasts.\n\n#LuxuryResorts #KeralaTourism #Kerala #LuxuryResort #Raviz #TheRaviz #TravelDestinations #Luxury #GodsOwnCountry #DestinationKerala #Destinations #ResortsinKerala #Travel #Wanderlust #RavizCalicut #Calicut #SenateCalicut"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2247742952709279491",
+    "is_video": false,
+    "owner": {
+        "id": "2137015239"
+    },
+    "shortcode": "B8xlk5yn88D",
+    "taken_at_timestamp": 1582171862,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/85015875_194769735106221_8803816515485039686_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=pZpBASvg75EAX80QLQH&oh=3026a0ee5746f4d85c54981377e645bf&oe=5EA66602"
+}

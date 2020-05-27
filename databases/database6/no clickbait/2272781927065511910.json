@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 715,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/90647469_1140635779611090_6177204991898256145_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=oTIRATsoQA8AX8bbPTl&oh=3bcf9c452a6016abe2f96b04239c9c5d&oe=5EA6B6B8",
+    "edge_liked_by": {
+        "count": 26
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Beauty of India \nTaj mahal"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 3
+    },
+    "id": "2272781927065511910",
+    "is_video": false,
+    "owner": {
+        "id": "27441239238"
+    },
+    "shortcode": "B-Kix72qufm",
+    "taken_at_timestamp": 1585156740,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c182.0.715.715a/s640x640/90647469_1140635779611090_6177204991898256145_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=oTIRATsoQA8AX8bbPTl&oh=93c83ad6f16dc5f1c6a8755223ba1dfe&oe=5EA361BF"
+}

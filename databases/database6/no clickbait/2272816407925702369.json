@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/91461918_1697981360343777_2987960807071002846_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=-_Z1sY7pqAsAX8qSgQ7&oh=3502aaf2619e4e4b8c0689d5d251bdba&oe=5EA5580A",
+    "edge_liked_by": {
+        "count": 10
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "#SindyLutz. Untitled (Seascape), 2008. Mixed media. 8\u201d x 8\u201d.\nSindy Lutz (b. 1966) grew up at the Jersey Shore. Her seascapes reflect the impact of staring at the ocean and bay in all it\u2019s changing moods, light and color over many years. These small drawings\u2014made of graphite and crayon\u2014are drawn spontaneously from deep memories of living near the sea. They started as an escape from previous figurative work that sprang from frustration and early childhood trauma. For Lutz, these drawings are the joy of a fresh breath of sea atmosphere and sunlight. A safe place for the imagination to rest and wander.\n\u201cThe sea is a mirror\nWe feel our own anger in it\u2019s thrashing waves\nOur hope in it\u2019s smoldering sunrises\nOur fear in it\u2019s dark moonless nights\u201d\n*\n*\n*\n#art #contemporaryart #drawing #worksonpaper #outdoors #beach #beachscape #sea #seascape #cloud #bigcloud #cloudporn #horizon #sky #yellowsky #water #sand #vignette #artist #crayon #graphite #mixedmedia #smallformat #galleryartists #digitalexhibition #crossover #RiccoMaresca #NYC #FrankMarescaArt"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272816407925702369",
+    "is_video": false,
+    "owner": {
+        "id": "1417895124"
+    },
+    "shortcode": "B-KqnsqFz7h",
+    "taken_at_timestamp": 1585160850,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/91461918_1697981360343777_2987960807071002846_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=-_Z1sY7pqAsAX8qSgQ7&oh=3120a024255475939d3084c376453607&oe=5EA6C84E"
+}

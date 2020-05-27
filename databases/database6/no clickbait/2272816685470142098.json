@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/90672193_262636181428290_8870939168857182013_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=wcD8PbfG8HcAX8FIKkM&oh=dc68cc565fe88f17dcb846f94358b0d7&oe=5EA525A1",
+    "edge_liked_by": {
+        "count": 2
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Imagination is doing its thing since the beaches are closed \ud83e\udd76\n.\n.\n.\n\n#surfing #surf #surfer #waves #beach #ocean #surflife #surfboard #surfinglife #surfphotography #travel #sea #surfers #wave #surftrip #sup #surfergirl #beachlife #photography #nature #surfboards #surfgirl #sunset #longboard #lifestyle #gopro #kitesurfing #skate #instasurf #bhfyp"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272816685470142098",
+    "is_video": false,
+    "owner": {
+        "id": "32249101971"
+    },
+    "shortcode": "B-KqrvJB06S",
+    "taken_at_timestamp": 1585160884,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/90672193_262636181428290_8870939168857182013_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=wcD8PbfG8HcAX8FIKkM&oh=ee010d60b0b335e62c7bae35202eac55&oe=5EA4B198"
+}

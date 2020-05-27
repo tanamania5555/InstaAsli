@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/74661304_2531535820412992_1393831873212364921_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=00fvsY694icAX8lHll7&oh=c018c4445dc19f3154c6ed0e21890b6c&oe=5EA70E99",
+    "edge_liked_by": {
+        "count": 21
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Ayurvedic therapies like Shirodhara that inculcate specific herbs can help relax the mind and quell disorders like insomnia. Speak to our practitioners at the Favourite Kerala Ayurveda & Spa of The Raviz Kovalam to know about Ayurveda\u2019s lifestyle strategies in the treatment of sleep disorders based on your constitution and individual situation.\n\nContact us for Ayurveda & Spa packages @The Raviz Kovalam. Call us @ 0471 3051234\n\n#TheRavizKovalam #Raviz #TheRaviz #Kovalam #Vacation #Luxury #LuxuryResorts #TravelDestination #KeralaTourism #Kerala #Getaway #Package #WeekendGetaway #Holiday #HolidayPackages #Ayurveda #Spa #FavouriteKerala #Wellness #TravelandLeisure #LonelyPlanet #CondeNastTraveller #TripAdvisor"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2187654806047785990",
+    "is_video": false,
+    "owner": {
+        "id": "13829535608"
+    },
+    "shortcode": "B5cHHSVp4QG",
+    "taken_at_timestamp": 1575008796,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/74661304_2531535820412992_1393831873212364921_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=00fvsY694icAX8lHll7&oh=bfd8dd2e43d65e09982a5a5260d32e9f&oe=5EA6FAA3"
+}

@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 825,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/90520488_2839145279532197_2554598161133938140_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=105&_nc_ohc=ELwlOx7Ou24AX-wQZQR&oh=83321f7705608a246f74d2dfc9451f5e&oe=5EA55D1B",
+    "edge_liked_by": {
+        "count": 4
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "In the Pacific, 3000 km northeast of New Zealand lies a huge Pacific Empire. The Cook Islands consist of 15 islands that extend beyond area similar to Europe. All inhabited, but only a handful available for tourists. .\n.\n.\n#travel #titikaveka #beach #cookislands #nature #lagoon #blue #chill #vibes #palmtrees #white #sand #pacificocean #travelphotography #photographer"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272817291649303708",
+    "is_video": false,
+    "owner": {
+        "id": "25358917715"
+    },
+    "shortcode": "B-Kq0jsH0Sc",
+    "taken_at_timestamp": 1585160956,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c120.0.780.780a/s640x640/90520488_2839145279532197_2554598161133938140_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=105&_nc_ohc=ELwlOx7Ou24AX-wQZQR&oh=f2206015d7497d7aa888426045308e59&oe=5EA71E79"
+}

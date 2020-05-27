@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/88278751_4079388955408292_1598711319629427796_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=k9RdwWTYLkkAX9kBZLi&oh=6a56a0448bfe4dbde3a273dd8c9461e8&oe=5EA63188",
+    "edge_liked_by": {
+        "count": 75
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Embark on a scintillating river cruise along the Chaliyar river on The Raviz Kadavu Kettuvallam and enjoy the scenic beauty of God\u2019s Own Country. Our luxury Kettuvallam is designed with a sun deck, a sit out and separate living and dining spaces.\n\n#LuxuryResorts #KeralaTourism #Kerala #LuxuryResort #Raviz #TheRaviz #TravelDestinations #Luxury #GodsOwnCountry #DestinationKerala #Destinations #ResortsinKerala #Travel #Wanderlust #RavizKadavu #Kadavu #Kettuvallam #ChaliyarRiver"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 1
+    },
+    "id": "2259355297059214874",
+    "is_video": false,
+    "owner": {
+        "id": "2137015239"
+    },
+    "shortcode": "B9a16wOnJYa",
+    "taken_at_timestamp": 1583556161,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/88278751_4079388955408292_1598711319629427796_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=k9RdwWTYLkkAX9kBZLi&oh=5e2feaf78a3c46aea4c2185ca8983708&oe=5EA6C9BE"
+}

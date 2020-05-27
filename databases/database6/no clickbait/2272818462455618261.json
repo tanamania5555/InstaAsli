@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1350,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/91146728_2545979745721270_8891437558808004123_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=110&_nc_ohc=X95PWxjkBQ0AX9iE859&oh=6e241d3d27505d91657abf8291d6f2b1&oe=5EA6E169",
+    "edge_liked_by": {
+        "count": 0
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "libre de preocupaci\u00f3n mentre ero assorto nel deliziare qualche passante in quel di Barceloneta, mantenendo il basso profilo che mi contraddistingue\ud83c\udf34\u270d\ud83c\udffb"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 1
+    },
+    "id": "2272818462455618261",
+    "is_video": false,
+    "owner": {
+        "id": "1390366058"
+    },
+    "shortcode": "B-KrFmFndrV",
+    "taken_at_timestamp": 1585161095,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.135.1080.1080a/s640x640/91146728_2545979745721270_8891437558808004123_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=110&_nc_ohc=X95PWxjkBQ0AX9iE859&oh=b8538202ace456dde0d5f462f464e594&oe=5EA40480"
+}

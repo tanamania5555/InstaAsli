@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 700,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/84347670_1747753325356167_1578046781362668630_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=hhVmgZeNXtUAX9PgSUq&oh=c01382a6815145896d8911ce03e102bf&oe=5EA5EE24",
+    "edge_liked_by": {
+        "count": 246
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "A privilege and an honour to have legendary Chef Damu (as he is fondly called) dine with us at The Raviz Kadavu. He was in all praise of the Chefs at the Raviz Kadavu and the gourmet offerings - specially the Malabari Biriyani and the Aleppey Fish Curry with raw mango.\n\nChef K. Damodharan, also known as Chef Damu,is an Indian chef best known for winning the Guinness World Record for the longest cooking marathon by a single individual in 2010.He has hosted cookery shows for various television channels and became the first Indian chef to receive PhD in Hotel Management and Catering Technology.\n\nIn December of 2010, Damodharan cooked 617 dishes comprising of 190 kilograms of food in a day. He began cooking at 8 o'clock in the morning on December 21 and cooked for a period of 24 hours, 30 minutes, and 12 seconds. Damodharan was also a judge at The Hindu's Our State Our Taste competition for 15 cities in Tamil Nadu.\n\n#LuxuryResorts #KeralaTourism #Kerala #LuxuryResort #Raviz #TheRaviz #TravelDestinations #Luxury #GodsOwnCountry #DestinationKerala #Destinations #ResortsinKerala #Travel #Wanderlust #Kadavu #RavizKadavu #ChefDamu"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 1
+    },
+    "id": "2252977572019083477",
+    "is_video": false,
+    "owner": {
+        "id": "2137015239"
+    },
+    "shortcode": "B9ELyo7HpjV",
+    "taken_at_timestamp": 1582795877,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c190.0.700.700a/s640x640/84347670_1747753325356167_1578046781362668630_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=hhVmgZeNXtUAX9PgSUq&oh=88b1cfba3c8c1ffb947a5a05531c3d9a&oe=5EA5240E"
+}

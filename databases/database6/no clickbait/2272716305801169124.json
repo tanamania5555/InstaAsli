@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/90955696_2526048577668863_2624348167816895063_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=Ln0T2UhJazYAX_6bOgo&oh=0b953463b44d655d2e8daae62606f70b&oe=5EA59F45",
+    "edge_liked_by": {
+        "count": 7
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "#attitude #modeling #Bhopal #photography \n#stylish #art #tajmahal #viralpost  #@__king__rrr__"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 2
+    },
+    "id": "2272716305801169124",
+    "is_video": false,
+    "owner": {
+        "id": "13488113629"
+    },
+    "shortcode": "B-KT3BShEjk",
+    "taken_at_timestamp": 1585148917,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/90955696_2526048577668863_2624348167816895063_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=Ln0T2UhJazYAX_6bOgo&oh=bfe00526f721a6fd484cd18da4b6119e&oe=5EA66B7F"
+}

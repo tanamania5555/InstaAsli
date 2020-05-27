@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1350,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/91334377_654677065096174_5329962805724510583_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=110&_nc_ohc=ge2rfybDBEAAX8wRrB1&oh=892268240667944ce4f2b6276a729808&oe=5EA45919",
+    "edge_liked_by": {
+        "count": 11
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "#TheTravelingLegs #TajMahal #Agra #India -\n-\nFoto 2: Edificio aleda\u00f1o al Taj Mahal"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272778352770022399",
+    "is_video": false,
+    "owner": {
+        "id": "264103830"
+    },
+    "shortcode": "B-Kh97CDfv_",
+    "taken_at_timestamp": 1585156314,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.180.1440.1440a/s640x640/91334377_654677065096174_5329962805724510583_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=110&_nc_ohc=ge2rfybDBEAAX8wRrB1&oh=ab2090b67d03addb8f609450fdf2308a&oe=5EA3740C"
+}

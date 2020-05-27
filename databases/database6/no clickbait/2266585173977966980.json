@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/89966013_514033659515888_4033648575874087781_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=l6sSYip5PrcAX9_YuXG&oh=ea2412178e6ac0a6a1d2256dd401ad26&oe=5EA4676E",
+    "edge_liked_by": {
+        "count": 66
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Authentic Ayurveda treatments and spa therapies at Favourite Kerala Ayurveda & Spa makes The Raviz Kovalam a top destination choice for health enthusiasts. As per conventional Ayurveda, our diagnostic procedures begin with Darshana, Sparshana & Prasna.\n\n#LuxuryResorts #KeralaTourism #Kerala #LuxuryResort #Raviz #TheRaviz #TravelDestinations #Luxury #GodsOwnCountry #DestinationKerala #Destinations #ResortsinKerala #Travel #Wanderlust #Wellness #Ayurveda"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 1
+    },
+    "id": "2266585173977966980",
+    "is_video": false,
+    "owner": {
+        "id": "2137015239"
+    },
+    "shortcode": "B90hzT0H6mE",
+    "taken_at_timestamp": 1584418030,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/89966013_514033659515888_4033648575874087781_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=l6sSYip5PrcAX9_YuXG&oh=5497cc3afc75cbc4bf85f1b0c3d5ab82&oe=5EA67609"
+}

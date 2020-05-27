@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1349,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/90990178_242654933771822_3234376909048583031_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=weLt-U5dEUcAX9SDQrt&oh=1b969031d5c8f58e62f48e381b0087cb&oe=5EA3DDFB",
+    "edge_liked_by": {
+        "count": 40
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "#tbt #me #sunset #nature #instalike #beautiful #winter #photographer #beach #sky #beauty #followme #travel #love #selfie #istanbul #photooftheday #gym #smile #cute #objektifimden #likeforlike #sea #\u044f #\u0441\u0435\u043b\u0444\u0438 #followforfollowback #follow \ud83d\ude48"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 3
+    },
+    "id": "2272730825542029991",
+    "is_video": false,
+    "owner": {
+        "id": "2209024235"
+    },
+    "shortcode": "B-KXKT2g1Kn",
+    "taken_at_timestamp": 1585150648,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.141.1130.1130a/s640x640/90990178_242654933771822_3234376909048583031_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=weLt-U5dEUcAX9SDQrt&oh=c80e9dfb88effbe48151cc957f10ba00&oe=5EA60946"
+}

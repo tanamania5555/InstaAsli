@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/75523274_789398268158475_6673806382300846072_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=hBfqBYS3LfkAX-6Xgkj&oh=ac73065626641ea58607c2d8ea0d0f9c&oe=5EA3575C",
+    "edge_liked_by": {
+        "count": 45
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Be it business or leisure, small informal dinner or dine out with friends, Raviz Calicut offers you with the best dining options in a contemporary setting. Be it the Mavoor Cafe, Keraleeyam or Pergola, Raviz Calicut present a new experience while retaining the flavours and fragrances of the original cuisines.\n\n#LuxuryResorts #KeralaTourism #Kerala #LuxuryResort #Raviz #TheRaviz #TravelDestinations #Luxury #GodsOwnCountry #DestinationKerala #Destinations #ResortsinKerala #Travel #WanderLust #RavizCalicut #Calicut"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2169450756680169506",
+    "is_video": false,
+    "owner": {
+        "id": "2137015239"
+    },
+    "shortcode": "B4bb_gNn7gi",
+    "taken_at_timestamp": 1572838705,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/75523274_789398268158475_6673806382300846072_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=hBfqBYS3LfkAX-6Xgkj&oh=7ee0aec181ad9c459865b0c161c4ca5b&oe=5EA564BF"
+}

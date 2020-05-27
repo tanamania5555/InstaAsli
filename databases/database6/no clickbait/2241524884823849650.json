@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1351,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/83895623_469966283699848_3045498926215724332_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=u1gdjPU0TVAAX_XqdPu&oh=f87eb905a4633fe8205b3561dd2b2370&oe=5EA59787",
+    "edge_liked_by": {
+        "count": 83
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "#\u2764 .\n.\n.\n.\n.\n.\n.\n.\n#tajmahal \n#india \n#agra \n#travel"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 7
+    },
+    "id": "2241524884823849650",
+    "is_video": false,
+    "owner": {
+        "id": "2094514282"
+    },
+    "shortcode": "B8bfwGzH7qy",
+    "taken_at_timestamp": 1581430610,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.135.1080.1080a/s640x640/83895623_469966283699848_3045498926215724332_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=u1gdjPU0TVAAX_XqdPu&oh=15163178071dc79fff5f7b31546a9fd1&oe=5EA6FC8B"
+}

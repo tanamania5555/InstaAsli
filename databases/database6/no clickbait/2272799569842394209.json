@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/91025668_2620311108257849_5726331983736495612_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=105&_nc_ohc=CeVYJnsdULsAX8ZBefy&oh=ef0b0b50af9affc332bc90fc51e3b9e2&oe=5EA64F60",
+    "edge_liked_by": {
+        "count": 6
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Travel poster Design \ud83c\uddee\ud83c\uddf3 With country stamp \nFrom Computer Imaging 1 \n#graphicdesign #SayDesigns #designer #tajmahal #posterdesign #travel #stamp #agra #india #computerimaging #adobeillustrator"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272799569842394209",
+    "is_video": false,
+    "owner": {
+        "id": "32221734111"
+    },
+    "shortcode": "B-Kmyq-HdRh",
+    "taken_at_timestamp": 1585158843,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/91025668_2620311108257849_5726331983736495612_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=105&_nc_ohc=CeVYJnsdULsAX8ZBefy&oh=fab8b78bbe8e066834e9b1c8e02b60c4&oe=5EA3A29C"
+}

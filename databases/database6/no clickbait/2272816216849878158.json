@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/90512087_117004506598340_2197708011696118451_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=koYgSvPtw_MAX8TaATD&oh=14df82fe80d45576ccaed824739f28a7&oe=5EA5982E",
+    "edge_liked_by": {
+        "count": 7
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "#sea #seaart #arwork #artworkart #watercolor #watercolorart #living #livingart #modern #modernart #abstractart #dawn#skyart #sky#beach #jara_provincia"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272816216849878158",
+    "is_video": false,
+    "owner": {
+        "id": "10237047385"
+    },
+    "shortcode": "B-Kqk6tFYyO",
+    "taken_at_timestamp": 1585160828,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/90512087_117004506598340_2197708011696118451_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=koYgSvPtw_MAX8TaATD&oh=77293bdbcb4dbc9607ac9d3fc52c08c4&oe=5EA5EB9B"
+}

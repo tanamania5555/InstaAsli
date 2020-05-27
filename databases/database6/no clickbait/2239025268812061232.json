@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 750,
+        "width": 750
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e15/82622867_190262819004567_611599318068840044_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=aU5tvaoZZ1gAX-gzDZr&oh=8aa88eced5c4312e24891cad6a2256a3&oe=5EA6CB04",
+    "edge_liked_by": {
+        "count": 61
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "You are never too old to become younger! The 14-21 day Anti-Ageing treatment package at the Favourite Kerala Ayurveda & Spa helps keep the ageing process in check by slowing down the degeneration of body cells and boosting the immune system for a healthier life.\n\n#LuxuryResorts #KeralaTourism #Kerala #LuxuryResort #Raviz #TheRaviz #TravelDestinations #Luxury #GodsOwnCountry #DestinationKerala #Destinations #ResortsinKerala #Travel #Wanderlust #Ayurveda #KeralaAyurveda #FavouriteKerala #EverydayAyurveda"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 1
+    },
+    "id": "2239025268812061232",
+    "is_video": false,
+    "owner": {
+        "id": "2137015239"
+    },
+    "shortcode": "B8SnZ5-qpow",
+    "taken_at_timestamp": 1581132633,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e15/s640x640/82622867_190262819004567_611599318068840044_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=aU5tvaoZZ1gAX-gzDZr&oh=9fcbb46cdf116c0f5084bd2e2d9852df&oe=5EA4C916"
+}

@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/83768102_172214527403151_3265080506840292565_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=y7z45-dSO8QAX_RCC_G&oh=f80e666a883ab781a1558e97f55b52e6&oe=5EA3C545",
+    "edge_liked_by": {
+        "count": 27
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "The Terrace at The Raviz Kovalam is all about celebrating food in all its nuances.\nDrop in and prepare to be blown away by the mesmerizing settings of the deep blue sea and the pristine Infinity Pool.\n\nFor bookings contact: +91 471 305 1234 | 1800 4252 2220\nmail: reservations.kovalam@theraviz.com | reservations@theraviz.com\n\n#Raviz #TheRaviz #RavizKovalam #TheRavizKovalam\n#Kovalam #Kerala #Tourism #KeralaTourism #LuxuryResorts #Resorts #Destinations #TripAdvisor #CondeNastTraveller #TravelandLeisure #LonelyPlanet #WeekendGetaway #TheTerrace #Terrace"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 1
+    },
+    "id": "2236091085894189435",
+    "is_video": false,
+    "owner": {
+        "id": "13829535608"
+    },
+    "shortcode": "B8IMP7MJAF7",
+    "taken_at_timestamp": 1580782851,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/83768102_172214527403151_3265080506840292565_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=y7z45-dSO8QAX_RCC_G&oh=9b797737d677db42d3464b608ce5700e&oe=5EA64422"
+}

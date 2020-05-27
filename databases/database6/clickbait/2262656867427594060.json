@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/89266014_200002554673123_6554033763856936095_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=107&_nc_ohc=cBunGZIuLzEAX_GNDMo&oh=5fa42ef7157c7a95ac4bb956022e1f35&oe=5EA6272A",
+    "edge_liked_by": {
+        "count": 54
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "#burgerking #McDonaldsMemes#Meme# #Memes #mcmeme#McDonaldsmeme#mcdonalds#dankmemes#funnymemes#memesdaily#mcdonaldscanada#bigmac#hamburger#burger#employee#customerserviceproblems#aripods#freeairpods#giveaway#hashbrowns#hashbrown#wegotfoodathome#fastfoodmemes"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2262656867427594060",
+    "is_video": false,
+    "owner": {
+        "id": "3256245329"
+    },
+    "shortcode": "B9mkm7Pnq9M",
+    "taken_at_timestamp": 1583949739,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/89266014_200002554673123_6554033763856936095_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=107&_nc_ohc=cBunGZIuLzEAX_GNDMo&oh=94aa4df1a18214647d95b4402e72601b&oe=5EA6AC9F"
+}

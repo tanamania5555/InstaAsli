@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/78939715_2369560046503520_2266657509089433873_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=Fzp-LW8TUsUAX-YN3lh&oh=16c465396a5170bf9554911d8cfc56a2&oe=5EA657BE",
+    "edge_liked_by": {
+        "count": 59
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "\u2018The Family Interconnecting Room\u2019 at The Raviz Calicut at 775 sq ft of space invokes a sense of understated elegance with modern-day appeal. The special room is available on request for those who wish to feel at home during the stay with the family, while enjoying the exemplary services on hand at The Raviz Calicut.\n\n#LuxuryResorts #KeralaTourism #Kerala #LuxuryResort #Raviz #TheRaviz #TravelDestinations #Luxury #GodsOwnCountry #DestinationKerala #Destinations #ResortsinKerala #Travel #WanderLust #RavizCalicut #Calicut"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2188292878074025474",
+    "is_video": false,
+    "owner": {
+        "id": "2137015239"
+    },
+    "shortcode": "B5eYMdOHpYC",
+    "taken_at_timestamp": 1575084861,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/78939715_2369560046503520_2266657509089433873_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=Fzp-LW8TUsUAX-YN3lh&oh=22a992eebf80b822af74fb1295f9c57c&oe=5EA41208"
+}

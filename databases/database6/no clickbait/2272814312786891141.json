@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/91153087_616944598859645_8440621415070304482_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=105&_nc_ohc=p6KCaroLJ14AX_dV8H1&oh=653c3b211b82fdd9c881ceaceea21bc5&oe=5EA70087",
+    "edge_liked_by": {
+        "count": 0
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "#wedding #mariage #thailand #thailande #beautiful #beach #buddha #love #kohsamui #photography #photographer #photo"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272814312786891141",
+    "is_video": false,
+    "owner": {
+        "id": "13104109172"
+    },
+    "shortcode": "B-KqJNaFhGF",
+    "taken_at_timestamp": 1585160601,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/91153087_616944598859645_8440621415070304482_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=105&_nc_ohc=p6KCaroLJ14AX_dV8H1&oh=6777270287c9c45b74ea9f2ad7860b6e&oe=5EA55A64"
+}

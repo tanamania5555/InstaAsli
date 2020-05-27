@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1350,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/90869988_215844472994637_226761625939190755_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=9cliGoQ22FUAX8c4puA&oh=7229071fa42d9574e2af4e0f723ddb76&oe=5EA718BF",
+    "edge_liked_by": {
+        "count": 31
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "#throwback - I could sit here, all day everyday and still be in awe of this structure\ud83e\udd29 #lifeinthetimeofcorona\n.\n.\n#bored #gocorona #homequarantine #teampixel #tajmahal #postcardsfromtheworld #agra #madebygoogle #wondersoftheworld  #dametraveler #tripotocommunity #googlepixel #photooftheday #neverstopexploring #incredibleindia #delhi #mykindacity #rajasthan #beautifuldestinations #mypixeldiary #damewanderings #nofilter #like4like #goremote #delhi #seetheworld #follow #jaipur #travelrealindia"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272688281661378944",
+    "is_video": false,
+    "owner": {
+        "id": "183731849"
+    },
+    "shortcode": "B-KNfNxnpGA",
+    "taken_at_timestamp": 1585145577,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.135.1080.1080a/s640x640/90869988_215844472994637_226761625939190755_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=9cliGoQ22FUAX8c4puA&oh=a0a842075f77b55e38eda87c7c371f85&oe=5EA4D39D"
+}

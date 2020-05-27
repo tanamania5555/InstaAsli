@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/90897711_2647282352198384_199911589464164773_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=IaCqCPBff_8AX9OPGR4&oh=766a8fba640a45c5414fb7cc3644b24c&oe=5EA59306",
+    "edge_liked_by": {
+        "count": 147
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "\ud83d\udd4c\n.\n.\n#blacknwhitephotography #blacknwhitephoto #bnwzone #blackandwhitelovers #bw #monochrome #blacknwhite #bnwmood #monochromatic #instablackandwhite #noiretblanc #noir #bnwphoto #bnw #biancoenero #blackandwhitephotography #instagrambnw #blackandwhitetype #bnwinstagram #blackandwhitetheme #blackandwhitenow #blackandwhiteshot #bnwsouls #bw_lover #bw_crew #india\n#tajmahal #agracity #instagram_india #bw_india"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 9
+    },
+    "id": "2272695117730986552",
+    "is_video": false,
+    "owner": {
+        "id": "8998029385"
+    },
+    "shortcode": "B-KPCsXHro4",
+    "taken_at_timestamp": 1585146392,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/90897711_2647282352198384_199911589464164773_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=IaCqCPBff_8AX9OPGR4&oh=4ca5eb2fea49e3287e6a087e0e717021&oe=5EA5B0E1"
+}

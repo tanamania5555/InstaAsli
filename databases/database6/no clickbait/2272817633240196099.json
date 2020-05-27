@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/90510502_3446506715375777_7835185482626600041_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=105&_nc_ohc=RzV67PTyZuwAX-YNFwl&oh=e7610ff11f7107ed15e5b538e7862540&oe=5EA4DE7F",
+    "edge_liked_by": {
+        "count": 0
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "We went in to check on both our locations.  Went to get a photo for you all so that we could share the beach and was stopped by a public works official.  So yeah....Happy Wednesday.  #ocmd #ocmd2020 #oceancitymd #oceancitymaryland #cov\u0131d19 #closed #beach #marylandliving #beachlife\ud83c\udf34 #4moreweeks #socialdistance"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272817633240196099",
+    "is_video": false,
+    "owner": {
+        "id": "1981793524"
+    },
+    "shortcode": "B-Kq5h0hqQD",
+    "taken_at_timestamp": 1585160997,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/90510502_3446506715375777_7835185482626600041_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=105&_nc_ohc=RzV67PTyZuwAX-YNFwl&oh=861c7da9fbcfacb81c95675662b69e55&oe=5EA53F3B"
+}

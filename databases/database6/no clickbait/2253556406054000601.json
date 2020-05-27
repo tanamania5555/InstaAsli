@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/87550541_199510097826862_5533706082112788630_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=110&_nc_ohc=wQxf9qjDH60AX9rF9Yk&oh=db2a54f94b9c67e0ab3bda7683b0ea74&oe=5EA6B005",
+    "edge_liked_by": {
+        "count": 35
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Every sunset is an opportunity to reset. Give Netflix a pass and watch an unhurried sunset for a change at the open-air Sky Bar at The Raviz Kovalam. An exhaustive list of classic drinks and a range of Tapas will set the tone of your evening.\n\nFor bookings contact: +91 471 305 1234 | 1800 4252 2220\nmail: reservations.kovalam@theraviz.com | reservations@theraviz.com\n\n#Raviz #TheRaviz #RavizKovalam #TheRavizKovalam #Kovalam #Kerala #Tourism #KeralaTourism #LuxuryResorts #Resorts #Destinations #TripAdvisor #CondeNastTraveller #TravelandLeisure #LonelyPlanet #WeekendGetaway #Mocktails #Cocktails #Bar"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2253556406054000601",
+    "is_video": false,
+    "owner": {
+        "id": "13829535608"
+    },
+    "shortcode": "B9GPZyIJ5fZ",
+    "taken_at_timestamp": 1582864879,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/87550541_199510097826862_5533706082112788630_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=110&_nc_ohc=wQxf9qjDH60AX9rF9Yk&oh=573e96212af9e00d235701b0f5b1b4e2&oe=5EA46DE2"
+}

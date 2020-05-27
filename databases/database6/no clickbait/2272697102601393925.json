@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/90509390_568265477380441_1432606667968604580_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=sZGqxy9vpiMAX_kIWix&oh=76721490e0871531c2c41fb063a1271c&oe=5EA710E7",
+    "edge_liked_by": {
+        "count": 39
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "#agra #india #delhi #tajmahal #mumbai #uttarpradesh #jaipur #travel #photography #up #love #instagram #lucknow #rajasthan #ig #noida #incredibleindia #haryana #faridabad #punjab #kolkata #agrafort #travelphotography #taj #pune #tajmahalindia #yadav #gujrat #newdelhi #bhfyp"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272697102601393925",
+    "is_video": false,
+    "owner": {
+        "id": "30554091486"
+    },
+    "shortcode": "B-KPfk6nZcF",
+    "taken_at_timestamp": 1585146628,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/90509390_568265477380441_1432606667968604580_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=sZGqxy9vpiMAX_kIWix&oh=edbb69efc5a3a632fe7a0bd0d92d4090&oe=5EA40D04"
+}

@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/90219185_208570590452456_2564088699115310616_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=coe3J7vZSOwAX9tyavK&oh=e09a1c3933612f813c7d965c330ebb4c&oe=5EA71493",
+    "edge_liked_by": {
+        "count": 8
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Sightseers admire the Taj Mahal and the grounds surrounding it. Photo taken in February 2020 in the late Indian winter. #tajmahal #agra #uttarpradesh #india"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272748266415106045",
+    "is_video": false,
+    "owner": {
+        "id": "1387813349"
+    },
+    "shortcode": "B-KbIG7jqf9",
+    "taken_at_timestamp": 1585152727,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/90219185_208570590452456_2564088699115310616_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=coe3J7vZSOwAX9tyavK&oh=2b43af736ca64c4f24cf455608b11778&oe=5EA42AA6"
+}

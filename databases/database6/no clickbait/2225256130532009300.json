@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/80900698_860752827699698_5604361793143167063_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=7kpbUwUi4hMAX8tAz6X&oh=af2d791759013372870ade842c58c59b&oe=5EA41120",
+    "edge_liked_by": {
+        "count": 61
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Aesthetically designed Keraleeyam Restaurant boasts impeccable service and serves up mouth-watering delicacies in a magnificent and tranquil lakeside setting.\n\n#KeralaTourism #Kerala #LuxuryResort #Raviz #TheRaviz #TravelDestinations #Luxury #GodsOwnCountry #DestinationKerala #Destinations #ResortsInKerala #Travel #Wanderlust #Ashtamudi #RavizAshtamudi"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2225256130532009300",
+    "is_video": false,
+    "owner": {
+        "id": "2137015239"
+    },
+    "shortcode": "B7hsqkqnuVU",
+    "taken_at_timestamp": 1579491224,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/80900698_860752827699698_5604361793143167063_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=7kpbUwUi4hMAX8tAz6X&oh=d9124a9d866446318e28d2b474a7434e&oe=5EA65A7B"
+}

@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 640,
+        "width": 640
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/76890068_504135600200191_2436145826300922018_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=107&_nc_ohc=o31Qp2eDJ3IAX9UOtfd&oh=ddd03bd8c952316deb3bf210b4a5dc08&oe=5EA70DEF",
+    "edge_liked_by": {
+        "count": 50
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Ocean air, salty hair, not a care, take me there in a blink! Well getting here is a breeze. It is the going away part that is going to be the hardest when you vacation at The Raviz Kovalam.\n\nFor bookings contact: 0471 \u2013 3051234, 1800-4252-2220\nmail: reservations.kovalam@theraviz.com, reservations@theraviz.com\n\n#TheRaviz #Raviz #TheRavizKovalam #Kovalam #Vacation #Luxury #CondeNastTraveller #TravelandLeisure #LonelyPlanet #LuxuryResorts #TravelDestination #KeralaTourism #Kerala #WeekendGetaway #Package"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2202092997756352500",
+    "is_video": false,
+    "owner": {
+        "id": "13829535608"
+    },
+    "shortcode": "B6PZ-oNpHf0",
+    "taken_at_timestamp": 1576729963,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/76890068_504135600200191_2436145826300922018_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=107&_nc_ohc=o31Qp2eDJ3IAX9UOtfd&oh=ddd03bd8c952316deb3bf210b4a5dc08&oe=5EA70DEF"
+}

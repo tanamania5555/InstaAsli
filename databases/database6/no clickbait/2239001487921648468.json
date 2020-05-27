@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/83940721_491176968259594_889026391215303614_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=110&_nc_ohc=UM5PRT6-hhMAX8bW5XO&oh=08055aa44d08ee491d3b5335158dbd57&oe=5EA4AC14",
+    "edge_liked_by": {
+        "count": 36
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "An ambiance of classical rock numbers playing in the background, an array of the choicest wine and classic drinks, lights just rightly dimmed and all the privacy you need to get conversations going without intrusions. The Bar at The Raviz Kovalam has all the ingredients for some quality let-your-hair-down time. \nFor bookings contact: +91 471 305 1234 | 1800 4252 2220\nmail: reservations.kovalam@theraviz.com | reservations@theraviz.com\n\n#Raviz #TheRaviz #RavizKovalam #TheRavizKovalam\n#Kovalam #Kerala #Tourism #KeralaTourism #LuxuryResorts #Resorts #Destinations #TripAdvisor #CondeNastTraveller #TravelandLeisure #LonelyPlanet #WeekendGetaway #TheBar"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2239001487921648468",
+    "is_video": false,
+    "owner": {
+        "id": "13829535608"
+    },
+    "shortcode": "B8Sh_2TJBNU",
+    "taken_at_timestamp": 1581129798,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/83940721_491176968259594_889026391215303614_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=110&_nc_ohc=UM5PRT6-hhMAX8bW5XO&oh=21b686621d585c14fa46883c30625470&oe=5EA6A461"
+}

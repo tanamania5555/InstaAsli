@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1350,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/90821731_128109162115856_5026503968605362490_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=YzVrp7T_6PIAX9s77cv&oh=329c29b21f77580e22b343e1cdb1786b&oe=5EA4F97B",
+    "edge_liked_by": {
+        "count": 1
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "When in Taj Mahal\nNow Stay at Home\n\n#quarantine \n#covid_19 \n#homesweethome \n#tajmahal\n#visitagra"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272749525655258670",
+    "is_video": false,
+    "owner": {
+        "id": "1452581427"
+    },
+    "shortcode": "B-KbabsHoYu",
+    "taken_at_timestamp": 1585152878,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.180.1440.1440a/s640x640/90821731_128109162115856_5026503968605362490_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=YzVrp7T_6PIAX9s77cv&oh=4b36cad7dd7a52df40e1f08746cbdc35&oe=5EA4516A"
+}

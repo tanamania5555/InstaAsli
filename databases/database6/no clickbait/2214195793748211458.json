@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/79383516_183283422864185_3823233969934125906_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=105&_nc_ohc=ZpNRgdA4C3EAX8qiT0E&oh=e25618ff6ee87d6e5357cb1a6715c1bc&oe=5EA5CE62",
+    "edge_liked_by": {
+        "count": 1
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Dish - Okra and Mushroom in perfect kadai  spices\n\n#raviz #ravizguildford #photooftheday #dinner #dinnerideas #dinnerparty #travelguide #traveller #guildford #drinkoftheday #soup #foodphotography #indianfood #asianfood #okra"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2214195793748211458",
+    "is_video": false,
+    "owner": {
+        "id": "310924143"
+    },
+    "shortcode": "B66Z1fVhrcC",
+    "taken_at_timestamp": 1578172729,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/79383516_183283422864185_3823233969934125906_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=105&_nc_ohc=ZpNRgdA4C3EAX8qiT0E&oh=5cb1dca6f9d950fd0820a8904bdafeae&oe=5EA46005"
+}

@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/74518087_156773829022979_710305923955920488_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=DJ61U7lAYzcAX9MCQ43&oh=41ea970edd99dd16b0cdf81ac2099880&oe=5EA59786",
+    "edge_liked_by": {
+        "count": 54
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "The four suite rooms in the Heritage Wing at The Raviz Ashtamudi are a royal treat indeed with exquisite backwater views and superior comforts and luxury. \n#KeralaTourism #Kerala #LuxuryResort #Raviz #TheRaviz #TravelDestinations #Luxury #GodsOwnCountry #DestinationKerala #Destinations #ResortsinKerala #Travel #WanderLust #RavizAshtamudi #Ashtamudi"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2186845836357293495",
+    "is_video": false,
+    "owner": {
+        "id": "2137015239"
+    },
+    "shortcode": "B5ZPLOmnlW3",
+    "taken_at_timestamp": 1574912360,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/74518087_156773829022979_710305923955920488_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=DJ61U7lAYzcAX9MCQ43&oh=14446e49b6e0dfc5959befa4b152fb17&oe=5EA71C77"
+}

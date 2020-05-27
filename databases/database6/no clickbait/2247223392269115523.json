@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1341,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/84634773_201029634581531_2614193430494540396_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=VyZFh5762lUAX9n8QiO&oh=70cf217bb0a8aac2c6d2cc925fc4f968&oe=5EA54891",
+    "edge_liked_by": {
+        "count": 36
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Ashtamudi Kerala unfiltered #kollam #kerala #astamudi #lake #raviz #unfiltered"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2247223392269115523",
+    "is_video": false,
+    "owner": {
+        "id": "226269645"
+    },
+    "shortcode": "B8vvcTbJiCD",
+    "taken_at_timestamp": 1582109925,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.174.1440.1440a/s640x640/84634773_201029634581531_2614193430494540396_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=VyZFh5762lUAX9n8QiO&oh=e224f8dcedae5e514e42e8b74f17faeb&oe=5EA6D90E"
+}

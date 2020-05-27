@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1350,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/91101065_651665742315094_3325803191113435025_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=110&_nc_ohc=PteWVbB_z9EAX_-S7Bt&oh=362846b9707b3d9d68b34fd783b1f992&oe=5EA54B3D",
+    "edge_liked_by": {
+        "count": 5
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "#mamtaitaly #clothes #abiti #fashion #moda #style #photooftheday #modelle #model #dress #vestiti #summer2020 #estate #styles #naples #napoli #italy #italia\u00a0 #pretty #design #sun #sole #beach #spiaggia #sea #mare #colors #newprint #colori #model #longdress"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272814201352741591",
+    "is_video": false,
+    "owner": {
+        "id": "4345853729"
+    },
+    "shortcode": "B-KqHloF-LX",
+    "taken_at_timestamp": 1585160587,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.135.1080.1080a/s640x640/91101065_651665742315094_3325803191113435025_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=110&_nc_ohc=PteWVbB_z9EAX_-S7Bt&oh=9cc087bfd747dc79745e1cbb20a91726&oe=5EA3CA31"
+}

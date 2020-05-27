@@ -1,0 +1,2 @@
+1. https://www.youtube.com/watch?v=ew9ut7ixIlI
+2. https://pythonspot.com/create-a-chrome-plugin-with-python/

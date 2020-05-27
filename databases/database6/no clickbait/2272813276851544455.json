@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1075,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/90698669_230956291385227_7829797179251357687_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=107&_nc_ohc=JeJXLXG6AkwAX-fc204&oh=d49a983438f1f450eb3ac228410254b6&oe=5EA53239",
+    "edge_liked_by": {
+        "count": 154
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "\"The sky is covered with clouds and the wind blows. But that\u2019s always the case here. The ongoing wind makes you weary.\"\u2800\n\u2800\nNOW THE EARTH WAS FORMLESS AND EMPTY, reflections on time in a truly wild place. A few words, a few chords and a visual diary \u2013 to tell a story set on an uninhabited island in a sea of tranquility: Rottumeroog"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 2
+    },
+    "id": "2272813276851544455",
+    "is_video": false,
+    "owner": {
+        "id": "438062378"
+    },
+    "shortcode": "B-Kp6InhyGH",
+    "taken_at_timestamp": 1585160477,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c2.0.912.912a/s640x640/90698669_230956291385227_7829797179251357687_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=107&_nc_ohc=JeJXLXG6AkwAX-fc204&oh=bd5add218b12d1daaab39fdc3aaea0a9&oe=5EA6A9C2"
+}

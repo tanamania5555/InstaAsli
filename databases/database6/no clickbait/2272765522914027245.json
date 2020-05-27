@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 810,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/91094506_208520537135531_9201465802709974169_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=cRzFVXooV4YAX8V6jGt&oh=5a1723f3badfbf6ea26bcce55789a437&oe=5EA67A82",
+    "edge_liked_by": {
+        "count": 32
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "#monument #india #travel #architecture #photography #travelphotography #incredibleindia #history #travelgram #delhi #instatravel #photooftheday #instagood #wanderlust #instagram #tajmahal #picoftheday #love #heritage #agra #sky #art #travelblogger #beautiful #tourism #traveling #architecturephotography #ancient #nature #landscape"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 1
+    },
+    "id": "2272765522914027245",
+    "is_video": false,
+    "owner": {
+        "id": "6248081647"
+    },
+    "shortcode": "B-KfDOTC6bt",
+    "taken_at_timestamp": 1585154785,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c135.0.810.810a/s640x640/91094506_208520537135531_9201465802709974169_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=cRzFVXooV4YAX8V6jGt&oh=5e5b4d2e786c36279b2cb46c4c900c92&oe=5EA336A3"
+}

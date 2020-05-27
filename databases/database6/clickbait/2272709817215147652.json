@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 892,
+        "width": 750
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/90512092_200149001422584_1796422820947771413_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=dqvTnHmvXeMAX-JpLmP&oh=f539bdd3f3ed3470ae4f68dea4a098dc&oe=5EA3FA4B",
+    "edge_liked_by": {
+        "count": 74
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Follow me -- @bollywood.girl100 .\n.\n.\n.\n.\n#priyankachopra #nickjonas #jantacurfew #corona #coronavirus #aliabhatt #katrinakaif #hrithikroshan #bollywood #salmankhan #shahrukhkhan #bollywoodtashan #bollywood_tashan #bollywoodstyle #bollywoodactress #katrinakaif #jacquelinefernandez #china #india #quarantineandchill #dishapatani #tigershroff #tiktok #akshaykumar #shraddhakapoor #kareenakapoor #kareenakapoorkhan #deepikapadukone #ranveersingh #akshaykumar #ranbirkapoor"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272709817215147652",
+    "is_video": false,
+    "owner": {
+        "id": "9209630348"
+    },
+    "shortcode": "B-KSYmUpt6E",
+    "taken_at_timestamp": 1585148144,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.68.719.719a/s640x640/90512092_200149001422584_1796422820947771413_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=dqvTnHmvXeMAX-JpLmP&oh=36e8df5b220dbd3888dfc695840bb9fc&oe=5EA3FF46"
+}

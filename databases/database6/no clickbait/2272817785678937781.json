@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 823,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/91112548_2545893822397080_7334060565977333271_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=gn99hBreB9wAX_8NVtS&oh=c747c1d540762221dbd49c593c425148&oe=5EA34C6D",
+    "edge_liked_by": {
+        "count": 2
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Daily exercise \ud83c\udf0a\n.\n\u2014\u2014\n@iwmanation\n@bluefinsups\n@j_fox_film"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 1
+    },
+    "id": "2272817785678937781",
+    "is_video": false,
+    "owner": {
+        "id": "21659120"
+    },
+    "shortcode": "B-Kq7vylT61",
+    "taken_at_timestamp": 1585161015,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c121.0.781.781a/s640x640/91112548_2545893822397080_7334060565977333271_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=gn99hBreB9wAX_8NVtS&oh=6d30dd573a52447d116183aaa3220f66&oe=5EA65305"
+}

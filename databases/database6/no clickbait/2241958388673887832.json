@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/83576356_2555115134730681_2100773012730252396_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=u5SJbT9gS48AX-EK7dc&oh=077bc1994cf97a4d495f188865c8c1b3&oe=5EA6A4C7",
+    "edge_liked_by": {
+        "count": 72
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "The splendid 2 nights & 3 Days Winter Getaway Package at The Raviz Ashtamudi offers you a premium stay at Superior Lake-view rooms, fun-filled family activities & hospitality at its finest.  To reserve your personalized experience, \nVisit: https://theraviz.com/packages/ \n#LuxuryResorts #KeralaTourism #Kerala #LuxuryResort #Raviz #TheRaviz #TravelDestinations #Luxury #GodsOwnCountry #DestinationKerala #Destinations #ResortsinKerala #Travel #WanderLust #RavizAshtamudi #Ashtamudi"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2241958388673887832",
+    "is_video": false,
+    "owner": {
+        "id": "2137015239"
+    },
+    "shortcode": "B8dCUauHT5Y",
+    "taken_at_timestamp": 1581482288,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/83576356_2555115134730681_2100773012730252396_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=u5SJbT9gS48AX-EK7dc&oh=5b9e625a80ec742d7e1ab3cc3b141c3f&oe=5EA5407D"
+}

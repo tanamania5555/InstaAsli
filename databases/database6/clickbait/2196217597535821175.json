@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/75448845_190398202006545_8390798053000010820_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=lJhAecTAMUYAX9-byCM&oh=2558a1b30c3a2b4a8ccc329ddedd9418&oe=5EA6EFFE",
+    "edge_liked_by": {
+        "count": 7
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Apple today has released iOS 13.3 and iPadOS 13.3 to the public.\n\nFor the iPhone and iPad, iOS 13.3 and iPadOS 13.3 include support for Communication Limits in Screen Time. This allows you to set specific limitations on who and when you can communicate with. During allotted screen time, you can allow communication with everyone, but during downtime you could limit communication to certain people.\n\nThis feature is especially useful for parents. For example, parents can block their kids from communication with everyone except themselves after a certain time of day. Screen Time Communication Limits apply to the Phone app, Messages app, and FaceTime.\n\nAnother change in iOS 13.3 is a new setting that allows you to disable the Memoji and Animoji stickers from always appearing on the emoji keyboard. With iOS 13, Apple increased the prominence of its Memoji stickers by placing them directly alongside regular emojis. Following complaints from many users about this change, Apple has added this new setting with iOS 13.3. This option can be found in Settings > General > Keyboard > Emoji.\n\niOS 13.3 also has new security features. The Safari browser also supports FIDO2 security keys over Lightning, USB or NFC.\n\niOS 12.4.4 has also been released for older iPhones with security and performance improvements. It is available for iPhone 5S, iPhone 6, iPad Air, iPad Mini 2/3, and iPod touch 6th-gen.\n\nOther changes in iOS 13.3 include a variety of bug fixes and performance improvements, updates to Apple News, wireless charging improvements, and more.\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\n#ios13 #iphonese #ipadpro #ios #applewatch #shotoniphone #airpodspro #shotoniphone11 #shotoniphone11pro #shotoniphone11promax #iphone12 #galaxys11 #galaxynote11 #shotonpixel4 #pixel4 #pixel5 #madebygoogle #macbookpro #macpro #oneplus7t #oneplus7pro #oneplus8 #huaweip40 #huaweimate40 #freeairpods #ipados #applenews #airpods #giveawayiphone #2020iphone"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2196217597535821175",
+    "is_video": false,
+    "owner": {
+        "id": "19562270872"
+    },
+    "shortcode": "B56iETWlZ13",
+    "taken_at_timestamp": 1576029561,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/75448845_190398202006545_8390798053000010820_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=lJhAecTAMUYAX9-byCM&oh=49b1d9d73f5de54300e928689dcf8198&oe=5EA51019"
+}

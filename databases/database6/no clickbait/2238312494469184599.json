@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/83893469_559553257970803_665974201838543733_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=107&_nc_ohc=cy9g07x30P4AX80_PgC&oh=5947c93a4841f8c285087b7e271d8db1&oe=5EA4F33C",
+    "edge_liked_by": {
+        "count": 29
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "The leisure activities at The Raviz Kovalam range from spending your time being a beach-bum and simply sunbathing to swimming in the crystal clear waters, scuba diving, catamaran and speedboat cruising and other recreational activities to keep your entire family entertained.\n\nFor bookings contact: +91 471 305 1234 | 1800 4252 2220\nmail: reservations.kovalam@theraviz.com | reservations@theraviz.com\n\n#Raviz #TheRaviz #RavizKovalam #TheRavizKovalam\n#Kovalam #Kerala #Tourism #KeralaTourism #LuxuryResorts #Resorts #Destinations #TripAdvisor #CondeNastTraveller #TravelandLeisure #LonelyPlanet #WeekendGetaway #Activities"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2238312494469184599",
+    "is_video": false,
+    "owner": {
+        "id": "13829535608"
+    },
+    "shortcode": "B8QFVrJJ3xX",
+    "taken_at_timestamp": 1581047663,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/83893469_559553257970803_665974201838543733_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=107&_nc_ohc=cy9g07x30P4AX80_PgC&oh=df457a089f4b9c7dc33f5aeee24a24a3&oe=5EA5B549"
+}

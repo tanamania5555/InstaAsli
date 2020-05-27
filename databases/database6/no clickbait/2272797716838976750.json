@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/90776431_202570224374229_8374346454911033932_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=Lxz__3W7RSoAX-0zg4E&oh=df9b7c5d83a160c0f0eb23ed3c23e87c&oe=5EA65F18",
+    "edge_liked_by": {
+        "count": 1
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Stay Home Stay Safe\u2764\ufe0f\n.\n.\n.\n.\n.\n.\n#corona #weareallinthistogether #harleenvibes\ud83c\udf39 #onlypositivevibes"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272797716838976750",
+    "is_video": false,
+    "owner": {
+        "id": "32216055507"
+    },
+    "shortcode": "B-KmXtOgYzu",
+    "taken_at_timestamp": 1585158622,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/90776431_202570224374229_8374346454911033932_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=Lxz__3W7RSoAX-0zg4E&oh=07f6cdf5ecabdd7894940425984a9043&oe=5EA37EF3"
+}

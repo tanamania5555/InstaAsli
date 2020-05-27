@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 598,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/90091715_677274373010814_4735464436129715020_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=7ko4sqRBr5cAX-RvZOl&oh=cb87d9d9b0b6e830a9a8c931fa5893ba&oe=5EA5AB4C",
+    "edge_liked_by": {
+        "count": 151
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Are you ready to be floored by this piece of paradise set majestically beside the meandering Ashtamudi Lake. Watch the sun rise & set over the vast blue-green expanse of this lake and rediscover yourself at The Raviz Ashtamudi.\n\nFor reservations contact: +91 474 2751111 |Toll Free: 1800 4252 2220\nEmail: reservations@theraviz.com | Visit: www.theraviz.com\n\n#LuxuryResorts #KeralaTourism #Kerala #LuxuryResort #Raviz #TheRaviz #TravelDestinations #Luxury #GodsOwnCountry #DestinationKerala #Destinations #ResortsinKerala #Travel #Wanderlust #RavizAshtamudi #Ashtamudi"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2268065264612363257",
+    "is_video": false,
+    "owner": {
+        "id": "2137015239"
+    },
+    "shortcode": "B95yVdon0v5",
+    "taken_at_timestamp": 1584594470,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/c241.0.598.598a/90091715_677274373010814_4735464436129715020_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=7ko4sqRBr5cAX-RvZOl&oh=4223101d6e0beac28adf757db60f8234&oe=5EA3DBC2"
+}

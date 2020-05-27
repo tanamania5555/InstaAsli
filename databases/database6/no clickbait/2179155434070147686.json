@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1350,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/73169930_149406049668567_7897804183677010198_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=aWPQj3dCE_QAX_OZT4Y&oh=a7734cfaf5f88a6f538be5d1ae99694a&oe=5EA5F69D",
+    "edge_liked_by": {
+        "count": 149
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Black and white\nCredits @ajmal_hussain_sh\n#blackandwhitephotography #blackandwhite #portraitphotography #portraitoftheday #portraitmood\n#raviz #leela"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 6
+    },
+    "id": "2179155434070147686",
+    "is_video": false,
+    "owner": {
+        "id": "4533382071"
+    },
+    "shortcode": "B496lJWHQJm",
+    "taken_at_timestamp": 1573995592,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.135.1080.1080a/s640x640/73169930_149406049668567_7897804183677010198_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=aWPQj3dCE_QAX_OZT4Y&oh=a0f8e5781191ede6049ee591b95970d0&oe=5EA42711"
+}

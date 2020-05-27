@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 566,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/90636084_202376654514590_5165662205185928810_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=SCJThyAtqdEAX-LEL1V&oh=4788ae2d7d4184525aae1d55d08e43b8&oe=5EA47655",
+    "edge_liked_by": {
+        "count": 6
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "An empty Belmont Park on the first day of beach, park, and trail closures in San Diego.\n.\n.\n.\n.\n.\n. #missionbeach #sandiego #stayinplace #stayhome #belmontpark #yessd @visitsandiego #isolation #quarentine #beach #amusememtpark #rollercoaster #aerial #drone #dji #coronavirus #covid19"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 1
+    },
+    "id": "2272814882431162768",
+    "is_video": false,
+    "owner": {
+        "id": "193637942"
+    },
+    "shortcode": "B-KqRf7h9mQ",
+    "taken_at_timestamp": 1585160669,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/c257.0.566.566a/90636084_202376654514590_5165662205185928810_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=SCJThyAtqdEAX-LEL1V&oh=0bbe5b5e40e4bfcf7575b73181a21a11&oe=5EA67C27"
+}

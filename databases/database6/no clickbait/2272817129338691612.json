@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 722,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/90726466_508893493134572_3234217966315229364_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=DAM9TDmotJAAX_YxoSJ&oh=9f3b6c36cff47337ac7c35c6ee1d1e79&oe=5EA5D1A4",
+    "edge_liked_by": {
+        "count": 1
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Dawno nie wrzuca\u0142am tu zdj\u0119cia znad morza \ud83d\ude02\n.\n.\n#lato #ba\u0142tyk #pla\u017ca #zach\u00f3dnadba\u0142tykiem #zach\u00f3ds\u0142o\u0144ca #balticsea #beach #polishbeach #polishseaside #sunsetglory #beachvibes #summer #summerlove #beautifulsunset #poland #polskajestpi\u0119kna #kochambaltyk #z\u0142otagodzina #goldenhour #doglovers #dogonthebeach #dogsbeach #twodogs #piesnadmorzem #piesnaplazy"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272817129338691612",
+    "is_video": false,
+    "owner": {
+        "id": "6564564"
+    },
+    "shortcode": "B-KqyMhp-Ac",
+    "taken_at_timestamp": 1585160936,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c238.0.963.963a/s640x640/90726466_508893493134572_3234217966315229364_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=DAM9TDmotJAAX_YxoSJ&oh=65a6a608edf50ce76545570e51a7c687&oe=5EA3E287"
+}

@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1066,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/90512088_147285073299599_7413620249005155559_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=C13OyD3PNzsAX-k34NM&oh=b7e2ab538d62b08d4909b55a16c6a528&oe=5EA3B13E",
+    "edge_liked_by": {
+        "count": 337
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Follow @iasmagnus\nRegister Now For Demo Classes \ud83d\udcf2 8196020050\n01725020050 .\n.\n.\n.\n#upsc #ips #rrb #irs #ias#pcs #cse #love #life #ipsofficer #officer #inspiration #inspiring #police #ssccgl #bpcs #tiss #ibps #currentaffairs #tajmahal #mppsc #iasmagnus #generalawareness  #ludhiana #punjabi #bharat #civilservices #civilservant #chandigarh #punjab"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 2
+    },
+    "id": "2272768661001637162",
+    "is_video": false,
+    "owner": {
+        "id": "4783411252"
+    },
+    "shortcode": "B-Kfw43pI0q",
+    "taken_at_timestamp": 1585155159,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c7.0.1066.1066a/s640x640/90512088_147285073299599_7413620249005155559_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=C13OyD3PNzsAX-k34NM&oh=e3692c8c319142aafb0b2631327f284c&oe=5EA69910"
+}

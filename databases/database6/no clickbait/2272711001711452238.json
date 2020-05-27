@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 864,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/90878092_1082727652085594_816778975274614417_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=lArxMEyI40MAX904CIz&oh=30f5157c1eeddbb4ae680bd48f603ee4&oe=5EA5D467",
+    "edge_liked_by": {
+        "count": 19
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "#travelphotography #traveldiaries #india #tajmahal #agra #historicalmonument #2020 #nikonphotography #nikon #instagram #instapic #instadaily #potd #landscapephotography #indianphotography #blackandwhite"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272711001711452238",
+    "is_video": false,
+    "owner": {
+        "id": "9289416295"
+    },
+    "shortcode": "B-KSp1eIiBO",
+    "taken_at_timestamp": 1585148285,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c143.0.1153.1153a/s640x640/90878092_1082727652085594_816778975274614417_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=lArxMEyI40MAX904CIz&oh=514eab88c4a20e84e51a4962ef55ef00&oe=5EA6AFB8"
+}

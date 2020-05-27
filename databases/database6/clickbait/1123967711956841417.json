@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/12224280_1668268983458602_1064753896_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=110&_nc_ohc=XNMqSx1-YzoAX86uuE9&oh=8e7877806c59733ae01452138a28bb84&oe=5EA61838",
+    "edge_liked_by": {
+        "count": 7
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "#Repost @kemaselalu with @repostapp.\n\u30fb\u30fb\u30fb\n#.\nJangan lepaskan peluang untuk menang sebuah iphone 5c dari @kemaselalu_official langkah mudah hanya follow, repost, dan tag.\n.\n.\nSenang kan? Dont worry pemenang akan diumumkan pada 1Dec kt ig oficial. Xlama tau baik korang cepat! And jgn lupa ig anda jgn private and mestilah ig yg sah ye, bukan akaun semata2 nk giveaway. #giveaway #giveawaymalaysia #iphonegiveaway #iphonegiveawaymalaysia #iphoneforfree #iphonepercuma #kemaselalugiveaway"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 3
+    },
+    "id": "1123967711956841417",
+    "is_video": false,
+    "owner": {
+        "id": "284933211"
+    },
+    "shortcode": "-ZIq3SMjPJ",
+    "taken_at_timestamp": 1448207414,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/12224280_1668268983458602_1064753896_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=110&_nc_ohc=XNMqSx1-YzoAX86uuE9&oh=8d51aaebc4b96870228583b9e11efb75&oe=5EA46B1D"
+}

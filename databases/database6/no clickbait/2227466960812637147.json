@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/82304162_587507362039503_7394311832075239178_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=oV_zC6zfO1UAX_ekknx&oh=127fd2811435f0d570007b861ba91f36&oe=5EA39878",
+    "edge_liked_by": {
+        "count": 41
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "The sheer variety of authentic Kerala delicacies are just mind boggling. But while you are at The Terrace Restaurant in The Raviz Kovalam, try not to miss the Malabar Chicken Biriyani, Prawns Perattu or Meen Pollichathu with a side of fluffy & light Kerala Parotta.\n\nFor bookings contact: +91 471 305 1234 | 1800 4252 2220\nmail: reservations.kovalam@theraviz.com | reservations@theraviz.com\n\n#Raviz #TheRaviz #RavizKovalam #TheRavizKovalam\n#Kovalam #Kerala #Tourism #KeralaTourism #LuxuryResorts #Resorts #Destinations #TripAdvisor #CondeNastTraveller #TravelandLeisure #LonelyPlanet #WeekendGetaway #TheTerrace #TerraceThe"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2227466960812637147",
+    "is_video": false,
+    "owner": {
+        "id": "13829535608"
+    },
+    "shortcode": "B7pjWY0J_vb",
+    "taken_at_timestamp": 1579754775,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/82304162_587507362039503_7394311832075239178_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=oV_zC6zfO1UAX_ekknx&oh=857d5d362880fd736e113623826528fb&oe=5EA58C93"
+}

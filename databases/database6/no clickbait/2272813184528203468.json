@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 720,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/90507310_149079459756019_4077663402687967702_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=107&_nc_ohc=kyaKcpZPNU8AX-8mKKk&oh=56e19fb55b4a032e3e3da4f136771432&oe=5EA62B36",
+    "edge_liked_by": {
+        "count": 23
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Take me back to happy times!\n.\nPhoto w/ @graysonlauffenburger .\n.\n#africa #capetown #photographer #beach #travel #traveller #travelblogger #palmtree #selfie #travelphotographer #travelgram #travelholic #vagabond #travelphotography #globetrotter #fernweh #wanderlust #neverstop #exploretheworld #ilovemylife #yolo #happiness #sunsetvibe #me #myself #lovemyjob"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272813184528203468",
+    "is_video": false,
+    "owner": {
+        "id": "29572831"
+    },
+    "shortcode": "B-Kp4yooL7M",
+    "taken_at_timestamp": 1585160466,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c239.0.961.961a/s640x640/90507310_149079459756019_4077663402687967702_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=107&_nc_ohc=kyaKcpZPNU8AX-8mKKk&oh=623b844ed92bd76fbdfcad3eb6c126e3&oe=5EA6631C"
+}

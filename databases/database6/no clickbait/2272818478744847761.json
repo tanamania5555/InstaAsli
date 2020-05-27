@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1350,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/91098798_1235385383330051_1585570228215365882_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=Sc0pmEhX6ZQAX8uuitO&oh=fa6f6b81b766ce5d900879b8a3476d37&oe=5EA67409",
+    "edge_liked_by": {
+        "count": 0
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "\u2022 the calm before the storm \u2022\n#srilanka #tbt #memories #adventure #trip #travel #potd #picoftheday #travelgram #instagood #instatravel #beach #sunset #summer #holiday #tb #traveler #traveling #sun #island #nature #palmtrees #surf #fun #chill #love #peace #instadaily #instamood #landscape"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272818478744847761",
+    "is_video": false,
+    "owner": {
+        "id": "182030245"
+    },
+    "shortcode": "B-KrF1Qh8WR",
+    "taken_at_timestamp": 1585161097,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.180.1440.1440a/s640x640/91098798_1235385383330051_1585570228215365882_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=Sc0pmEhX6ZQAX8uuitO&oh=f0d51629cfb3f17a6e168b1fde626388&oe=5EA68E2D"
+}

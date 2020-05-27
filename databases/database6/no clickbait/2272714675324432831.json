@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1350,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/90513097_2704311893147074_6357987864457598626_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=110&_nc_ohc=JeoNaYfbso0AX-jCRpb&oh=b998e398fe19dab49f11addd8cfa5286&oe=5EA3B541",
+    "edge_liked_by": {
+        "count": 204
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "In the world full of Corona Virus,\nI wanna be your Sanitizer !! .\n.\n#mapcameratravel #bangaloretravellers #agra #tajmahal #tajmahalagra #tajmahalphotography #incredibleindia #indiatravelgram #indiatravel #visitindia #indiapicture #yourshotindia #indiashots #shotsofindia #bhaaratchitra #_coi #travelersofindia #travellersofindia #indiatraveldiaries #indiantravelblogger #coupletravel #travelingcouple #indiantravelcouple #coupletraveling #earthcouples #coupleslovetravel"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 36
+    },
+    "id": "2272714675324432831",
+    "is_video": false,
+    "owner": {
+        "id": "5419056086"
+    },
+    "shortcode": "B-KTfSyh7G_",
+    "taken_at_timestamp": 1585148723,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.180.1440.1440a/s640x640/90513097_2704311893147074_6357987864457598626_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=110&_nc_ohc=JeoNaYfbso0AX-jCRpb&oh=e6aab0c612a60e5887af9665d20990ee&oe=5EA46AE5"
+}

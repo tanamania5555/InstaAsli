@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/87670662_661571137987542_9040656134344278844_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=Z8dXqvvcwfUAX8bYDXR&oh=c331132852bc2621396eb3db1d3238ff&oe=5EA3BA40",
+    "edge_liked_by": {
+        "count": 58
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "The physical and psychological transformation that generally occurs during the periods from puberty to adulthood can be quite overwhelming for youngsters. Providing special care and attention to adolescents will help them to cope with the stress and anxiety due to sudden hormonal changes. The Favourite Kerala Ayurveda & Spa has 7 to 14-day packages, especially for adolescents.\n\n#LuxuryResorts #KeralaTourism #Kerala #LuxuryResort #Raviz #TheRaviz #TravelDestinations #Luxury #GodsOwnCountry #DestinationKerala #Destinations #ResortsinKerala #Travel #Wanderlust #FavouriteKerala #KeralaAyurveda #Ayurveda"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2254985859442791602",
+    "is_video": false,
+    "owner": {
+        "id": "2137015239"
+    },
+    "shortcode": "B9LUbEVndSy",
+    "taken_at_timestamp": 1583035283,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/87670662_661571137987542_9040656134344278844_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=Z8dXqvvcwfUAX8bYDXR&oh=5429dbf8311f50aea98b1de46e5a2bcb&oe=5EA6975B"
+}

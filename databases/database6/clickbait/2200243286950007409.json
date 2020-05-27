@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/75252631_575269703254534_4610861230361274141_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=110&_nc_ohc=VCbAPhRcmJcAX-aPDgf&oh=85548f13c9f91b430fc14d33cd3331c3&oe=5EA4F638",
+    "edge_liked_by": {
+        "count": 28
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "iPad, Apple Watch, and AirPods Named to @time Magazine\u2019s Best Gadgets of the Decade\n\nHere\u2019s the complete list \ud83d\udc47\n\u2022 Apple iPad (2010)\n\u2022 Tesla Model S (2012)\n\u2022 Raspberry Pi (2012)\n\u2022 Google Chromecast (2013)\n\u2022 DJI Phantom (2013)\n\u2022 Amazon Echo (2014)\n\u2022 Apple Watch (2015)\n\u2022 Apple AirPods (2016)\n\u2022 Nintendo Switch (2017)\n\u2022 Xbox Adaptive Controller (2018)\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\n#iphonese2 #iphonese #ipadpro #applearglasses #applewatch #shotoniphone #airpodspro #shotoniphone11 #shotoniphone11pro #shotoniphone11promax #iphone12 #galaxys11 #galaxynote11 #shotonpixel4 #pixel4 #xboxseriesx #madebygoogle #macbookpro #macpro #amazonecho #ipad #timemagazine #teslamodels #djiphantom #freeairpods #nintendoswitch #applenews #airpods #giveawayiphone #2020iphone"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2200243286950007409",
+    "is_video": false,
+    "owner": {
+        "id": "19562270872"
+    },
+    "shortcode": "B6I1ZyyF9Jx",
+    "taken_at_timestamp": 1576509460,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/75252631_575269703254534_4610861230361274141_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=110&_nc_ohc=VCbAPhRcmJcAX-aPDgf&oh=5edaaa6e65b69776e92f2b898e25b43f&oe=5EA51C53"
+}

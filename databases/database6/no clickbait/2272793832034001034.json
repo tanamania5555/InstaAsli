@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1350,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/91050791_2595083280737926_5308307475533689647_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=110&_nc_ohc=lUjV0c2pCU4AX_8lH-h&oh=3af48b87b4a76596d53489d33d31329b&oe=5EA407AC",
+    "edge_liked_by": {
+        "count": 165
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "A river cuts through a rock, not because of its power but because of its persistence.\n\nFor a chance to be featured use #aworldoftravel \ud83c\udf0d\n\nLocation: Tumpak Sewu Waterfall, Indonesia\n\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\nCaptured by @filippo_cesarini \ud83d\udcf8\n\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 7
+    },
+    "id": "2272793832034001034",
+    "is_video": false,
+    "owner": {
+        "id": "28665523710"
+    },
+    "shortcode": "B-KlfLOFeCK",
+    "taken_at_timestamp": 1585158159,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.169.1349.1349a/s640x640/91050791_2595083280737926_5308307475533689647_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=110&_nc_ohc=lUjV0c2pCU4AX_8lH-h&oh=e9df620ac5a735c177e9659b21283a18&oe=5EA341A0"
+}

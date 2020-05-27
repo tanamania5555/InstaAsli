@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/83500269_849976062130139_3971187106502584082_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=9jg71ib0GrkAX9OzHZO&oh=07e47e7ba839aa691ebba942d2526afd&oe=5EA46DAE",
+    "edge_liked_by": {
+        "count": 43
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Inspired by the traditional Nalukettu style of architecture, The Raviz Kadavu celebrates the art and ethnicity of Kerala in every way.\n\n#KeralaTourism #Kerala #LuxuryResort #Raviz #TheRaviz #TravelDestinations #Luxury #GodsOwnCountry #DestinationKerala #Destinations #ResortsInKerala #Travel #Wanderlust #Kadavu #RavizKadavu"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2228153992815189786",
+    "is_video": false,
+    "owner": {
+        "id": "2137015239"
+    },
+    "shortcode": "B7r_kBOnh8a",
+    "taken_at_timestamp": 1579836676,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/83500269_849976062130139_3971187106502584082_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=9jg71ib0GrkAX9OzHZO&oh=32a7ee4bf8b75e7025ce6e4a03581b3a&oe=5EA4E5C9"
+}

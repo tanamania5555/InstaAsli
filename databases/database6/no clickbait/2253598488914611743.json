@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/87381821_2245482135759244_6909953911752974207_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=ns_OT2QheHoAX9WS8dG&oh=920b43d0b2768f91e8e958fdec823051&oe=5EA49F9A",
+    "edge_liked_by": {
+        "count": 59
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "The palatial resort, the meandering Ashtamudi Lake, the serene environs and the delectable culinary feast is a welcome break from the hustle and bustle of everyday life. A beautiful amalgam of traditional designs meeting a contemporary presentation indeed.\n\n#LuxuryResorts #KeralaTourism #Kerala #LuxuryResort #Raviz #TheRaviz #TravelDestinations #Luxury #GodsOwnCountry #DestinationKerala #Destinations #ResortsinKerala #Travel #Wanderlust #RavizAshtamudi #Ashtamudi"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2253598488914611743",
+    "is_video": false,
+    "owner": {
+        "id": "2137015239"
+    },
+    "shortcode": "B9GY-K2HM4f",
+    "taken_at_timestamp": 1582869896,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/87381821_2245482135759244_6909953911752974207_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=ns_OT2QheHoAX9WS8dG&oh=396140032193fff858a88872fd939a50&oe=5EA49A24"
+}

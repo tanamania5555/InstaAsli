@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1350,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/80780120_154382149202881_6488394611930576371_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=p-09y_yGV2MAX9blEs5&oh=f4116c86f57f1a15141a0468a528949a&oe=5EA5861B",
+    "edge_liked_by": {
+        "count": 61
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Chemmeen porichathu(crispy fried) from the @chef_pillai kitchen. Yummilicous!!! #chemmeen #prawns #prawns\ud83c\udf64 #chemmeenfry #keralafood #keralacuisine #kerala #raviz"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2210081896971476741",
+    "is_video": false,
+    "owner": {
+        "id": "2512524928"
+    },
+    "shortcode": "B6rycaZgZ8F",
+    "taken_at_timestamp": 1577682314,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.180.1440.1440a/s640x640/80780120_154382149202881_6488394611930576371_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=p-09y_yGV2MAX9blEs5&oh=e539005b356a6f1a92cb8b86f594deff&oe=5EA3768A"
+}

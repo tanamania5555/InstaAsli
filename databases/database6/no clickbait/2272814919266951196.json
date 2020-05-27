@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/90478901_224859048709736_2494799851656653999_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=aBEA3GN4b98AX8eCLvl&oh=9989fc8c00dfd42903a1a63db1b5925d&oe=5EA71316",
+    "edge_liked_by": {
+        "count": 13
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "\ud83e\udde1\ud83d\udd38\ufe0f\ud83d\udd36\ufe0fSUNSET IN KSAMIL \ud83d\udd36\ufe0f\ud83d\udd38\ufe0f\ud83e\udde1\nTake a look at our webpage. Link in the bio.\n.\n.\n.\n.\n.\n.\n.\n.\n#islandlife #island #islandvibes #ksamil #ksamilislands #sea #beach #tropical #tropicalparadise #paradise #saranda #albania #travelalbania #pegasustravelandtours #sunsetphotography #sunset #sunsetlovers #photography #travelphotography"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272814919266951196",
+    "is_video": false,
+    "owner": {
+        "id": "5535792999"
+    },
+    "shortcode": "B-KqSCPHWAc",
+    "taken_at_timestamp": 1585160673,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/90478901_224859048709736_2494799851656653999_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=aBEA3GN4b98AX8eCLvl&oh=e5a72813739214d5ca0524d4137b3907&oe=5EA6A371"
+}

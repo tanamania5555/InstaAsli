@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1224,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/74713829_140932917211072_177507201005514522_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=LnUDQQhCp4kAX8iuamF&oh=d492315f5fdb2bb041740fca34c8c200&oe=5EA38914",
+    "edge_liked_by": {
+        "count": 69
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Why not try some refreshing lime tea?\n.\n.\n.\n#eveningtea #limetea #refreshing #teatime #tealover #raviz #foodlover #foodstagram #foodies #food #foodporn #chefsofinstagram #chefclub #chef #keralagram #keralatourism #keralafood #keralatourism #tourism"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 2
+    },
+    "id": "2172541900083366556",
+    "is_video": false,
+    "owner": {
+        "id": "2137015239"
+    },
+    "shortcode": "B4ma1j2Hwqc",
+    "taken_at_timestamp": 1573207198,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.53.792.792a/s640x640/74713829_140932917211072_177507201005514522_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=LnUDQQhCp4kAX8iuamF&oh=17f1a893d9ce426b8ba8947946aaef8d&oe=5EA63A8B"
+}

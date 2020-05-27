@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 750,
+        "width": 750
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/90416250_2954348071312107_9060714557271122736_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=oPo8pvP_-DAAX_NovQq&oh=6134e21ad14af1feafc4c44462419b03&oe=5EA347B8",
+    "edge_liked_by": {
+        "count": 6
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Indien - Taj Mahal\ud83c\uddee\ud83c\uddf3 #urlaub #tajmahal #indien #reisen #blauerhimmel #architektur #weltwunder #palast #leben #natur #wundersch\u00f6n #einmalig"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272750571186414006",
+    "is_video": false,
+    "owner": {
+        "id": "31813807511"
+    },
+    "shortcode": "B-KbppaoeG2",
+    "taken_at_timestamp": 1585153002,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/90416250_2954348071312107_9060714557271122736_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=oPo8pvP_-DAAX_NovQq&oh=f85e3cf5f932ed559549d3357864e59d&oe=5EA6398E"
+}

@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/72104012_232415221081505_919535684709006680_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=105&_nc_ohc=T6r1-1fJGC0AX_J6gUB&oh=0985b8576fe453787dd70de5fcf42212&oe=5EA65A0F",
+    "edge_liked_by": {
+        "count": 47
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Vows exchanged under the star-studded night sky, backwaters bejewelled with glow worm-like fairy lights, embrace the vibe of an exquisitely planned night wedding at The Raviz Ashtamudi.\n\n#KeralaTourism #Kerala #LuxuryResort #Raviz #TheRaviz #TravelDestinations #Luxury #GodsOwnCountry #DestinationKerala #Destinations #ResortsinKerala #Travel #WanderLust #RavizAshtamudi #Ashtamudi #DestinationWedding"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2177468603205407166",
+    "is_video": false,
+    "owner": {
+        "id": "2137015239"
+    },
+    "shortcode": "B437Chrn9G-",
+    "taken_at_timestamp": 1573794506,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/72104012_232415221081505_919535684709006680_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=105&_nc_ohc=T6r1-1fJGC0AX_J6gUB&oh=463a061c838540695f903e291e4b311b&oe=5EA4AE7E"
+}

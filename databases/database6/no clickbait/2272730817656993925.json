@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1350,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/90435228_259707755051916_7191218706746858173_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=W1rISQXjC60AX8Pty9H&oh=446884b0310db5e6a424361a74e69727&oe=5EA5BDF3",
+    "edge_liked_by": {
+        "count": 30
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "\u0935\u094b \u092e\u094b\u0939\u092c\u094d\u092c\u0924 \u0928\u0939\u0940\u0902 \u0907\u092c\u093e\u0926\u0924 \u0930\u0939\u0940 \u0939\u094b\u0917\u0940,\n\u091c\u094b \u0936\u093e\u0939\u091c\u0939\u093e\u0902 \u0928\u0947 \u092e\u0941\u092e\u0924\u093e\u091c \u0938\u0947 \u0915\u0940 \u0939\u094b\u0917\u0940\u0964 #oneplus7tpro #oneplus #tajmahal #traveldiary"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272730817656993925",
+    "is_video": false,
+    "owner": {
+        "id": "1730703756"
+    },
+    "shortcode": "B-KXKMghziF",
+    "taken_at_timestamp": 1585150647,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.180.1440.1440a/s640x640/90435228_259707755051916_7191218706746858173_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=W1rISQXjC60AX8Pty9H&oh=19e0eae7163d8aee66a30261abbb11b1&oe=5EA70AE2"
+}

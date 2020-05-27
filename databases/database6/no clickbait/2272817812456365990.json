@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/91255297_218145919531951_4104522267130964232_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=107&_nc_ohc=BntranxrfS8AX8FPPDO&oh=c129cc79c88a58cbe6b7baa49a6de5ad&oe=5EA3C0D8",
+    "edge_liked_by": {
+        "count": 1
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "#sandstrand #beach #oberbayern #bavaria #isartal #isar #fluss #river #natur #nature #naturephotography #naturfotografie #"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272817812456365990",
+    "is_video": false,
+    "owner": {
+        "id": "7317866293"
+    },
+    "shortcode": "B-Kq8IupF-m",
+    "taken_at_timestamp": 1585161018,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/91255297_218145919531951_4104522267130964232_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=107&_nc_ohc=BntranxrfS8AX8FPPDO&oh=e96e9b1041b9044eae0f3aed61914ded&oe=5EA61633"
+}

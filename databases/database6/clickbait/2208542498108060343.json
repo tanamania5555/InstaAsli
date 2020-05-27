@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/79951566_571668160293181_5795229005392568204_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=Vl6tm575FA8AX9rhy27&oh=c552532e578f2e0dadb25674fe4b30cc&oe=5EA6F767",
+    "edge_liked_by": {
+        "count": 22
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Apple is rumored to be working on updated 11 and 12.9-inch iPad Pro models with iPhone-style triple-lens cameras, and alleged renderings of the new iPads have been shared by iGeeksblog and OnLeaks.\n\nThe new \u200ciPad Pro\u200c models are said to feature the same dimensions as the 2018 \u200ciPad Pro\u200c models, and based on the renders, the design will also be close to identical with the exception of a triple-lens camera.\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\nRenders by @stevehemmerstoffer x @igeeksblog \u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\n#iphonese2 #iphonese #ipadpro #applearglasses #applewatch #shotoniphone #airpodspro #shotoniphone11 #shotoniphone11pro #shotoniphone11promax #iphone12 #galaxys11 #galaxynote11 #shotonpixel4 #pixel4 #pixel5 #madebygoogle #macbookpro #macpro #oneplus7t #oneplus7pro #oneplus8 #huaweip40 #huaweimate40 #freeairpods #ipad #applenews #airpods #giveawayiphone #ipaddrawing"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 1
+    },
+    "id": "2208542498108060343",
+    "is_video": false,
+    "owner": {
+        "id": "19562270872"
+    },
+    "shortcode": "B6mUbNfFbK3",
+    "taken_at_timestamp": 1577498803,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/79951566_571668160293181_5795229005392568204_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=Vl6tm575FA8AX9rhy27&oh=a5d0f7717c3c403bd1506a7ba648798e&oe=5EA6AC04"
+}

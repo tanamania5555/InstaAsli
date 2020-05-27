@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 856,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/79534782_2173689332938789_2272625180311805078_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=WsFU8bhWFzgAX8WqQ8v&oh=6358ba4960a7a21ffa133b52d3e27d22&oe=5EA5206F",
+    "edge_liked_by": {
+        "count": 144
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Once again, a hearty and traditional welcome was given to the Indian Cricket Team Captain Virat Kohli at The Raviz Kovalam.\n\n#LuxuryResorts #KeralaTourism #Kerala #Raviz #TheRaviz #TheRavizKovalam #TravelDestinations #Luxury #GodsOwnCountry #DestinationKerala  #ResortsinKerala #Travel #IndianCricketTeam #indvwi"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2193783996058459538",
+    "is_video": false,
+    "owner": {
+        "id": "2080588983"
+    },
+    "shortcode": "B5x4uvXAF2S",
+    "taken_at_timestamp": 1575739453,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c112.0.856.856a/s640x640/79534782_2173689332938789_2272625180311805078_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=WsFU8bhWFzgAX8WqQ8v&oh=6635fb49223e59f69236221a84c19084&oe=5EA49468"
+}

@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/75225502_143599843626125_4926683632798719768_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=105&_nc_ohc=cpBh3ky847EAX-7lOfl&oh=a0886e0ee3c32ac9dad960eec797776b&oe=5EA65815",
+    "edge_liked_by": {
+        "count": 58
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "The live stations at Pergola where you can choose from the catch of the day, buffet breakfast with the typical Malabar delicacies at Keraleeyam, the lip-smacking spread at Mavoor cafe, the little islands of seating created, the vertical garden, Raviz Calicut is a perfect get-away dining place for the foodie in you.\n\n#LuxuryResorts #KeralaTourism #Kerala #LuxuryResort #Raviz #TheRaviz #TravelDestinations #Luxury #GodsOwnCountry #DestinationKerala #Destinations #ResortsinKerala #Travel #WanderLust #RavizCalicut #Calicut"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2164389048416730098",
+    "is_video": false,
+    "owner": {
+        "id": "2137015239"
+    },
+    "shortcode": "B4JdF9Cn_vy",
+    "taken_at_timestamp": 1572235302,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/75225502_143599843626125_4926683632798719768_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=105&_nc_ohc=cpBh3ky847EAX-7lOfl&oh=d2359e491890e1d69a6cbd9b4b0f798a&oe=5EA608F2"
+}

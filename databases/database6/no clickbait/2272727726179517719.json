@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": true,
+    "dimensions": {
+        "height": 1350,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/90527391_213251160023463_4093913923513522967_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=eQU0wpjHPy8AX-xJtWU&oh=124707df03ec7a1b7d756f537106ddef&oe=5EA6162D",
+    "edge_liked_by": {
+        "count": 1
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "#art \n#artist \n#Tajmahal\n#India\n#Love\n\ud83c\udfa8\ud83c\udfa8\ud83c\udfa8"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272727726179517719",
+    "is_video": false,
+    "owner": {
+        "id": "32061623031"
+    },
+    "shortcode": "B-KWdNWHIUX",
+    "taken_at_timestamp": 1585150279,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.135.1080.1080a/s640x640/90527391_213251160023463_4093913923513522967_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=eQU0wpjHPy8AX-xJtWU&oh=a824644be473ba3b3a78c6c075fd451b&oe=5EA5C9A1"
+}

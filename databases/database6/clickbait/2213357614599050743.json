@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/80810455_306368860285232_483401579632682834_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=HmhP7UZ3-xYAX92dk5q&oh=6d7ea3ddbfaabbbd5aa81893679f429e&oe=5EA4EDB6",
+    "edge_liked_by": {
+        "count": 31
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "iPhone 12 Pro models will adopt a technology that allows touchscreen circuitry to be directly patterned on the OLED panel without the need for a separate layer, resulting in a thinner display and lower production costs, according to Korean website The Elec.\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\nRender by @bro.king x @everythingapplepro \u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\n#iphonese2 #iphonese #ipadpro #applearglasses #applewatch #shotoniphone #airpodspro #shotoniphone11 #shotoniphone11pro #shotoniphone11promax #iphone12 #galaxys11 #galaxynote11 #shotonpixel4 #pixel4 #pixel5 #madebygoogle #macbookpro #macpro #oneplus7t #oneplus7pro #oneplus8 #huaweip40 #huaweimate40 #freeairpods #disneyplus #applenews #airpods #giveawayiphone #2020iphone"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2213357614599050743",
+    "is_video": false,
+    "owner": {
+        "id": "19562270872"
+    },
+    "shortcode": "B63bQYLFRX3",
+    "taken_at_timestamp": 1578072810,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/80810455_306368860285232_483401579632682834_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=HmhP7UZ3-xYAX92dk5q&oh=51d4ea5d5d96136e5588b707053e4e15&oe=5EA5AB47"
+}

@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1350,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/90812677_649022009210646_7103825334375227379_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=iomblaq3Pb8AX9dmkcu&oh=e3eabf0bd2b8531ad33791a9310dc6e1&oe=5EA3A6A4",
+    "edge_liked_by": {
+        "count": 10
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": ".\ud83c\udf39HAD\u0130 BAKALIM PANELDEN TAK\u0130P\u00c7\u0130\ud83c\udf39 ATIYORUZ AMA \u0130LK\u0130N BUNLARI YAP KAYDED 50 YORUMLA YAP BE\u011eEN TAK\u0130P\u00c7\u0130 G\u00d6NDER\u0130M \ud83c\udf39\ud83c\udf39\u2764\u2764\ud83d\ude19\ud83d\ude19\ud83d\ude19 .\n.\n.\n.\n@w.dogan63\n@w.dogan63\n@w.dogan63\n#fun #instagramers #TagsForLikes #food #smile #pretty #followme #nature #lol #dog #hair #onedirection #sunset #swag #throwbackthursday #instagood #beach #statigram #friends #hot #funny #blue #life #art #instahub #photo #cool #pink #bestoftheday #clouds"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 2
+    },
+    "id": "2272817386986282071",
+    "is_video": false,
+    "owner": {
+        "id": "26101892970"
+    },
+    "shortcode": "B-Kq18ephxX",
+    "taken_at_timestamp": 1585160967,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.135.1080.1080a/s640x640/90812677_649022009210646_7103825334375227379_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=iomblaq3Pb8AX9dmkcu&oh=8f063d052520d22efa0eb0c295366bd7&oe=5EA55FB0"
+}

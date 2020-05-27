@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1350,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/84767280_1027950987597785_983198191760745723_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=105&_nc_ohc=7GbTo2YgHcwAX8yH0Z6&oh=4f844b2cd6f932d72159474a6192a3da&oe=5EA602A2",
+    "edge_liked_by": {
+        "count": 91
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "#Raviz #ashtamudi #kollam #malayalamtypography #keralatraveldiaries"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2242015644109419550",
+    "is_video": false,
+    "owner": {
+        "id": "2354515176"
+    },
+    "shortcode": "B8dPVmAArQe",
+    "taken_at_timestamp": 1581489113,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.120.960.960a/s640x640/84767280_1027950987597785_983198191760745723_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=105&_nc_ohc=7GbTo2YgHcwAX8yH0Z6&oh=d3549bfc33f38657e3597d332eb7c8f1&oe=5EA49FE7"
+}

@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1100,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/87561539_2286752241629709_5629880914122362958_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=Ct8JvmQOlwcAX-nDsGQ&oh=b1527d66181fc94dc1cec27e9c366e2e&oe=5EA3D973",
+    "edge_liked_by": {
+        "count": 43
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "#beach #raviz #nature #water #leelakovalam #ocean #lake #instagood #photooftheday #beautiful #sky #clouds #cloudporn #fun #pretty #sand #reflection #amazing #beauty #beautiful #shore #waterfoam #seashore #waves #wave"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 3
+    },
+    "id": "2256155475439484882",
+    "is_video": false,
+    "owner": {
+        "id": "795313432"
+    },
+    "shortcode": "B9PeXOHn3_S",
+    "taken_at_timestamp": 1583174713,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.13.1440.1440a/s640x640/87561539_2286752241629709_5629880914122362958_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=Ct8JvmQOlwcAX-nDsGQ&oh=099e3803f8df0c65f24cae76535b77a4&oe=5EA48263"
+}

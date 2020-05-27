@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/90416724_140445464174183_8563826056189304328_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=j9ZUUA2rST0AX-yoBQG&oh=4042efc12ceb018a894055d8a6a8dccc&oe=5EA384E8",
+    "edge_liked_by": {
+        "count": 21
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "#agra #tajmahal #taj #ride #view #photography #travel #travelphotography #travelgram #uptourism #waahtaj #pic #shade #love #rider #instagram #picture #tavelgram #monument #mughal #mughalarchitecture"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272775719285435899",
+    "is_video": false,
+    "owner": {
+        "id": "31620539543"
+    },
+    "shortcode": "B-KhXmaJC37",
+    "taken_at_timestamp": 1585156000,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/90416724_140445464174183_8563826056189304328_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=j9ZUUA2rST0AX-yoBQG&oh=246df7dd64d3e90f8217043b96225700&oe=5EA70883"
+}

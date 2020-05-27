@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/74607458_2804946189529293_2248501544660711530_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=SHPQKVDir9AAX8PQ11E&oh=20cb2f4ff565abdcfbad112e67507f7d&oe=5EA54110",
+    "edge_liked_by": {
+        "count": 51
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Classy rooms, elaborate buffets, happy hours, spa time and then add to this the beautiful sights & cultural escapades in God\u2019s Own Country. The perfect holiday getaway awaits you at The Raviz Kovalam.\n\nFor bookings contact: 0471 \u2013 3051234, 1800-4252-2220\nmail: reservations.kovalam@theraviz.com, reservations@theraviz.com\n\n#Raviz #TheRaviz #RavizKovalam #TheRavizKovalam #Kovalam #Kerala #Tourism #KeralaTourism #LuxuryResorts #Resorts #Destinations #TripAdvisor #CondeNastTraveller #TravelandLeisure #LonelyPlanet #WeekendGetaway #Package"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2186149616698182565",
+    "is_video": false,
+    "owner": {
+        "id": "13829535608"
+    },
+    "shortcode": "B5Ww35hJsul",
+    "taken_at_timestamp": 1574829364,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/74607458_2804946189529293_2248501544660711530_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=SHPQKVDir9AAX8PQ11E&oh=7abaadec4ea480c95a9c80bbb79e02af&oe=5EA360B6"
+}

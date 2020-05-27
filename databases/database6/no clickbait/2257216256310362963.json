@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/88197179_879477802511165_2836673316950805479_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=105&_nc_ohc=6kuPj4-HbjAAX8mYWGz&oh=f2c957b79665242b9e2e94b434865c41&oe=5EA40EAF",
+    "edge_liked_by": {
+        "count": 25
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "#Repost @theraviz (@get_repost)\n\u30fb\u30fb\u30fb\nThe Summer Getaway Package at The Raviz Ashtamudi offers you a premium stay at Superior Lake-view rooms, fun-filled family activities & hospitality at its finest. Look forward to a complimentary Houseboat cruise on the backwaters and sumptuous breakfast, lunch, snacks and dinner at our Keraleeyam multicuisine Restaurant.\n\n#LuxuryResorts #KeralaTourism #Kerala #LuxuryResort #Raviz #TheRaviz #TravelDestinations #Luxury #GodsOwnCountry #DestinationKerala #Destinations #ResortsinKerala #Travel #Wanderlust #RavizAshtamudi #Ashtamudi"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2257216256310362963",
+    "is_video": false,
+    "owner": {
+        "id": "3673722448"
+    },
+    "shortcode": "B9TPjnSncNT",
+    "taken_at_timestamp": 1583301167,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/88197179_879477802511165_2836673316950805479_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=105&_nc_ohc=6kuPj4-HbjAAX8mYWGz&oh=8e457a37029a691ecc1506ac623173f1&oe=5EA34C4C"
+}

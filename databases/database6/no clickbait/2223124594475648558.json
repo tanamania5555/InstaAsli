@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/81029752_1073241979691940_4391715566825004247_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=am8bEe-nGaIAX_NXFAE&oh=e215d509657b3dfa88c8223098a31a78&oe=5EA67540",
+    "edge_liked_by": {
+        "count": 34
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "When every little detail of your holiday is taken care of, you can just go about making memories. The Beach View Superior Room at The Raviz Kovalam features responsive climate control, high-speed internet access/Wi-Fi internet connectivity, HDTV, in-room electronic safes, in-room dining, laundry & concierge services.\n\nFor bookings contact: +91 471 305 1234 | 1800 4252 2220\nmail: reservations.kovalam@theraviz.com | reservations@theraviz.com\n\n#Raviz #TheRaviz #RavizKovalam #TheRavizKovalam\n#Kovalam #Kerala #Tourism #KeralaTourism #LuxuryResorts #Resorts #Destinations #TripAdvisor #CondeNastTraveller #TravelandLeisure #LonelyPlanet #WeekendGetaway"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2223124594475648558",
+    "is_video": false,
+    "owner": {
+        "id": "13829535608"
+    },
+    "shortcode": "B7aIApBJ8Yu",
+    "taken_at_timestamp": 1579237125,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/81029752_1073241979691940_4391715566825004247_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=am8bEe-nGaIAX_NXFAE&oh=b1f06bc8de38fa63a41ab48b6612993f&oe=5EA6B286"
+}

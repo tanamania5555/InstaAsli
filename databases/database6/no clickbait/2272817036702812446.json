@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 720,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/90675169_1122715628083444_1030574996205090716_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=9uM8M171460AX-HVpfd&oh=6c07b9d303bded71e89b99562d383658&oe=5EA6B0C9",
+    "edge_liked_by": {
+        "count": 10
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Waves \u2661\n\n#waves #beach #ocean #sea #surfing #nature #photography #sunset #travel #water #love #hair #wave #sun #beachlife #photooftheday #sky #sand #summer #landscape #beautiful #clouds #malta #gozo"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 1
+    },
+    "id": "2272817036702812446",
+    "is_video": false,
+    "owner": {
+        "id": "18601983411"
+    },
+    "shortcode": "B-Kqw2QIIke",
+    "taken_at_timestamp": 1585160925,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c180.0.720.720a/s640x640/90675169_1122715628083444_1030574996205090716_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=9uM8M171460AX-HVpfd&oh=b8c07b9181313d655072b2ee517f14bb&oe=5EA51C13"
+}

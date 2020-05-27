@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": true,
+    "dimensions": {
+        "height": 1350,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/53095622_140168327029599_2714088624998333958_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=P13KJ8qf-OcAX8jugKL&oh=09f5cc8f492ad222d46d03a03e1f2578&oe=5EA4D750",
+    "edge_liked_by": {
+        "count": 47
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Retret with they.\nIbrani 8:12 Sebab Aku akan menaruh belas kasihan terhadap kesalahan mereka dan tidak lagi mengingat dosa-dosa mereka.\"\n#model #happy #repost #instadaily #healthy #yummy #dog #iphonesia #followforfollow #instapic #cute #filter #beach #follow4follow #amazing"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2001336578751925131",
+    "is_video": false,
+    "owner": {
+        "id": "6828441365"
+    },
+    "shortcode": "BvGLQPMgQuL",
+    "taken_at_timestamp": 1552797933,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.96.768.768a/s640x640/53095622_140168327029599_2714088624998333958_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=P13KJ8qf-OcAX8jugKL&oh=05bd54fd69d751237bdbe3627ba500b1&oe=5EA4F70F"
+}

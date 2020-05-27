@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/90478903_227246288471901_50216156485785693_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=xHs0dE5OlYoAX8RDNBX&oh=6d2f900971826f94e077633f94b832ef&oe=5EA6BBAE",
+    "edge_liked_by": {
+        "count": 56
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "If you are at The Raviz Calicut on a business trip, book a quick Reflexology appointment at our Wellness Spa. Reflexology can do wonders in draining away stress and tension while restoring a natural flow of energy in the body.\n\n#LuxuryResorts #KeralaTourism #Kerala #LuxuryResort #Raviz #TheRaviz #TravelDestinations #Luxury #GodsOwnCountry #DestinationKerala #Destinations #ResortsinKerala #Travel #Wanderlust #Wellness #Ayurveda #Reflexology"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272400170859479338",
+    "is_video": false,
+    "owner": {
+        "id": "2137015239"
+    },
+    "shortcode": "B-JL-prncEq",
+    "taken_at_timestamp": 1585111231,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/90478903_227246288471901_50216156485785693_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=xHs0dE5OlYoAX8RDNBX&oh=89a8dc592cec7be9abf1e8e576e3ed81&oe=5EA5FAE4"
+}

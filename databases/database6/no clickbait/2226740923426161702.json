@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/81204690_703472550187044_1109763601920079101_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=3JrxpELY7JcAX8hl66v&oh=a13e305c20c72a078a665c681bd35e43&oe=5EA5B1C6",
+    "edge_liked_by": {
+        "count": 52
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "The best vacation is surely a staycation where you are pampered splendid. Guests at The Raviz Kovalam can look forward to airport transfers, welcome drink on arrival, breakfast at The Caf\u00e9, in-room dining options, evening high tea at the living room and complimentary use of the gym and ocean-rimmed infinity pool.\n\nFor bookings contact: +91 471 305 1234 | 1800 4252 2220\nmail: reservations.kovalam@theraviz.com | reservations@theraviz.com\n\n#Raviz #TheRaviz #RavizKovalam #TheRavizKovalam\n#Kovalam #Kerala #Tourism #KeralaTourism #LuxuryResorts #Resorts #Destinations #TripAdvisor #CondeNastTraveller #TravelandLeisure #LonelyPlanet #WeekendGetaway"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 3
+    },
+    "id": "2226740923426161702",
+    "is_video": false,
+    "owner": {
+        "id": "13829535608"
+    },
+    "shortcode": "B7m-RJzpEQm",
+    "taken_at_timestamp": 1579668225,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/81204690_703472550187044_1109763601920079101_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=3JrxpELY7JcAX8hl66v&oh=086328aafb54a4b2347d75494d6a5f2f&oe=5EA5AAA1"
+}

@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/91212161_3130204567010567_770857430594685376_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=fsU3tR-e--YAX_weXh0&oh=24263b17eef3c08d24067ea5b2b10f40&oe=5EA6AAB2",
+    "edge_liked_by": {
+        "count": 56
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": ".\nO tempo passa e quando se percebe um ano se passou e o que restou da viagem s\u00e3o lembran\u00e7as e fotos para compartilhar com os amigos.\nIr a \u00cdndia, pela primeira vez, o b\u00e1sico \u00e9 necess\u00e1rio ser feito, ent\u00e3o tem que conhecer o Taj Mahal, l\u00e1 fomos, eu o Andr\u00e9 \u00c1vila, o amigo fot\u00f3grafo e colega  na Zero Hora, jornal aonde trabalhamos,, vale cada \"fotograma\" tirado .... O legal \u00e9 perceber como o povo indiano interage  com o monumento, considerado uma das sete maravilhas do mundo moderno, constru\u00eddo no s\u00e9culo XVII,  o imperador Shah Jahan mandou construir em mem\u00f3ria de sua esposa favorita, Aryumand Banu Begam, a quem chamava de Mumtaz Mahal (\"A joia do pal\u00e1cio\"). Taj Mahal.\nAgra - \u00cdndia\n20.03.2019\n\n#india\n#tajmahal"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 3
+    },
+    "id": "2272799367020919560",
+    "is_video": false,
+    "owner": {
+        "id": "271337058"
+    },
+    "shortcode": "B-KmvuFA7sI",
+    "taken_at_timestamp": 1585158819,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/91212161_3130204567010567_770857430594685376_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=fsU3tR-e--YAX_weXh0&oh=ce9551e4dc77b6e9f092cefc77a45248&oe=5EA387D5"
+}

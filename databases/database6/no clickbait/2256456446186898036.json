@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/88391551_582025382384575_3094379092648876533_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=107&_nc_ohc=ZptFi6zfIZAAX92rRgC&oh=14711d75264ecd3a5815653ba2820611&oe=5EA5B72A",
+    "edge_liked_by": {
+        "count": 44
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "The 535 sq ft. Club Room at The Raviz Calicut are mid-category rooms with a bedroom and separate dressing area. These rooms are the perfect option for both families on holiday and traveling business personnel.\n\n#LuxuryResorts #KeralaTourism #Kerala #LuxuryResort #Raviz #TheRaviz #TravelDestinations #Luxury #GodsOwnCountry #DestinationKerala #Destinations #ResortsinKerala #Travel #WanderLust #RavizCalicut #Calicut #SenateCalicut"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2256456446186898036",
+    "is_video": false,
+    "owner": {
+        "id": "2137015239"
+    },
+    "shortcode": "B9Qiy6-HEJ0",
+    "taken_at_timestamp": 1583210591,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/88391551_582025382384575_3094379092648876533_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=107&_nc_ohc=ZptFi6zfIZAAX92rRgC&oh=501a372a4ed2b05ce873cd0022e62a3f&oe=5EA700CD"
+}

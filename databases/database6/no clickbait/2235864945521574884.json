@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/82703284_481882456049781_6568489950312321917_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=6v2id8CIVUsAX9-5wzb&oh=3ca646763c921d05be20763e117c7570&oe=5EA5414F",
+    "edge_liked_by": {
+        "count": 38
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "#Taavin #architecture #design #livingroom #decorationideas #memari #architect #arch #render #3d #urmiadesign #urmiadecor #livingroom #ejrae_bartar #ejra #memari_iran #tarahi #knaf #raviz"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2235864945521574884",
+    "is_video": false,
+    "owner": {
+        "id": "2726746490"
+    },
+    "shortcode": "B8HY1Jjj8Pk",
+    "taken_at_timestamp": 1580755893,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/82703284_481882456049781_6568489950312321917_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=6v2id8CIVUsAX9-5wzb&oh=70a1cb8157de98973585ea9ee914939a&oe=5EA70BAC"
+}

@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/89087175_1469778559856052_1574567188680621510_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=a50UESNgPlYAX_OOcGU&oh=108090fd5a8440da24af68fb1d9fc9c2&oe=5EA3C541",
+    "edge_liked_by": {
+        "count": 401
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "The view from Taj Mahal of the Yamuna river \u2764\nMe in Indian dress. Do you like it? \ud83d\ude0a\n.\n.\n.\n.\n.\n.\n.\n.\n#tajmahal #agra #india #travel #adventure #polishwoman  #polskakobieta #model #blonde #fashion #style #pic #art #indiandresses #love #happy #holiday #instagood"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 54
+    },
+    "id": "2262851845966156058",
+    "is_video": false,
+    "owner": {
+        "id": "5982240480"
+    },
+    "shortcode": "B9nQ8PKJlEa",
+    "taken_at_timestamp": 1583972982,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/89087175_1469778559856052_1574567188680621510_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=a50UESNgPlYAX_OOcGU&oh=6e2056856994d0fcfd9f34512d8b8438&oe=5EA5627B"
+}

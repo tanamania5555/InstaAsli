@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/90427140_804931046666936_5620741303331728238_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=5nvYI4AN75sAX_isR4Z&oh=5d0766e38c00f873de2c4b8b3bff5d36&oe=5EA456BB",
+    "edge_liked_by": {
+        "count": 12
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Art\u0131k senin olmad\u0131\u011f\u0131n bu ev\nBenim cehennemimdir\nB\u0131rakt\u0131\u011f\u0131n bir yar\u0131m hayat\nBenim tesellimdir\nG\u00f6zya\u015flar\u0131m akm\u0131yor art\u0131k\nG\u00f6zya\u015flar\u0131m senindir\nBak \u00e7ocuklar hi\u00e7 g\u00fclm\u00fcyor art\u0131k\nBunun su\u00e7u benimdir\nAah i\u00e7imde, aah i\u00e7imde\nSen giderken, e\u011filen y\u00fcz\u00fcm\nBenim acizl\u011fimdir\nBast\u0131\u011f\u0131n her, kald\u0131r\u0131m ta\u015f\u0131\nSenin, cinayetindir\nDurdurmuyor, hi\u00e7 durmuyor art\u0131k\nZaman felaketimdir\nHerg\u00fcn can al\u0131p, her yeni g\u00fcn veren\nUmut benim zehrimdir\nAah i\u00e7imde, aah i\u00e7imde\nK\u0131r\u0131k d\u00f6k\u00fck, bir can\nYitik bitik, bir kalp\nYan\u0131k yenik, bir a\u015fk var i\u00e7imde\nZifir siyah bir his\nFeryat figan bir ses\nEmanet bir nefes var i\u00e7imde\nK\u0131r\u0131k d\u00f6k\u00fck, bir can\nYitik bitik, bir kalp\nYan\u0131k yenik, bir a\u015fk var i\u00e7imde\nZifir siyah bir his\nFeryat figan bir ses\nEmanet bir nefes var i\u00e7imde\nBuruk, buruk, buruk, buruk\nBuruk, buruk, buruk, buruk (buruk)\nSeni, sen giderken gelen ya\u011fmurlara emanet ettim\nO \u00e7ok sevdi\u011fin k\u0131r \u00e7i\u00e7eklerine, vazge\u00e7erek sonbahardan\nSeni taze \u0131lk baharlara emanet ettim\nSeni \u00e7\u0131kmaz sokaklardan uzun yollara\nKaranl\u0131ktan, ayd\u0131nl\u0131\u011fa emanet ettim\nDerinlerden bulutlara, siyahlardan beyazlara emanet ettim\nT\u00fcm yazg\u0131lar\u0131 silip ellerimle, seni ba\u015fka bir kadere emanet ettim\nSeni kendimden sak\u0131n\u0131p, bir ba\u015fka kalbe emanet ettim\nSeni bir felaketten esirgeyip, bir umuda emanet ettim\n#cemadrian"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 2
+    },
+    "id": "2272814527643165629",
+    "is_video": false,
+    "owner": {
+        "id": "9440067188"
+    },
+    "shortcode": "B-KqMVghKO9",
+    "taken_at_timestamp": 1585160626,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/90427140_804931046666936_5620741303331728238_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=5nvYI4AN75sAX_isR4Z&oh=2fe9be5e8b4ea3280d3f98f46b2603b7&oe=5EA6DE8E"
+}

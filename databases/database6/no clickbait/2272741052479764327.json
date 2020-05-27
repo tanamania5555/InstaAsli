@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 813,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/90442012_1169573940056999_3122769808252618438_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=Xw8OJm_Ls3EAX-nm39B&oh=0a3825eb582e07aad05c32bbf122cc5e&oe=5EA4B1DA",
+    "edge_liked_by": {
+        "count": 36
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "**From the Ruin to the Taj**\n\u2022\n\u2022\n\u2022\n\u2022\n\u2022\n\u2022\n\u2022\n\u2022\n\u2022\n\u2022\n#Hellofrom #TajMahal #Agra #India #CreateatHome\n#ShotoniPhone @apple \n#StayHome #Covid_19 \u2022\n\u2022\n\u2022\n\u2022\n\u2022\n\u2022\n\u2022\n\u2022\n\u2022\n\u2022\n#MainHunMusafir #StoriesofUP #StreetPhotographyIndia #NatGeoIndia #NGTIndia #IndiaClicks #IndiaPictures #IndianPhotography #CNTGiveItAShot #LonelyPlanetIndia #OutlookTraveller #IncredibleIndia #TravelRealIndia  #CreateExplore #_woi #MangoFolk #PassionPassport #_coi #ShoutoutmeNimit #StoriesofIndia #NustaHaramKhor #MaiBhiSadakChap \u2022\n\u2022\n\u2022\n\u2022\n\u2022\n\u2022\n\u2022\n\u2022\n\u2022\n\u2022\n\u2022\n\u2022\n\u2022\n@natgeoindia @natgeotravellerindia @stories.of.up @streetphotographyindia @wanderers.of.india @cntravellerindia @india.clicks @themangofolk @stories.of.india @travelrealindia @outlooktraveller @incredibleindia @indiapictures @colours.of.india @indian.photography @createexplore @lonelyplanetindia @passionpassport"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 2
+    },
+    "id": "2272741052479764327",
+    "is_video": false,
+    "owner": {
+        "id": "1579900416"
+    },
+    "shortcode": "B-KZfIbgPdn",
+    "taken_at_timestamp": 1585151867,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c177.0.1085.1085a/s640x640/90442012_1169573940056999_3122769808252618438_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=Xw8OJm_Ls3EAX-nm39B&oh=06f16b616f68dfa1dac0e2da0d5dda27&oe=5EA56D22"
+}

@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/84179946_130861155085975_8101160990855594171_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=107&_nc_ohc=eqaQVLHKOf4AX9jQJke&oh=ca6267733b9e7cedd87df5f5e05628e9&oe=5EA3EB1A",
+    "edge_liked_by": {
+        "count": 61
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Apple\u2019s plan to ramp up AirPods production could be delayed due to the coronavirus outbreak. Apple\u2019s three primary AirPods manufacturers have all halted AirPods production.\n\nCurrently, all finished products are being reserved for Apple\u2019s own retail stores and online store. This puts most of the supply constraints on other retailers. On Amazon, for instance, AirPods Pro are completely out of stock.\n\nEven directly from Apple, AirPods Pro are still backordered by over a month.\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\n#iphonese2 #iphonese #ipadpro #5g #applewatch #shotoniphone #airpodspro #shotoniphone11 #shotoniphone11pro #shotoniphone11promax #iphone12 #galaxys11 #galaxynote11 #shotonpixel4 #pixel4 #applewatch6 #madebygoogle #macbookpro #macpro #appleairpods #iphone9 #oneplus8 #huaweip40 #applewatch4 #freeairpods #applewatchbands #applenews #airpods #giveawayiphone #2020iphone"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2238254940404715287",
+    "is_video": false,
+    "owner": {
+        "id": "19562270872"
+    },
+    "shortcode": "B8P4QJvlg8X",
+    "taken_at_timestamp": 1581040803,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/84179946_130861155085975_8101160990855594171_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=107&_nc_ohc=eqaQVLHKOf4AX9jQJke&oh=40f865bd613547f3d47483826d092d76&oe=5EA3617D"
+}

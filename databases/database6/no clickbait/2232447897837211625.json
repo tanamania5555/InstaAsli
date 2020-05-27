@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 640,
+        "width": 640
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/82491714_1030485877316008_6085620597008233746_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=1fwCGhnpd3UAX_Sb9_7&oh=cf52209ca6452241f2fac829bb46b18a&oe=5EA47E3F",
+    "edge_liked_by": {
+        "count": 34
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "The Raviz Kovalam Sights & Culture Winter Package is on till March 31st, 2020. The package will include stay at the Garden Pavilion or Beach View room, buffet breakfast & dinner, half-day sightseeing, daily in house activities for the entire family and complimentary head or foot massage at the Favourite Kerala Ayurveda & Spa.\n\nFor bookings contact: +91 471 305 1234 | 1800 4252 2220\nmail: reservations.kovalam@theraviz.com | reservations@theraviz.com\n\n#Raviz #TheRaviz #RavizKovalam #TheRavizKovalam\n#Kovalam #Kerala #Tourism #KeralaTourism #LuxuryResorts #Resorts #Destinations #TripAdvisor #CondeNastTraveller #TravelandLeisure #LonelyPlanet #WeekendGetaway"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2232447897837211625",
+    "is_video": false,
+    "owner": {
+        "id": "13829535608"
+    },
+    "shortcode": "B77P4j6J4_p",
+    "taken_at_timestamp": 1580348549,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/82491714_1030485877316008_6085620597008233746_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=1fwCGhnpd3UAX_Sb9_7&oh=cf52209ca6452241f2fac829bb46b18a&oe=5EA47E3F"
+}

@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 914,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/91052077_559886401401296_2256495435747617595_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=EFWSnexWTFYAX860GD8&oh=072d3f9c3513678c7dce1608157bb6a6&oe=5EA6CA9E",
+    "edge_liked_by": {
+        "count": 29
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "The\u00a0Bibi Ka Maqbara\u00a0 in\u00a0#aurangabad It bears a striking resemblance to the\u00a0#tajmahal \nMy Aurangabad trip was truly amazing along with festivities of a family wedding the visit to the Bibi ka Maqbara was the icing on the cake .\n\nThe\u00a0Bibi Ka Maqbara\u00a0 was commissioned in 1660 by the\u00a0Mughal emperor\u00a0Aurangzeb\u00a0in the memory of his first and chief wife\u00a0Dilras Banu Begum\u00a0(posthumously known as Rabia-ud-Daurani) and is considered to be a symbol of Aurangzeb's 'conjugal fidelity'.\u00a0It bears a striking resemblance to the\u00a0Taj Mahal, the mausoleum of Aurangzeb's mother,\u00a0Mumtaz Mahal.  #maharashtra  #india  #love #ig #instagram  #photography  #instagood \n#tajmahal #india #agra #tajmahalindia #travel #tajmahalagra #incredibleindia #taj  #travelphotography #tajmahalpictures #travelgram \n#travelblogger  #travelphotography #travelgram #instatravel  #traveltheworld  #photooftheday  #travelblog  #picoftheday  #trip"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 6
+    },
+    "id": "2272747796543614132",
+    "is_video": false,
+    "owner": {
+        "id": "7622347047"
+    },
+    "shortcode": "B-KbBRVCKy0",
+    "taken_at_timestamp": 1585152671,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c81.0.902.902a/s640x640/91052077_559886401401296_2256495435747617595_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=EFWSnexWTFYAX860GD8&oh=ad07d7c4730f5b79d758d5d11ae4a48c&oe=5EA33EF1"
+}

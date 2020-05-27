@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1350,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/89853346_214384336327775_8336812504432284740_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=abKCyl2r7ZAAX-suYcS&oh=60ca3ebc4131cd82f4805e71fa53c604&oe=5EA380D6",
+    "edge_liked_by": {
+        "count": 283
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "View of Taj Mahal from Archway! \u2764\n.\n.\n.\n.\n.\n.\n#tajmahal #india #art #photography #picoftheday #pic #travel #adventure #instagood #sunset #archway"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 18
+    },
+    "id": "2262852261772731980",
+    "is_video": false,
+    "owner": {
+        "id": "5982240480"
+    },
+    "shortcode": "B9nRCSaJyZM",
+    "taken_at_timestamp": 1583973032,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.135.1080.1080a/s640x640/89853346_214384336327775_8336812504432284740_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=abKCyl2r7ZAAX-suYcS&oh=5516ec1bbcee5e1ee3f6e0a3ac12ffac&oe=5EA363DA"
+}

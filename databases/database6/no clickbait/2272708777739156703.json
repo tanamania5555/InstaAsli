@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/90727069_244475956726948_1415276965913356212_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=uQ0S2jAOP7QAX9bjGAv&oh=fbd4176a5e40537ac9338fc52de14b5d&oe=5EA6E1FA",
+    "edge_liked_by": {
+        "count": 129
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Wah Taj (ShotonPhone)\n\n#withgalaxy #photographersofdarbhanga #iamtejasvisingh #wondersoftheworld #sevenwonders #tajmahal #wahtaj #incredibleindia #indianphotography #streetsofup #mobilephotographyindia #shotonphone #samsungsa #samsungusa #samsungindia #lightroompresets #mobilephotographer #travelers #wanderer #explorer #photographers #India #indiantourism #mastershots #_soi #meinbhiphotographer #wanderwithsumeet #photographersofinstagram #nustaharamkhor #shwetamalhotra03"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 5
+    },
+    "id": "2272708777739156703",
+    "is_video": false,
+    "owner": {
+        "id": "208056272"
+    },
+    "shortcode": "B-KSJePDfzf",
+    "taken_at_timestamp": 1585148020,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.0.1440.1440a/s640x640/90727069_244475956726948_1415276965913356212_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=uQ0S2jAOP7QAX9bjGAv&oh=f8ee1fe224d042af38941d8d1ef69b24&oe=5EA72174"
+}

@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 750,
+        "width": 750
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e15/83880018_139668577092689_2527564417047710625_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=105&_nc_ohc=nNkiucI9YgsAX-HP5nf&oh=e3f53c20f198ca5eb501c33d25a61312&oe=5EA67A50",
+    "edge_liked_by": {
+        "count": 58
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Pergola at The Raviz Calicut is a classy al fresco dining space on the 4th floor that is set by the poolside. The big draw here is its live grilling stations and the brilliantly curated menu.\n\n#LuxuryResorts #KeralaTourism #Kerala #LuxuryResort #Raviz #TheRaviz #TravelDestinations #Luxury #GodsOwnCountry #DestinationKerala #Destinations #ResortsinKerala #Travel #Wanderlust #RavizCalicut #Calicut"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2237575881706437988",
+    "is_video": false,
+    "owner": {
+        "id": "2137015239"
+    },
+    "shortcode": "B8Nd2jDF_1k",
+    "taken_at_timestamp": 1580959852,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e15/s640x640/83880018_139668577092689_2527564417047710625_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=105&_nc_ohc=nNkiucI9YgsAX-HP5nf&oh=d6df3b69473b3050ae8860291265cba4&oe=5EA58532"
+}

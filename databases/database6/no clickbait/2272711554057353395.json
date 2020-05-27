@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 642,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/90854488_694029488014254_2266998782828849038_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=0fg8Dko-maUAX_leRQN&oh=cd0e3ebe4979883387059b36c0b966bf&oe=5EA66C89",
+    "edge_liked_by": {
+        "count": 34
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Work of the day...10th day of self-isolation. \n#charcoal #artistsoninstagram #artwork #blacknwhite #artoftheday #vogue #international #indianartist #love #passion #life #tajmahal #monuments #monumentsofindia #wondersoftheworld #landscape"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272711554057353395",
+    "is_video": false,
+    "owner": {
+        "id": "1532871343"
+    },
+    "shortcode": "B-KSx34g7iz",
+    "taken_at_timestamp": 1585148351,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c292.0.856.856a/s640x640/90854488_694029488014254_2266998782828849038_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=0fg8Dko-maUAX_leRQN&oh=d978bcb7b3707b620d26613505c6a414&oe=5EA5F3A2"
+}

@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/87643520_250749969262239_1148218733099031879_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=-X-CKu7POjcAX_FBwG3&oh=5b50e7a1f85d3371cbec5404872f2e06&oe=5EA5258D",
+    "edge_liked_by": {
+        "count": 11
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "#kovalampalace #raviz #luxury #tamarindglobal  #oceansuites"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2254177277692455824",
+    "is_video": false,
+    "owner": {
+        "id": "1496339855"
+    },
+    "shortcode": "B9Ickp5nauQ",
+    "taken_at_timestamp": 1582938893,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/87643520_250749969262239_1148218733099031879_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=-X-CKu7POjcAX_FBwG3&oh=d5bc36ae749b3e6f2edb86eccf60f79a&oe=5EA5806A"
+}

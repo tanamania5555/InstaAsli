@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1350,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/90672640_652884812221184_2967983954426852967_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=OPwBDjxVO_oAX94KEqa&oh=5cc8751adf7a5019270c938ac35dda84&oe=5EA70B7D",
+    "edge_liked_by": {
+        "count": 0
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "\u2022\n\u2022\n\u2022\n\u2022\n\u2022\n#surfers #surf #surfing #surfer #waves #surfphotography #surflife #surfinglife #surfboard #beach #surfgirl #surftrip #ocean #surfboards #surfstyle #surfergirl #surfline #surfphotos #surfingphotography #surfschool #wave #surfersparadise #photography #surftravel #instasurf #aloha #surfculture #beachlife #longboard"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272817180517059357",
+    "is_video": false,
+    "owner": {
+        "id": "30019276741"
+    },
+    "shortcode": "B-Kqy8MH8sd",
+    "taken_at_timestamp": 1585160943,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.180.1440.1440a/s640x640/90672640_652884812221184_2967983954426852967_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=OPwBDjxVO_oAX94KEqa&oh=fe28fa52a1b5f1207ff6dc37f696300c&oe=5EA47FF0"
+}

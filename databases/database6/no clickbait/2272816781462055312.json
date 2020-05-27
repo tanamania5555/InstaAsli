@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/90734631_590360194888661_6590435193529837488_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=105&_nc_ohc=eiz4zdH5NUAAX84jKFr&oh=72f58172c89aaed3756cbeaa8cfa88ca&oe=5EA34DBE",
+    "edge_liked_by": {
+        "count": 11
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Beach in Denmark #beach #in #denmark #beachindenmark #denmark\ud83c\udde9\ud83c\uddf0 #photography #photo #sky #blue #orange #water #iphonecamera #applecamera #iphone #camera #smartphone #smartphonecamera #2020 #2020march #25march #25march2020 #evening #sunset #sun #wednesday #bluesky #bluesky\ud83d\udc99 #teksen #teksenphoto #beachdenmark"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272816781462055312",
+    "is_video": false,
+    "owner": {
+        "id": "32220052674"
+    },
+    "shortcode": "B-KqtIil6mQ",
+    "taken_at_timestamp": 1585160895,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/90734631_590360194888661_6590435193529837488_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=105&_nc_ohc=eiz4zdH5NUAAX84jKFr&oh=f1aad54fda56f973f25d733cc2b45fe0&oe=5EA6F58B"
+}

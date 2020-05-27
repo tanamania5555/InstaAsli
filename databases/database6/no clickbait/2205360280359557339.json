@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/78843907_104892677607428_1313597597467532052_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=oNExUk9edMwAX8n-gtk&oh=76d6955978ac13e083bbc340675720d1&oe=5EA4CCD1",
+    "edge_liked_by": {
+        "count": 71
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Garlic chilli squid from the @chef_pillai kitchen. The squid is perfectly cooked, neither undercooked nor rubbery it couldn't have been any more perfect.. Squid is deep fried in a batter and then saut\u00e9ed in schezwan sauce, garlic and red chilly \n#raviz #theraviz #theravizkollam #chefpillai #ravizashtamudi #kerala #indochinese #keralafood #indochinesefood #perfectcooking"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 1
+    },
+    "id": "2205360280359557339",
+    "is_video": false,
+    "owner": {
+        "id": "10560955092"
+    },
+    "shortcode": "B6bA32Qlljb",
+    "taken_at_timestamp": 1577119453,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/78843907_104892677607428_1313597597467532052_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=oNExUk9edMwAX8n-gtk&oh=9398b19fa4d73746a4c3370fa0423baf&oe=5EA3F2E8"
+}

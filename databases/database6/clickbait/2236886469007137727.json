@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/82880752_176856166961091_7019762089954248235_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=052W85cS0SUAX9yADqC&oh=1a4b10b6d22c51e71afb4e85d8fb2c8d&oe=5EA60701",
+    "edge_liked_by": {
+        "count": 14
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Kaih grab hampa punya iphone dengan sis! Bulan ni ja tau dpt free airpod!\n\nDan ada lagi 7 freegifts hampa order kaihh!\n\n#freeairpods #jualiphonemurah #jualmahalmakmarah"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2236886469007137727",
+    "is_video": false,
+    "owner": {
+        "id": "5726563090"
+    },
+    "shortcode": "B8LBGRcDFu_",
+    "taken_at_timestamp": 1580877668,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/82880752_176856166961091_7019762089954248235_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=052W85cS0SUAX9yADqC&oh=ae7568de40125dd13dbf42d5724fa3b8&oe=5EA3FFE6"
+}

@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/82932425_1312615272243485_3865265711163881055_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=105&_nc_ohc=FmGwFuyl-tcAX-yCYlH&oh=5d60047c60e27ccfd221e0867c66b35a&oe=5EA66042",
+    "edge_liked_by": {
+        "count": 47
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "As one of Cond\u00e9 Nast Traveller\u2019s 11 stunning wedding destinations of South India, The Raviz Kovalam is a heavenly choice indeed for memorable wedding celebrations. That one day where you and your beloved can feel like royalty, allow us to make it grand!\n\nFor bookings contact: +91 471 305 1234 | 1800 4252 2220\nmail: reservations.kovalam@theraviz.com | reservations@theraviz.com\n\n#Raviz #TheRaviz #RavizKovalam #TheRavizKovalam\n#Kovalam #Kerala #Tourism #KeralaTourism #LuxuryResorts #Resorts #Destinations #TripAdvisor #CondeNastTraveller #TravelandLeisure #LonelyPlanet #WeekendGetaway"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 1
+    },
+    "id": "2233241331783067059",
+    "is_video": false,
+    "owner": {
+        "id": "13829535608"
+    },
+    "shortcode": "B7-ESi2pmWz",
+    "taken_at_timestamp": 1580443134,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/82932425_1312615272243485_3865265711163881055_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=105&_nc_ohc=FmGwFuyl-tcAX-yCYlH&oh=5f74da72ab2b14a2f2c5a0ad80bc786a&oe=5EA39FFC"
+}

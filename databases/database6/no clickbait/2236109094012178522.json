@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/82862585_485756615680652_8921676459167849266_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=Z2leRnoxUYoAX-6N9mH&oh=c736e72e65540656b234edccf4be55a5&oe=5EA3DE74",
+    "edge_liked_by": {
+        "count": 67
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Raviz\u2019s culinary brand Keraleeyam is a Kerala themed restaurant that is conceptualized as the go-to destination for authentic Malabari cuisine.\n.\n.\n#LuxuryResorts #KeralaTourism #Kerala #LuxuryResort #Raviz #TheRaviz #TravelDestinations #Luxury #GodsOwnCountry #DestinationKerala #Destinations #ResortsinKerala #Travel #Wanderlust #RavizKadavu #Kadavu"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2236109094012178522",
+    "is_video": false,
+    "owner": {
+        "id": "2137015239"
+    },
+    "shortcode": "B8IQV-jndBa",
+    "taken_at_timestamp": 1580784998,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/82862585_485756615680652_8921676459167849266_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=Z2leRnoxUYoAX-6N9mH&oh=9353bff8b8dc54bc5b05835e1dca0155&oe=5EA39A17"
+}

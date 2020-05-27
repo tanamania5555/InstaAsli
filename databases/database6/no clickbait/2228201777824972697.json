@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/82971925_122058339314251_8630919592698047772_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=107&_nc_ohc=Gn0u7ADPeXkAX_urp_M&oh=df8833f080a6050e3fb283f06e2ed276&oe=5EA63503",
+    "edge_liked_by": {
+        "count": 20
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "#chandilier #raviz #kollam #kerala #furniture #wall #roof #bulb #lighting #instagood #instadaily  #photooftheday #wallpaper #nikonphotography"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2228201777824972697",
+    "is_video": false,
+    "owner": {
+        "id": "26106809625"
+    },
+    "shortcode": "B7sKbYfJr-Z",
+    "taken_at_timestamp": 1579842372,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/82971925_122058339314251_8630919592698047772_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=107&_nc_ohc=Gn0u7ADPeXkAX_urp_M&oh=3c05c38009d824a7d59ddc62ea05e7c6&oe=5EA471E8"
+}

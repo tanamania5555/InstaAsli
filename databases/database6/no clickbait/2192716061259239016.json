@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 750,
+        "width": 750
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/75239250_193353718368590_824912138133249628_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=7tdyXuQl85YAX88XxKm&oh=ffbb248faf5d10dc898322032beb7843&oe=5EA41172",
+    "edge_liked_by": {
+        "count": 39
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Time to mingle and munch on a fantabulous Ratatouille Chilli Cheese Toast or Carom Seed Scented Quail Eggs while sipping a well-paired cocktail. Step into The Bar at The Raviz Kovalam for multiple servings of perfect moods set by the sounds of the ocean.\n\nFor bookings contact: 0471 \u2013 3051234, 1800-4252-2220\nmail: reservations.kovalam@theraviz.com, reservations@theraviz.com\n\n#Raviz #TheRaviz #RavizKovalam #TheRavizKovalam #Kovalam #Kerala #Tourism #KeralaTourism #LuxuryResorts #Resorts  #Destinations #TripAdvisor #CondeNastTraveller #TravelandLeisure #LonelyPlanet #WeekendGetaway  #Mocktails #Cocktails #Bar"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2192716061259239016",
+    "is_video": false,
+    "owner": {
+        "id": "13829535608"
+    },
+    "shortcode": "B5uF6Pkpo5o",
+    "taken_at_timestamp": 1575612145,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/75239250_193353718368590_824912138133249628_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=7tdyXuQl85YAX88XxKm&oh=aa28b8f87e09a0aba1f860ecf7085b6c&oe=5EA58483"
+}

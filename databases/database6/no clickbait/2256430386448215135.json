@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 750,
+        "width": 750
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/88154307_507704893226031_8904676145317279616_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=1O0qTlL4h6YAX9YW1Se&oh=4deea14416b097ff8108b1848110415f&oe=5EA52A52",
+    "edge_liked_by": {
+        "count": 34
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "A staycation at the Garden View rooms at The Raviz Kovalam will be as private as private can get! These set of rooms open out to well-manicured lawns and is entirely secluded from the main block of the hotel. \nFor bookings contact: +91 471 305 1234 | 1800 4252 2220\nmail: reservations.kovalam@theraviz.com | reservations@theraviz.com\n\n#Raviz #TheRaviz #RavizKovalam #TheRavizKovalam\n#Kovalam #Kerala #Tourism #KeralaTourism #LuxuryResorts #Resorts #Destinations #TripAdvisor #CondeNastTraveller #TravelandLeisure #LonelyPlanet #WeekendGetaway"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2256430386448215135",
+    "is_video": false,
+    "owner": {
+        "id": "13829535608"
+    },
+    "shortcode": "B9Qc3s8pKxf",
+    "taken_at_timestamp": 1583207485,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/88154307_507704893226031_8904676145317279616_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=1O0qTlL4h6YAX9YW1Se&oh=0f71c5e9a61689c35eb2198be7720486&oe=5EA4AAB5"
+}

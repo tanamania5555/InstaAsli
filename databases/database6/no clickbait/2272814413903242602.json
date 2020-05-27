@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/90673560_216746806080444_6192339447708551499_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=-XvouyA07qMAX8TOpnL&oh=b9718af45b5e6648a3479b5bf0d64dc4&oe=5EA46A09",
+    "edge_liked_by": {
+        "count": 4
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "An unusual sight, 2020, acrylic on canvas, 30 x 40.\u201d #art #artcollector #artmuseum #sala #torreypine #tree #expressionism #blue #abstractart #abstractexpressionism #abstractart #landscape #tree #sky #beach #park #virtualexhibit #artexhibit #ezrabejarart #ezrabejarartist #kunst #modernekunst"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272814413903242602",
+    "is_video": false,
+    "owner": {
+        "id": "2212594189"
+    },
+    "shortcode": "B-KqKrlFyVq",
+    "taken_at_timestamp": 1585160613,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/90673560_216746806080444_6192339447708551499_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=-XvouyA07qMAX8TOpnL&oh=71d115d4a4e5f0b60ca159a42c1858a4&oe=5EA63A40"
+}

@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 471,
+        "width": 750
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/72439687_1381415622020370_1543361632453120188_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=trGqpQILIU8AX9c9L2v&oh=28c51906aac08ac39c2abfdb3fa9cc31&oe=5EA5CC2E",
+    "edge_liked_by": {
+        "count": 140
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "The traditional vegetarian feast \ud83d\ude0d\n.\n.\n.\nEnjoy Sadya at The Raviz Calicut \ud83c\udf71\n.\n.\n.\n#vegetarian #sadya #traditionalfood #keralagram #keralatourism #keralafood #kerala #feast #feasting #goodvibes #foodporn #foodies #lunchbox #lunchcombo #chefsofinstagram #chef #raviz #calicut"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 2
+    },
+    "id": "2172462180079691102",
+    "is_video": false,
+    "owner": {
+        "id": "2137015239"
+    },
+    "shortcode": "B4mIteznuVe",
+    "taken_at_timestamp": 1573197694,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/c133.0.453.453a/72439687_1381415622020370_1543361632453120188_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=trGqpQILIU8AX9c9L2v&oh=bb56cb249557d2f0abc330f9bd755bb5&oe=5EA55A6D"
+}

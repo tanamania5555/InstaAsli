@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 800,
+        "width": 640
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/90504541_228086711897751_8075629105924921234_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=8IXrL_8wpHYAX-2KtZ5&oh=2c3482e02900ddc3e9ed32719af0f55c&oe=5E7DB8A3",
+    "edge_liked_by": {
+        "count": 60
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Tannane gaali,, curfew time \ud83d\ude02\ud83d\ude02\n.@m_cool_star_\n.\n.\n.\n.\n.\n.\n.\n#tiktok #karnataka #kannadiga #kannadaactress #kannadasongs #kannadigaru #kannadabelasi #koppal #koppala #koppal_trolls_official #tik_tok #peace #fortnite #foryou #kannadamovies #kannadamovie #tajmahal #tajmahalmovie"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 8
+    },
+    "id": "2272766925013237005",
+    "is_video": false,
+    "owner": {
+        "id": "4059558732"
+    },
+    "shortcode": "B-KfXoGq70N",
+    "taken_at_timestamp": 1585154952,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/c0.72.576.576a/90504541_228086711897751_8075629105924921234_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=8IXrL_8wpHYAX-2KtZ5&oh=3bacfd73d7daea601cef924ae8c15b51&oe=5E7E3DED"
+}

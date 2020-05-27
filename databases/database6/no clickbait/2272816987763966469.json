@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 855,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/90756010_199859204764531_1317787895295127137_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=107&_nc_ohc=_eQ0V7UlvvcAX_WnJZu&oh=c250dfa51f1f4555098b93e4d3e5a588&oe=5EA6269B",
+    "edge_liked_by": {
+        "count": 16
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "My Choco Teddy Bear\ud83d\ude3b\ud83e\uddff\n#sea\n#beach \n#sevimlidostlar"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 3
+    },
+    "id": "2272816987763966469",
+    "is_video": false,
+    "owner": {
+        "id": "7707921694"
+    },
+    "shortcode": "B-KqwIrJQIF",
+    "taken_at_timestamp": 1585160920,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c149.0.1141.1141a/s640x640/90756010_199859204764531_1317787895295127137_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=107&_nc_ohc=_eQ0V7UlvvcAX_WnJZu&oh=a35f76f1696bd6118b6ac9de3d6437a7&oe=5EA4E9CF"
+}

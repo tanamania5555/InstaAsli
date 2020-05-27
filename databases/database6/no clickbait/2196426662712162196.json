@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1127,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/72287071_996820244044512_3804993903405787678_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=nHSGVTWCVvsAX8Mgvg1&oh=62d603900b9f8487017b647c36ee22e2&oe=5EA62971",
+    "edge_liked_by": {
+        "count": 9088
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Hit man enjoying \u201cRoyal Travancore Maharaja Thali\u201d @theraviz Kovalam! \n@rohitsharma45"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 56
+    },
+    "id": "2196426662712162196",
+    "is_video": false,
+    "owner": {
+        "id": "1927832227"
+    },
+    "shortcode": "B57RmmeJ7eU",
+    "taken_at_timestamp": 1576054483,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.31.1440.1440a/s640x640/72287071_996820244044512_3804993903405787678_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=nHSGVTWCVvsAX8Mgvg1&oh=11dd571fa312420f98ae77973379e71a&oe=5EA5D617"
+}

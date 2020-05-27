@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 694,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/e35/66440139_112533329889558_392110391793619963_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=dKrzgz3lGKgAX-KLbzM&oh=fd47059f1f46a33501ea178603a95b66&oe=5EA635CB",
+    "edge_liked_by": {
+        "count": 24
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Water court for renovation of Mr Ravi Pillai house at kowdiar #art #architecture #interiors #trivandrum #kerala #instagood #instadesign #art #interiordesign #picoftheday #gold #ceilingdesign #ceiling #brass #nude #pastel #pastelpink #jewellerystore #classic #tropical #tropicalvibes #ravipillai #trivandrumhome #raviz #ravizkollam #amreenkaleel"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2096582798328888793",
+    "is_video": false,
+    "owner": {
+        "id": "16239577637"
+    },
+    "shortcode": "B0YjvJoln3Z",
+    "taken_at_timestamp": 1564152167,
+    "thumbnail_src": "https://instagram.fdel3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c193.0.694.694a/s640x640/66440139_112533329889558_392110391793619963_n.jpg?_nc_ht=instagram.fdel3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=dKrzgz3lGKgAX-KLbzM&oh=d962f5975adea41e3acb985862eaa46c&oe=5EA6CB78"
+}

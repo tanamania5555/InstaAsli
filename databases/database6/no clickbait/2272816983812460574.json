@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 692,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/e35/90841684_877541349337075_6668727005192003767_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=107&_nc_ohc=6q7cXGXx6QcAX_a17Dl&oh=81fb69817ab9b42674531298627584f3&oe=5EA3443C",
+    "edge_liked_by": {
+        "count": 6
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Je peins une jolie plage pour oublier le grand confinement ! #cov\u0131d19 #painting #art #beach"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2272816983812460574",
+    "is_video": false,
+    "owner": {
+        "id": "10218471511"
+    },
+    "shortcode": "B-KqwE_ndAe",
+    "taken_at_timestamp": 1585160919,
+    "thumbnail_src": "https://instagram.fdel3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c194.0.692.692a/s640x640/90841684_877541349337075_6668727005192003767_n.jpg?_nc_ht=instagram.fdel3-2.fna.fbcdn.net&_nc_cat=107&_nc_ohc=6q7cXGXx6QcAX_a17Dl&oh=a59472206a11c799c715701c7e292f46&oe=5EA54E13"
+}
