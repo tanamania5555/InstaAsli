@@ -32,164 +32,60 @@ The app runs Python code on the backend. This code takes the link of the post as
 The Python code uses the scikit-learn library’s classifiers that are already trained and stored in a pickle file (obtained using the pickle library of Python). It uses the libraries InstagramAPI (not official API) [Link] and instalooter [Link] to scrape information about the input post from its link and also the information about the user that posted that post. After that, the text of the image posted in the post is extracted using the library pyinstaller [Link]. The text on the image and the text in the caption are processed afterwards. Stopwords are removed, emojis are removed, links are removed, non-ASCII characters are removed and finally the punctuation is removed. After that, the classifiers are run and the final clickbait percentage is returned.
 ### Analysis & Performance
 We began our analysis with the pre-existing and manually collected databases that we had.
+
 #### Database 1[Link]
 This database had the following statistics.
 
-Train data:
-Count of 0s: 3967  =>  54.57%
-Count of 1s: 3302  =>  45.43%
-Total: 7269
-Test data:
-Count of 0s: 293  =>  58.60%
-Count of 1s: 207  =>  41.40%
-Total: 500
-Total data:
-Count of 0s: 4260  =>  54.83%
-Count of 1s: 3509  =>  45.17%
-Total: 7769
-(0 ⇒ Not a Clickbait Post, 1 ⇒ Clickbait Post)
+| Train data:                   | Test data:                   | Total data:                   |
+| ----------------------------- | ---------------------------- | ----------------------------- |
+| Count of 0s: 3967  =>  54.57% | Count of 0s: 293  =>  58.60% | Count of 0s: 4260  =>  54.83% |
+| Count of 1s: 3302  =>  45.43% | Count of 1s: 207  =>  41.40% | Count of 1s: 3509  =>  45.17% |
+| Total: 7269                   | Total: 500                   | Total: 7769                   |
+
+(0 ⇒ Not a Clickbait Post, 1 ⇒ Clickbait Post) <br>
 
 We trained an ensemble of classifiers and chose the best ones as follows:
 
-Classifier Type
-Train Accuracy
-Train F1 Score
-Test Accuracy
-Test F1 Score
-RandomForestClassifier
-0.993
-0.992
-0.838
-0.816
-BernoulliNB
-0.894
-0.892
-0.748
-0.754
-DecisionTreeClassifier
-0.743
-0.729
-0.740
-0.715
-AdaBoostClassifier
-0.812
-0.793
-0.772
-0.741
+| Classifier Type        | Train Accuracy | Train F1 Score | Test Accuracy | Test F1 Score |
+| ---------------------- | -------------- | -------------- | ------------- | ------------- |
+| RandomForestClassifier | 0.993          | 0.992          | 0.838         | 0.816         |
+| BernoulliNB            | 0.894          | 0.892          | 0.748         | 0.754         |
+| DecisionTreeClassifier | 0.743          | 0.729          | 0.740         | 0.715         |
+| AdaBoostClassifier     | 0.812          | 0.793          | 0.772         | 0.741         |
 
 The confusion matrices of the corresponding classifiers and their ROC curves are as follows:
-
-
-
-
-
-
-
 
 #### Database 2 [Link]
 This database had the following statistics.
 
-Train data:
-Count of 0s: 288  =>  50.00%
-Count of 1s: 288  =>  50.00%
-Total: 576
-Test data:
-Count of 0s: 60  =>  50.00%
-Count of 1s: 60  =>  50.00%
-Total: 120
-Total data:
-Count of 0s: 348  =>  50.00%
-Count of 1s: 348  =>  50.00%
-Total: 696
+| Train data:                  | Test data:                  | Total data:                  |
+| ---------------------------- | --------------------------- | ---------------------------- |
+| Count of 0s: 288  =>  50.00% | Count of 0s: 60  =>  50.00% | Count of 0s: 348  =>  50.00% |
+| Count of 1s: 288  =>  50.00% | Count of 1s: 60  =>  50.00% | Count of 1s: 348  =>  50.00% |
+| Total: 576                   | Total: 120                  | Total: 696                   |
+
 (0 ⇒ Not a Clickbait Posting User, 1 ⇒ Clickbait Posting User)
 
 We trained an ensemble of classifiers and chose the best ones as follows:
 
-Classifier Type
-Train Accuracy
-Train F1 Score
-Test Accuracy
-Test F1 Score
-KNeighborsClassifier
-0.994
-0.941
-0.850
-0.833
-KNeighborsClassifier
-0.943
-0.943
-0.858
-0.852
-RandomForestClassifier
-0.990
-0.989
-0.917
-0.912
-RandomForestClassifier
-1.000
-1.000
-0.993
-0.933
-MLPClassifier
-0.938
-0.939
-0.908
-0.909
-LogisticRegression
-0.915
-0.915
-0.908
-0.912
-LogisticRegression
-0.915
-0.915
-0.908
-0.912
-BernoulliNB
-0.885
-0.883
-0.883
-0.881
-ComplementNB
-0.559
-0.678
-0.525
-0.663
-GaussianNB
-0.691
-0.759
-0.617
-0.701
-MultinomialNB
-0.559
-0.678
-0.525
-0.663
-SVC
-0.514
-0.673
-0.517
-0.674
-SVC
-0..524
-0.678
-0525
-0.674
-SVC
-0.924
-0.921
-0.892
-0.893
-DecisionTreeClassifier
-0.960
-0.960
-0.867
-0.857
-AdaBoostClassifier
-0.964
-0.963
-0.900
-0.905
+| Classifier Type        | Train Accuracy | Train F1 Score | Test Accuracy | Test F1 Score |
+| ---------------------- | -------------- | -------------- | ------------- | ------------- |
+| KNeighborsClassifier   | 0.994          | 0.941          | 0.850         | 0.833         |
+| KNeighborsClassifier   | 0.943          | 0.943          | 0.858         | 0.852         |
+| RandomForestClassifier | 0.990          | 0.989          | 0.917         | 0.912         |
+| RandomForestClassifier | 1.000          | 1.000          | 0.993         | 0.933         |
+| MLPClassifier          | 0.938          | 0.939          | 0.908         | 0.909         |
+| LogisticRegression     | 0.915          | 0.915          | 0.908         | 0.912         |
+| LogisticRegression     | 0.915          | 0.915          | 0.908         | 0.912         |
+| BernoulliNB            | 0.885          | 0.883          | 0.883         | 0.881         |
+| ComplementNB           | 0.559          | 0.678          | 0.525         | 0.663         |
+| GaussianNB             | 0.691          | 0.759          | 0.617         | 0.701         |
+| MultinomialNB          | 0.559          | 0.678          | 0.525         | 0.663         |
+| SVC                    | 0.514          | 0.673          | 0.517         | 0.674         |
+| SVC                    | 0.524          | 0.678          | 0.525         | 0.674         |
+| SVC                    | 0.924          | 0.921          | 0.892         | 0.893         |
+| DecisionTreeClassifier | 0.960          | 0.960          | 0.867         | 0.857         |
+| AdaBoostClassifier     | 0.964          | 0.963          | 0.900         | 0.905         |
 
 The ROC curves of the corresponding classifiers are as follows:
 
@@ -197,40 +93,24 @@ The ROC curves of the corresponding classifiers are as follows:
 #### Database 3 (Manually collected)
 We manually collected 1842 posts consisting of 784 (42.5%) clickbait posts and 1058 (57.5%) non-clickbait posts. We then trained an ensemble of classifiers on this database and chose the best ones as follows: (Used the whole database as training data)
 
-Classifier Type
-Training Accuracy
-Training F1 Score
-RandomForestClassifier
-0.999
-0.999
-RandomForestClassifier
-1.000
-1.000
-BernoulliNB
-0.979
-0.974
-DecisionTreeClassifier
-0.987
-0.984
-AdaBoostClassifier
-1.000
-1.000
+| Classifier Type        | Training Accuracy | Training F1 Score |
+| ---------------------- | ----------------- | ----------------- |
+| RandomForestClassifier | 0.999             | 0.999             |
+| RandomForestClassifier | 1.000             | 1.000             |
+| BernoulliNB            | 0.979             | 0.974             |
+| DecisionTreeClassifier | 0.987             | 0.984             |
+| AdaBoostClassifier     | 1.000             | 1.000             |
 
 The confusion matrices of the corresponding classifiers and their ROC curves are as follows:
-
-
 
 #### Actual Performance Analysis
 We performed an analysis of how the app actually performs using links of posts and users. We collected clickbait and non-clickbait posts on Instagram using an online tool called Phantom
  Buster [Link]. This tool also outputs the usernames, so we used those to analyse InstaAsli’s performance on classifying users who tend to post more clickbait. Using this tool we collected and ran the app on:
 
-869 clickbait posts on Instagram and got an accuracy of 69%.
-
-508 non-clickbait posts and got an accuracy of 66.3%.
-
-159 clickbait user profiles (extracted from the clickbait posts) and got an accuracy of 92.5%.
-
-194 non-clickbait user profiles (extracted from the non-clickbait posts) and got an accuracy of 71.6%.
+[1^] 869 clickbait posts on Instagram and got an accuracy of 69%.
+[2^] 508 non-clickbait posts and got an accuracy of 66.3%.
+[3^] 159 clickbait user profiles (extracted from the clickbait posts) and got an accuracy of 92.5%.
+[4^] 194 non-clickbait user profiles (extracted from the non-clickbait posts) and got an accuracy of 71.6%.
 
 ### Future Plans for Improvement
 We plan to increase the accuracy of the classifiers even more and collect even more posts to make our self-collected database bigger and train our classifiers on them to make them even more accurate. This will lead the classifiers to work more accurately on a given post.
