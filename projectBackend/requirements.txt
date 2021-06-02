@@ -19,6 +19,6 @@ requests-toolbelt==0.7.0
 scikit-learn==0.22.1
 scipy==1.4.1
 tqdm==4.11.2
-urllib3==1.25.8
+urllib3==1.26.5
 whitenoise==5.0.1
 gunicorn==20.0.4
