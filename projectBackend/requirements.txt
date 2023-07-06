@@ -17,7 +17,7 @@ pytesseract==0.3.3
 requests==2.23.0
 requests-toolbelt==0.7.0
 scikit-learn==0.22.1
-scipy==1.4.1
+scipy==1.10.0
 tqdm==4.11.2
 urllib3==1.26.5
 whitenoise==5.0.1
