@@ -3,7 +3,7 @@ Django==3.1.14
 django-filter==2.4.0
 djangorestframework==3.11.2
 emoji==0.5.4
-idna==2.9
+idna==3.7
 imageio==2.1.2
 InstagramAPI==1.0.2
 instalooter==2.4.2
