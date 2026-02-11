@@ -12,7 +12,7 @@ moviepy==0.2.3.2
 nltk==3.9
 numpy==1.22.0
 pandas==1.0.3
-Pillow==10.3.0
+Pillow==12.1.1
 pytesseract==0.3.3
 requests==2.32.4
 requests-toolbelt==0.7.0
